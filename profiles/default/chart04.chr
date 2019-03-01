@@ -2,7 +2,7 @@
 id=131953369075155307
 symbol=XAUUSD
 period=60
-leftpos=2058
+leftpos=2043
 digits=2
 scale=8
 graph=1
@@ -23,7 +23,7 @@ window_left=156
 window_top=156
 window_right=1051
 window_bottom=545
-window_type=1
+window_type=3
 background_color=16119285
 foreground_color=0
 barup_color=0
@@ -34,7 +34,7 @@ chartline_color=0
 volumes_color=32768
 grid_color=12632256
 askline_color=17919
-stops_color=3937500
+stops_color=4294967295
 
 <window>
 height=129
@@ -70,9 +70,9 @@ selectable=1
 hidden=0
 zorder=0
 time_0=1550790000
-value_0=1321.229306
-time_1=1551373200
-value_1=1332.165553
+value_0=1321.060000
+time_1=1551283200
+value_1=1332.567290
 ray=0
 </object>
 </indicator>

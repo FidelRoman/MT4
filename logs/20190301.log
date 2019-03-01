@@ -74,3 +74,19 @@
 0	11:25:16.334	'1061950': previous successful authorization performed from 190.216.168.14
 0	11:25:17.934	'1061950': ping to current access point NY DC2 is 120.95 ms
 0	11:25:30.816	MetaTrader build 1170 stopped
+0	11:49:13.338	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:49:13.338	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1157 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	11:49:13.338	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	11:49:15.444	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 120.95 ms)
+0	11:49:16.985	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 120.95 ms)
+0	11:49:17.335	'1061950': previous successful authorization performed from 190.216.168.98
+2	11:49:22.555	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+2	11:49:24.045	Custom indicator Heiken Ashi XAUUSD,H1: removed
+0	11:49:29.468	MetaTrader build 1170 stopped
+0	11:55:14.923	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:55:14.923	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1197 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	11:55:14.923	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	11:55:16.964	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 120.95 ms)
+0	11:55:18.424	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 120.95 ms)
+0	11:55:18.824	'1061950': previous successful authorization performed from 34.209.152.47
+0	11:55:23.472	MetaTrader build 1170 stopped
