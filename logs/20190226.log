@@ -1,0 +1,110 @@
+0	08:00:38.933	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	08:00:38.933	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2401 / 8072 Mb, Disk: 385 / 442 Gb, GMT-5
+0	08:00:38.933	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+2	08:00:40.593	Custom indicator Heiken Ashi USDJPY,Daily: loaded successfully
+2	08:00:40.655	Custom indicator Heiken Ashi EURUSD,Daily: loaded successfully
+2	08:00:40.702	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+0	08:00:41.546	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 121.17 ms)
+0	08:00:43.063	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 121.17 ms)
+0	08:00:43.407	'1061950': previous successful authorization performed from 190.216.168.14
+0	08:00:44.735	'1061950': auto connecting to a better access point NY DC (ping is 116.32 ms)
+0	08:00:45.204	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 116.32 ms)
+0	08:00:46.248	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 116.32 ms)
+0	08:00:46.587	'1061950': previous successful authorization performed from 190.216.168.98
+2	08:00:55.677	Custom indicator Heiken Ashi XAUUSD,H4: removed
+2	08:01:39.672	Custom indicator Heiken Ashi EURUSD,Daily: removed
+2	08:01:43.487	Custom indicator Heiken Ashi USDJPY,Daily: removed
+0	08:02:00.141	'1061950': order buy market 0.01 USDJPY sl: 0.000 tp: 0.000
+0	08:02:00.329	'1061950': order was opened : #137270211 buy 0.01 USDJPY at 110.880 sl: 0.000 tp: 0.000
+0	08:02:06.200	'1061950': modify order #137270211 buy 0.01 USDJPY at 110.880 sl: 0.000 tp: 0.000 -> sl: 110.567 tp: 111.767
+0	08:02:06.387	'1061950': order #137270211 buy 0.01 USDJPY at 110.880 was modified -> sl: 110.567 tp: 111.767
+0	08:02:29.827	MetaTrader build 1170 stopped
+0	08:38:26.916	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	08:38:26.916	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2745 / 8072 Mb, Disk: 385 / 442 Gb, GMT-5
+0	08:38:26.916	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	08:38:30.229	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 116.32 ms)
+0	08:38:31.469	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 116.32 ms)
+0	08:38:31.832	'1061950': previous successful authorization performed from 54.202.67.115
+0	08:41:39.135	MetaTrader build 1170 stopped
+0	08:58:27.901	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	08:58:27.901	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2087 / 8072 Mb, Disk: 385 / 442 Gb, GMT-5
+0	08:58:27.901	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	08:58:29.836	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 116.32 ms)
+0	08:58:31.060	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 116.32 ms)
+0	08:58:31.423	'1061950': previous successful authorization performed from 190.216.168.14
+0	08:58:40.739	'1061950': order buy market 0.01 USDJPY sl: 0.000 tp: 0.000
+0	08:58:40.977	'1061950': order was opened : #137275069 buy 0.01 USDJPY at 110.723 sl: 0.000 tp: 0.000
+0	08:58:49.008	'1061950': modify order #137275069 buy 0.01 USDJPY at 110.723 sl: 0.000 tp: 0.000 -> sl: 110.418 tp: 111.622
+0	08:58:49.192	'1061950': order #137275069 buy 0.01 USDJPY at 110.723 was modified -> sl: 110.418 tp: 111.622
+0	08:59:30.013	MetaTrader build 1170 stopped
+0	10:50:55.150	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	10:50:55.150	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2061 / 8072 Mb, Disk: 384 / 442 Gb, GMT-5
+0	10:50:55.150	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	10:50:58.090	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 116.32 ms)
+0	10:50:59.310	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 116.32 ms)
+0	10:50:59.672	'1061950': previous successful authorization performed from 190.216.168.14
+0	10:51:01.200	'1061950': ping to current access point NY DC is 117.50 ms
+0	10:52:09.110	MetaTrader build 1170 stopped
+0	10:52:12.569	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	10:52:12.569	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1888 / 8072 Mb, Disk: 384 / 442 Gb, GMT-5
+0	10:52:12.569	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	10:52:14.699	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 117.50 ms)
+0	10:52:16.169	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 117.50 ms)
+0	10:52:16.559	'1061950': previous successful authorization performed from 190.216.168.98
+0	10:52:32.488	MetaTrader build 1170 stopped
+0	11:59:43.054	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:59:43.054	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1510 / 8072 Mb, Disk: 383 / 442 Gb, GMT-5
+0	11:59:43.054	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	11:59:45.947	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 117.50 ms)
+0	11:59:47.485	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 117.50 ms)
+0	11:59:47.814	'1061950': previous successful authorization performed from 190.216.168.14
+0	11:59:49.724	'1061950': auto connecting to a better access point NY DC2 (ping is 119.81 ms)
+0	11:59:50.244	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 119.81 ms)
+0	11:59:51.482	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 119.81 ms)
+0	11:59:51.847	'1061950': previous successful authorization performed from 190.216.168.98
+0	12:00:16.385	MetaTrader build 1170 stopped
+0	12:03:18.637	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:03:18.637	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1274 / 8072 Mb, Disk: 383 / 442 Gb, GMT-5
+0	12:03:18.637	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	12:03:20.797	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 119.81 ms)
+0	12:03:22.317	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 119.81 ms)
+0	12:03:22.910	'1061950': previous successful authorization performed from 190.216.168.98
+0	12:04:48.035	MetaTrader build 1170 stopped
+0	12:43:05.986	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:43:05.986	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 456 / 8072 Mb, Disk: 383 / 442 Gb, GMT-5
+0	12:43:05.986	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	12:43:09.329	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 119.81 ms)
+0	12:43:11.145	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 119.81 ms)
+0	12:43:11.585	'1061950': previous successful authorization performed from 54.202.67.115
+0	12:47:04.640	MetaTrader build 1170 stopped
+0	13:00:49.778	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	13:00:49.778	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 868 / 8072 Mb, Disk: 382 / 442 Gb, GMT-5
+0	13:00:49.778	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	13:00:52.208	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 119.81 ms)
+0	13:00:53.679	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 119.81 ms)
+0	13:00:54.068	'1061950': previous successful authorization performed from 190.216.168.98
+0	13:00:55.598	'1061950': ping to current access point NY DC2 is 121.77 ms
+0	13:01:29.285	MetaTrader build 1170 stopped
+0	13:04:15.058	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	13:04:15.058	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 656 / 8072 Mb, Disk: 382 / 442 Gb, GMT-5
+0	13:04:15.058	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	13:04:17.808	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 121.77 ms)
+0	13:04:19.319	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 121.77 ms)
+0	13:04:19.793	'1061950': previous successful authorization performed from 190.216.168.98
+2	13:09:35.075	Custom indicator Heiken Ashi US500,H1: loaded successfully
+0	13:09:49.666	'1061950': order buy market 0.10 US500 sl: 0.0 tp: 0.0
+0	13:09:49.926	'1061950': order was opened : #137294752 buy 0.10 US500 at 2794.9 sl: 0.0 tp: 0.0
+0	13:09:57.360	'1061950': modify order #137294752 buy 0.10 US500 at 2794.9 sl: 0.0 tp: 0.0 -> sl: 2764.0 tp: 2884.0
+0	13:09:57.666	'1061950': order #137294752 buy 0.10 US500 at 2794.9 was modified -> sl: 2764.0 tp: 2884.0
+2	13:10:32.406	Custom indicator Heiken Ashi US500,Daily: removed
+0	13:10:34.105	MetaTrader build 1170 stopped
+0	16:00:13.356	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:00:13.356	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2738 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	16:00:13.356	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+2	16:00:15.012	Custom indicator Heiken Ashi US500,Daily: loaded successfully
+0	16:00:15.870	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 121.77 ms)
+0	16:00:17.301	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 121.77 ms)
+0	16:00:17.740	'1061950': previous successful authorization performed from 190.216.168.14
+0	16:00:19.225	'1061950': ping to current access point NY DC2 is 119.80 ms
+2	16:00:34.784	Custom indicator Heiken Ashi US500,H4: removed
+0	16:01:45.679	MetaTrader build 1170 stopped

@@ -1,0 +1,389 @@
+0	13:44:40.158	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\terminal.ini' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\terminal.ini'
+0	13:44:40.167	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-01.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-01.srv'
+0	13:44:40.177	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-Demo01.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-Demo01.srv'
+0	13:44:40.184	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-Demo02.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-Demo02.srv'
+0	13:44:40.225	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-Edge02.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-Edge02.srv'
+0	13:44:40.230	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-Edge03.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-Edge03.srv'
+0	13:44:40.236	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-Edge04.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-Edge04.srv'
+0	13:44:40.242	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-Edge05.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-Edge05.srv'
+0	13:44:40.252	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-Edge06.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-Edge06.srv'
+0	13:44:40.262	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-Edge07.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-Edge07.srv'
+0	13:44:40.267	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-Edge08.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-Edge08.srv'
+0	13:44:40.275	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\config\Pepperstone-Edge09.srv' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\config\Pepperstone-Edge09.srv'
+0	13:44:40.275	Migration: config folder copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC'
+0	13:44:40.288	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\EURUSD240.hst' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\EURUSD240.hst'
+0	13:44:40.295	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\GBPUSD240.hst' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\GBPUSD240.hst'
+0	13:44:40.303	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\USDCHF240.hst' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\USDCHF240.hst'
+0	13:44:40.311	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\USDJPY240.hst' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\USDJPY240.hst'
+0	13:44:40.320	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\symbols.sel' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\symbols.sel'
+0	13:44:40.328	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\symbols.raw' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\symbols.raw'
+0	13:44:40.335	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\symgroups.raw' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\symgroups.raw'
+0	13:44:40.338	Migration: history folder copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC'
+0	13:44:40.346	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\EURUSD240.hst' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\EURUSD240.hst'
+0	13:44:40.354	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\GBPUSD240.hst' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\GBPUSD240.hst'
+0	13:44:40.361	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\symbols.raw' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\symbols.raw'
+0	13:44:40.368	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\symbols.sel' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\symbols.sel'
+0	13:44:40.408	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\symgroups.raw' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\symgroups.raw'
+0	13:44:40.417	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\USDCHF240.hst' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\USDCHF240.hst'
+0	13:44:40.425	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\default\USDJPY240.hst' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\default\USDJPY240.hst'
+0	13:44:40.487	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\symbolsets\forex.set' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\symbolsets\forex.set'
+0	13:44:40.494	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\symbolsets\forexall.set' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\symbolsets\forexall.set'
+0	13:44:40.502	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998400.arabic' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998400.arabic'
+0	13:44:40.511	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998401.bulgarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998401.bulgarian'
+0	13:44:40.525	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998402.chinese (simplified)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998402.chinese (simplified)'
+0	13:44:40.533	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998403.chinese (traditional)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998403.chinese (traditional)'
+0	13:44:40.542	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998404.czech' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998404.czech'
+0	13:44:40.548	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998405.english' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998405.english'
+0	13:44:40.557	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998406.french' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998406.french'
+0	13:44:40.565	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998407.german' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998407.german'
+0	13:44:40.573	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998408.greek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998408.greek'
+0	13:44:40.581	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998409.hebrew' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998409.hebrew'
+0	13:44:40.589	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998410.hungarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998410.hungarian'
+0	13:44:40.597	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998411.indonesian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998411.indonesian'
+0	13:44:40.605	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998412.italian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998412.italian'
+0	13:44:40.612	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998413.japanese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998413.japanese'
+0	13:44:40.620	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998414.malay' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998414.malay'
+0	13:44:40.630	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998415.polish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998415.polish'
+0	13:44:40.648	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998416.portuguese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998416.portuguese'
+0	13:44:40.657	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998417.russian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998417.russian'
+0	13:44:40.665	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998418.slovenian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998418.slovenian'
+0	13:44:40.675	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998419.spanish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998419.spanish'
+0	13:44:40.684	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998420.tajik' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998420.tajik'
+0	13:44:40.693	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998421.thai' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998421.thai'
+0	13:44:40.702	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998422.turkish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998422.turkish'
+0	13:44:40.730	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998423.uzbek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998423.uzbek'
+0	13:44:40.737	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998424.vietnamese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998424.vietnamese'
+0	13:44:40.752	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998425.arabic' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998425.arabic'
+0	13:44:40.761	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998426.bulgarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998426.bulgarian'
+0	13:44:40.769	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998427.chinese (simplified)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998427.chinese (simplified)'
+0	13:44:40.778	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998428.chinese (traditional)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998428.chinese (traditional)'
+0	13:44:40.787	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998429.czech' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998429.czech'
+0	13:44:40.795	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998430.english' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998430.english'
+0	13:44:40.803	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998431.french' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998431.french'
+0	13:44:40.811	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998432.german' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998432.german'
+0	13:44:40.818	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998433.greek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998433.greek'
+0	13:44:40.827	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998434.hebrew' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998434.hebrew'
+0	13:44:40.835	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998435.hungarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998435.hungarian'
+0	13:44:40.845	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998436.indonesian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998436.indonesian'
+0	13:44:40.859	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998437.italian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998437.italian'
+0	13:44:40.888	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998438.japanese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998438.japanese'
+0	13:44:40.895	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998439.malay' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998439.malay'
+0	13:44:40.913	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998440.polish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998440.polish'
+0	13:44:40.921	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998441.portuguese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998441.portuguese'
+0	13:44:40.945	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998442.russian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998442.russian'
+0	13:44:41.029	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998443.slovenian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998443.slovenian'
+0	13:44:41.058	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998444.spanish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998444.spanish'
+0	13:44:41.065	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998445.tajik' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998445.tajik'
+0	13:44:41.072	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998446.thai' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998446.thai'
+0	13:44:41.079	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998447.turkish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998447.turkish'
+0	13:44:41.087	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998448.uzbek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998448.uzbek'
+0	13:44:41.094	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998449.vietnamese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998449.vietnamese'
+0	13:44:41.107	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998450.arabic' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998450.arabic'
+0	13:44:41.114	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998451.bulgarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998451.bulgarian'
+0	13:44:41.121	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998452.chinese (simplified)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998452.chinese (simplified)'
+0	13:44:41.127	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998453.chinese (traditional)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998453.chinese (traditional)'
+0	13:44:41.134	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998454.czech' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998454.czech'
+0	13:44:41.139	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998455.english' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998455.english'
+0	13:44:41.145	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998456.french' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998456.french'
+0	13:44:41.152	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998457.german' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998457.german'
+0	13:44:41.159	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998458.greek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998458.greek'
+0	13:44:41.178	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998459.hebrew' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998459.hebrew'
+0	13:44:41.186	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998460.hungarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998460.hungarian'
+0	13:44:41.193	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998461.indonesian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998461.indonesian'
+0	13:44:41.199	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998462.italian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998462.italian'
+0	13:44:41.207	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998463.japanese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998463.japanese'
+0	13:44:41.215	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998464.malay' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998464.malay'
+0	13:44:41.223	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998465.polish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998465.polish'
+0	13:44:41.231	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998466.portuguese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998466.portuguese'
+0	13:44:41.240	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998467.russian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998467.russian'
+0	13:44:41.249	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998468.slovenian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998468.slovenian'
+0	13:44:41.257	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998469.spanish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998469.spanish'
+0	13:44:41.267	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998470.tajik' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998470.tajik'
+0	13:44:41.279	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998471.thai' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998471.thai'
+0	13:44:41.287	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998472.turkish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998472.turkish'
+0	13:44:41.296	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998473.uzbek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998473.uzbek'
+0	13:44:41.306	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998474.vietnamese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998474.vietnamese'
+0	13:44:41.321	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998475.arabic' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998475.arabic'
+0	13:44:41.330	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998476.bulgarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998476.bulgarian'
+0	13:44:41.339	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998477.chinese (simplified)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998477.chinese (simplified)'
+0	13:44:41.353	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998478.chinese (traditional)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998478.chinese (traditional)'
+0	13:44:41.365	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998479.czech' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998479.czech'
+0	13:44:41.378	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998480.english' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998480.english'
+0	13:44:41.396	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998481.french' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998481.french'
+0	13:44:41.408	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998482.german' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998482.german'
+0	13:44:41.431	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998483.greek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998483.greek'
+0	13:44:41.467	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998484.hebrew' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998484.hebrew'
+0	13:44:41.475	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998485.hungarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998485.hungarian'
+0	13:44:41.486	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998486.indonesian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998486.indonesian'
+0	13:44:41.495	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998487.italian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998487.italian'
+0	13:44:41.503	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998488.japanese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998488.japanese'
+0	13:44:41.512	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998489.malay' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998489.malay'
+0	13:44:41.521	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998490.polish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998490.polish'
+0	13:44:41.529	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998491.portuguese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998491.portuguese'
+0	13:44:41.536	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998492.russian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998492.russian'
+0	13:44:41.544	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998493.slovenian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998493.slovenian'
+0	13:44:41.552	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998494.spanish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998494.spanish'
+0	13:44:41.559	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998495.tajik' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998495.tajik'
+0	13:44:41.567	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998496.thai' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998496.thai'
+0	13:44:41.575	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998497.turkish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998497.turkish'
+0	13:44:41.585	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998498.uzbek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998498.uzbek'
+0	13:44:41.594	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998499.vietnamese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998499.vietnamese'
+0	13:44:41.603	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998500.arabic' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998500.arabic'
+0	13:44:41.612	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998501.bulgarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998501.bulgarian'
+0	13:44:41.620	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998502.chinese (simplified)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998502.chinese (simplified)'
+0	13:44:41.627	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998503.chinese (traditional)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998503.chinese (traditional)'
+0	13:44:41.636	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998504.czech' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998504.czech'
+0	13:44:41.644	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998505.english' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998505.english'
+0	13:44:41.651	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998506.french' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998506.french'
+0	13:44:41.659	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998507.german' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998507.german'
+0	13:44:41.669	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998508.greek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998508.greek'
+0	13:44:41.678	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998509.hebrew' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998509.hebrew'
+0	13:44:41.686	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998510.hungarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998510.hungarian'
+0	13:44:41.693	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998511.indonesian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998511.indonesian'
+0	13:44:41.700	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998512.italian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998512.italian'
+0	13:44:41.708	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998513.japanese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998513.japanese'
+0	13:44:41.715	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998514.malay' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998514.malay'
+0	13:44:41.722	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998515.polish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998515.polish'
+0	13:44:41.729	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998516.portuguese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998516.portuguese'
+0	13:44:41.737	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998517.russian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998517.russian'
+0	13:44:41.744	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998518.slovenian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998518.slovenian'
+0	13:44:41.765	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998519.spanish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998519.spanish'
+0	13:44:41.790	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998520.tajik' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998520.tajik'
+0	13:44:41.817	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998521.thai' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998521.thai'
+0	13:44:41.836	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998522.turkish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998522.turkish'
+0	13:44:41.851	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998523.uzbek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998523.uzbek'
+0	13:44:41.863	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998524.vietnamese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998524.vietnamese'
+0	13:44:41.877	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998525.arabic' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998525.arabic'
+0	13:44:41.887	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998526.bulgarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998526.bulgarian'
+0	13:44:41.908	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998527.chinese (simplified)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998527.chinese (simplified)'
+0	13:44:41.929	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998528.chinese (traditional)' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998528.chinese (traditional)'
+0	13:44:41.945	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998529.czech' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998529.czech'
+0	13:44:41.959	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998530.english' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998530.english'
+0	13:44:41.968	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998531.french' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998531.french'
+0	13:44:41.977	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998532.german' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998532.german'
+0	13:44:41.985	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998533.greek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998533.greek'
+0	13:44:41.988	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998534.hebrew' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998534.hebrew'
+0	13:44:42.003	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998534.hungarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998534.hungarian'
+0	13:44:42.003	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998535.hungarian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998535.hungarian'
+0	13:44:42.003	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998535.italian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998535.italian'
+0	13:44:42.019	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998536.indonesian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998536.indonesian'
+0	13:44:42.019	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998536.japanese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998536.japanese'
+0	13:44:42.034	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998537.italian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998537.italian'
+0	13:44:42.034	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998537.malay' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998537.malay'
+0	13:44:42.081	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998538.japanese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998538.japanese'
+0	13:44:42.081	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998538.polish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998538.polish'
+0	13:44:42.118	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998539.malay' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998539.malay'
+0	13:44:42.125	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998539.portuguese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998539.portuguese'
+0	13:44:42.132	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998540.polish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998540.polish'
+0	13:44:42.132	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998540.russian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998540.russian'
+0	13:44:42.148	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998541.portuguese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998541.portuguese'
+0	13:44:42.163	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998541.slovenian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998541.slovenian'
+0	13:44:42.163	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998542.russian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998542.russian'
+0	13:44:42.179	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998542.spanish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998542.spanish'
+0	13:44:42.179	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998543.slovenian' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998543.slovenian'
+0	13:44:42.194	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998543.tajik' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998543.tajik'
+0	13:44:42.210	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998544.spanish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998544.spanish'
+0	13:44:42.210	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998544.thai' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998544.thai'
+0	13:44:42.226	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998545.tajik' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998545.tajik'
+0	13:44:42.226	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998545.turkish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998545.turkish'
+0	13:44:42.241	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998546.thai' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998546.thai'
+0	13:44:42.241	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998546.uzbek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998546.uzbek'
+0	13:44:42.241	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998547.turkish' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998547.turkish'
+0	13:44:42.257	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998547.vietnamese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998547.vietnamese'
+0	13:44:42.257	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998548.uzbek' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998548.uzbek'
+0	13:44:42.273	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\history\mailbox\1356998549.vietnamese' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\history\mailbox\1356998549.vietnamese'
+0	13:44:42.273	Migration: mailbox folder copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC'
+0	13:44:42.273	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\British Pound\chart01.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\British Pound\chart01.CHR'
+0	13:44:42.288	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\British Pound\chart02.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\British Pound\chart02.CHR'
+0	13:44:42.288	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\British Pound\chart03.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\British Pound\chart03.CHR'
+0	13:44:42.288	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\British Pound\order.wnd' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\British Pound\order.wnd'
+0	13:44:42.304	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\default\chart01.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\default\chart01.CHR'
+0	13:44:42.304	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\default\chart02.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\default\chart02.CHR'
+0	13:44:42.304	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\default\chart03.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\default\chart03.CHR'
+0	13:44:42.319	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\default\chart04.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\default\chart04.CHR'
+0	13:44:42.319	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\default\order.wnd' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\default\order.wnd'
+0	13:44:42.335	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Euro\chart01.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Euro\chart01.CHR'
+0	13:44:42.335	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Euro\chart02.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Euro\chart02.CHR'
+0	13:44:42.335	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Euro\chart03.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Euro\chart03.CHR'
+0	13:44:42.351	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Euro\order.wnd' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Euro\order.wnd'
+0	13:44:42.351	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\lastprofile.ini' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\lastprofile.ini'
+0	13:44:42.366	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Market Overview\chart01.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Market Overview\chart01.CHR'
+0	13:44:42.366	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Market Overview\chart02.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Market Overview\chart02.CHR'
+0	13:44:42.382	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Market Overview\chart03.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Market Overview\chart03.CHR'
+0	13:44:42.382	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Market Overview\chart04.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Market Overview\chart04.CHR'
+0	13:44:42.397	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Market Overview\order.wnd' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Market Overview\order.wnd'
+0	13:44:42.397	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Swiss Franc\chart01.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Swiss Franc\chart01.CHR'
+0	13:44:42.413	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Swiss Franc\chart02.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Swiss Franc\chart02.CHR'
+0	13:44:42.413	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Swiss Franc\chart03.CHR' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Swiss Franc\chart03.CHR'
+0	13:44:42.429	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\profiles\Swiss Franc\order.wnd' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\profiles\Swiss Franc\order.wnd'
+0	13:44:42.429	Migration: profiles folder copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC'
+0	13:44:42.444	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\ADX.tpl' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\ADX.tpl'
+0	13:44:42.450	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\BollingerBands.tpl' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\BollingerBands.tpl'
+0	13:44:42.457	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\Layers.tpl' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\Layers.tpl'
+0	13:44:42.462	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\Momentum.tpl' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\Momentum.tpl'
+0	13:44:42.472	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\OptimizationReport.htm' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\OptimizationReport.htm'
+0	13:44:42.479	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\Popular.tpl' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\Popular.tpl'
+0	13:44:42.479	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\statement.htm' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\statement.htm'
+0	13:44:42.494	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\StatementDetailed.htm' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\StatementDetailed.htm'
+0	13:44:42.510	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\strategytester.htm' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\strategytester.htm'
+0	13:44:42.526	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\Volume.tpl' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\Volume.tpl'
+0	13:44:42.526	Migration: copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\templates\Williams.tpl' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\templates\Williams.tpl'
+0	13:44:42.526	Migration: templates folder copied from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC'
+0	13:44:42.619	Migration: data to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC' migration started
+0	13:44:42.619	Migration: experts migration from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC' started
+0	13:44:42.619	Migration: experts folder updated from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\experts' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4\Experts'
+0	13:44:42.619	Migration: include folder updated from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\experts\include' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4\Include'
+0	13:44:42.619	Migration: indicators folder updated from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\experts\indicators' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4\Indicators'
+0	13:44:42.619	Migration: scripts folder updated from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\experts\scripts' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4\Scripts'
+0	13:44:42.619	Migration: expert logs folder updated from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\experts\logs' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4\Logs'
+0	13:44:42.619	Migration: expert files folder updated from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\experts\files' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4\Files'
+0	13:44:42.619	Migration: libraries folder updated from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\experts\libraries' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4\Libraries'
+0	13:44:42.619	Migration: expert presets folder updated from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\experts\presets' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4\Presets'
+0	13:44:42.619	Migration: expert images folder updated from 'C:\Users\lroman\AppData\Roaming\Pepperstone MetaTrader 4\experts\images' to 'C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4\Images'
+0	13:44:42.619	Migration: experts migration finished
+0	13:44:42.619	Migration: data migration finished, no virtual folder
+0	13:44:42.619	LiveUpdate: update C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4 folder started
+0	13:44:43.767	LiveUpdate: update C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC\MQL4 folder finished
+0	13:44:44.017	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	13:44:44.017	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 947 / 8072 Mb, Disk: 383 / 442 Gb, GMT-5
+0	13:44:44.017	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	13:44:44.814	Sources recompilation started
+0	13:44:57.127	Sources recompilation finished (28 compiled in 12312 msec)
+1	13:45:21.407	'1061950': connect failed [Cuenta no válida]
+0	13:47:09.772	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 123.81 ms)
+0	13:47:11.163	'1061950': previous successful authorization performed from 190.216.168.14
+0	13:47:13.382	'1061950': auto connecting to a better access point NY DC2 (ping is 125.15 ms)
+0	13:47:13.870	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 125.15 ms)
+0	13:47:15.214	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 125.15 ms)
+0	13:47:15.687	'1061950': previous successful authorization performed from 190.216.168.98
+2	13:47:38.886	Custom indicator Heiken Ashi EURUSD,M1: loaded successfully
+2	13:48:00.985	Custom indicator Heiken Ashi EURUSD,M1: removed
+0	13:48:02.489	MetaTrader build 1170 stopped
+0	13:48:34.356	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	13:48:34.356	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 891 / 8072 Mb, Disk: 383 / 442 Gb, GMT-5
+0	13:48:34.356	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+2	13:48:35.721	Custom indicator Heiken Ashi EURUSD,M1: loaded successfully
+0	13:48:36.904	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 125.15 ms)
+0	13:48:38.370	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 125.15 ms)
+0	13:48:38.776	'1061950': previous successful authorization performed from 190.216.168.98
+2	13:49:05.714	Custom indicator Heiken Ashi EURUSD,M1: removed
+2	13:50:47.991	Custom indicator Heiken Ashi EURUSD,M1: loaded successfully
+2	14:04:36.051	Custom indicator Heiken Ashi EURUSD,M1: removed
+0	14:04:37.389	MetaTrader build 1170 stopped
+0	14:15:58.257	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:15:58.258	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1129 / 8072 Mb, Disk: 382 / 442 Gb, GMT-5
+0	14:15:58.258	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+2	14:16:02.185	Custom indicator Heiken Ashi EURUSD,M1: loaded successfully
+0	14:16:03.815	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 125.15 ms)
+0	14:16:05.375	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 125.15 ms)
+0	14:16:05.792	'1061950': previous successful authorization performed from 34.221.125.158
+2	14:19:03.563	Custom indicator Heiken Ashi EURUSD,M1: removed
+2	14:19:19.646	Custom indicator Heiken Ashi EURUSD,M1: loaded successfully
+2	14:19:50.880	Custom indicator Heiken Ashi EURUSD,M1: removed
+2	14:19:53.429	Custom indicator Heiken Ashi EURUSD,M1: loaded successfully
+2	14:22:20.943	Custom indicator Heiken Ashi EURUSD,Daily: removed
+2	14:22:34.509	Custom indicator Heiken Ashi US500,H1: loaded successfully
+2	14:22:37.773	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+2	14:22:43.056	Custom indicator Heiken Ashi USDJPY,H1: loaded successfully
+2	14:22:46.188	Custom indicator Heiken Ashi EURUSD,H1: loaded successfully
+2	14:34:56.544	Custom indicator Heiken Ashi EURUSD,H1: removed
+2	14:34:56.590	Custom indicator Heiken Ashi EURUSD,H1: loaded successfully
+2	14:35:01.519	Custom indicator Heiken Ashi USDJPY,H1: removed
+2	14:35:01.530	Custom indicator Heiken Ashi USDJPY,H1: loaded successfully
+2	14:35:05.343	Custom indicator Heiken Ashi US500,H1: removed
+2	14:35:05.354	Custom indicator Heiken Ashi US500,H1: loaded successfully
+2	14:35:08.088	Custom indicator Heiken Ashi XAUUSD,H1: removed
+2	14:35:08.099	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+2	14:37:18.635	Custom indicator Heiken Ashi USDJPY,H1: removed
+2	14:39:07.182	Custom indicator Heiken Ashi EURUSD,H1: removed
+2	14:39:22.395	Custom indicator Heiken Ashi US500,H1: removed
+2	14:39:38.685	Custom indicator Heiken Ashi XAUUSD,H4: removed
+2	14:39:53.689	Custom indicator Heiken Ashi XAUUSD,H4: loaded successfully
+2	14:40:04.098	Custom indicator Heiken Ashi US500,H1: loaded successfully
+2	14:40:06.891	Custom indicator Heiken Ashi EURUSD,H1: loaded successfully
+2	14:40:09.465	Custom indicator Heiken Ashi USDJPY,H1: loaded successfully
+2	14:40:21.336	Custom indicator Heiken Ashi USDJPY,H1: removed
+2	14:40:28.547	Custom indicator Heiken Ashi USDJPY,H1: loaded successfully
+2	14:45:40.982	Custom indicator Heiken Ashi XAUUSD,H1: removed
+2	14:45:54.364	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+0	14:45:58.635	'1061950': one click trading has been enabled
+0	14:46:10.947	'1061950': modify order #137151986 buy 0.01 USDJPY at 110.656 sl: 110.345 tp: 0.000 -> sl: 110.339 tp: 0.000
+0	14:46:11.181	'1061950': order #137151986 buy 0.01 USDJPY at 110.656 was modified -> sl: 110.339 tp: 0.000
+2	14:46:15.773	Custom indicator Heiken Ashi XAUUSD,H1: removed
+2	14:46:15.788	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+2	14:47:10.927	Custom indicator Heiken Ashi XAUUSD,Daily: removed
+2	14:47:10.943	Custom indicator Heiken Ashi XAUUSD,Daily: loaded successfully
+2	14:47:13.384	Custom indicator Heiken Ashi XAUUSD,Daily: removed
+0	14:47:31.277	'1061950': close order #137151986 buy 0.01 USDJPY at 110.656 sl: 110.339 tp: 0.000 at price 0.000
+0	14:47:31.514	'1061950': order #137151986 buy 0.01 USDJPY at 110.656 sl: 110.339 tp: 0.000 closed at price 110.650
+1	14:47:38.838	'1061950': order sell 1.00 XAUUSD opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+1	14:47:38.838	'1061950': order #0 sell 1.00 XAUUSD at 0.00 failed [Not enough money]
+1	14:47:43.059	'1061950': order sell 1.00 XAUUSD opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+1	14:47:43.059	'1061950': order #0 sell 1.00 XAUUSD at 0.00 failed [Not enough money]
+0	14:47:50.267	'1061950': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	14:47:50.486	'1061950': order was opened : #137152783 sell 0.01 XAUUSD at 1328.24 sl: 0.00 tp: 0.00
+0	14:47:57.746	'1061950': modify order #137152783 sell 0.01 XAUUSD at 1328.24 sl: 0.00 tp: 0.00 -> sl: 1331.51 tp: 0.00
+0	14:47:58.012	'1061950': order #137152783 sell 0.01 XAUUSD at 1328.24 was modified -> sl: 1331.51 tp: 0.00
+2	14:48:32.934	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+2	14:48:36.991	Custom indicator Heiken Ashi USDJPY,H4: removed
+2	14:48:37.006	Custom indicator Heiken Ashi EURUSD,H4: removed
+2	14:48:37.022	Custom indicator Heiken Ashi XAUUSD,H1: removed
+2	14:48:37.053	Custom indicator Heiken Ashi US500,H1: removed
+0	14:48:38.635	MetaTrader build 1170 stopped
+0	14:48:56.488	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:48:56.488	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 507 / 8072 Mb, Disk: 382 / 442 Gb, GMT-5
+0	14:48:56.488	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+2	14:48:58.731	Custom indicator Heiken Ashi USDJPY,H4: loaded successfully
+2	14:48:58.778	Custom indicator Heiken Ashi EURUSD,H4: loaded successfully
+2	14:48:58.810	Custom indicator Heiken Ashi US500,H1: loaded successfully
+2	14:48:58.841	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+0	14:49:00.296	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 125.15 ms)
+0	14:49:01.809	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 125.15 ms)
+0	14:49:02.262	'1061950': previous successful authorization performed from 190.216.168.98
+0	14:49:03.659	'1061950': auto connecting to a better access point NY DC (ping is 120.22 ms)
+0	14:49:04.251	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 120.22 ms)
+0	14:49:05.395	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 120.22 ms)
+0	14:49:05.751	'1061950': previous successful authorization performed from 190.216.168.98
+2	14:49:10.914	Custom indicator Heiken Ashi USDJPY,H4: removed
+2	14:49:10.914	Custom indicator Heiken Ashi EURUSD,H4: removed
+2	14:49:10.930	Custom indicator Heiken Ashi US500,H1: removed
+2	14:49:10.930	Custom indicator Heiken Ashi XAUUSD,H4: removed
+0	14:49:12.519	MetaTrader build 1170 stopped
+0	14:50:20.513	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:50:20.513	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 648 / 8072 Mb, Disk: 382 / 442 Gb, GMT-5
+0	14:50:20.513	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+2	14:50:21.696	Custom indicator Heiken Ashi USDJPY,H4: loaded successfully
+2	14:50:21.727	Custom indicator Heiken Ashi EURUSD,H4: loaded successfully
+2	14:50:21.774	Custom indicator Heiken Ashi US500,H1: loaded successfully
+2	14:50:21.805	Custom indicator Heiken Ashi XAUUSD,H4: loaded successfully
+0	14:50:22.777	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 120.22 ms)
+0	14:50:23.976	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 120.22 ms)
+0	14:50:24.316	'1061950': previous successful authorization performed from 190.216.168.98
+2	14:51:18.306	Custom indicator Heiken Ashi USDJPY,H4: removed
+2	14:51:18.306	Custom indicator Heiken Ashi EURUSD,H4: removed
+2	14:51:18.321	Custom indicator Heiken Ashi US500,H1: removed
+2	14:51:18.321	Custom indicator Heiken Ashi XAUUSD,H4: removed
+0	14:51:19.474	MetaTrader build 1170 stopped
+0	15:43:25.023	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	15:43:25.024	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2589 / 8072 Mb, Disk: 382 / 442 Gb, GMT-5
+0	15:43:25.024	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+2	15:43:26.414	Custom indicator Heiken Ashi USDJPY,H4: loaded successfully
+2	15:43:26.478	Custom indicator Heiken Ashi EURUSD,H4: loaded successfully
+2	15:43:26.518	Custom indicator Heiken Ashi US500,H1: loaded successfully
+2	15:43:26.554	Custom indicator Heiken Ashi XAUUSD,H4: loaded successfully
+0	15:43:27.813	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 120.22 ms)
+0	15:43:29.292	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 120.22 ms)
+0	15:43:29.705	'1061950': previous successful authorization performed from 190.216.168.14
+2	15:44:06.543	Custom indicator Heiken Ashi US500,H4: removed
+2	15:44:32.542	Custom indicator Heiken Ashi EURUSD,H4: removed
+2	15:44:36.021	Custom indicator Heiken Ashi USDJPY,H4: removed
+2	15:49:59.959	Custom indicator Heiken Ashi XAUUSD,H1: removed
+0	15:51:41.037	MetaTrader build 1170 stopped
+0	16:06:31.769	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:06:31.769	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2393 / 8072 Mb, Disk: 382 / 442 Gb, GMT-5
+0	16:06:31.769	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	16:06:34.226	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 120.22 ms)
+0	16:06:35.441	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 120.22 ms)
+0	16:06:35.820	'1061950': previous successful authorization performed from 34.221.125.158
+0	16:06:37.256	'1061950': auto connecting to a better access point NY DC2 (ping is 123.49 ms)
+0	16:06:38.470	MetaTrader build 1170 stopped

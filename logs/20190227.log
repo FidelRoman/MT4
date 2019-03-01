@@ -1,0 +1,363 @@
+0	07:53:42.056	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	07:53:42.056	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2150 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	07:53:42.056	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	07:53:44.434	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 119.80 ms)
+0	07:53:45.956	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 119.80 ms)
+0	07:53:46.415	'1061950': previous successful authorization performed from 190.216.168.14
+0	07:53:47.682	'1061950': ping to current access point NY DC2 is 120.71 ms
+0	07:55:07.629	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.258 tp: 0.000 -> sl: 110.213 tp: 0.000
+0	07:55:07.843	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.213 tp: 0.000
+1	08:01:25.230	'1061950': order buy 1.00 XAUUSD opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+1	08:01:25.230	'1061950': order #0 buy 1.00 XAUUSD at 0.00 failed [Not enough money]
+1	08:01:33.586	'1061950': order buy 1.00 XAUUSD opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+1	08:01:33.586	'1061950': order #0 buy 1.00 XAUUSD at 0.00 failed [Not enough money]
+0	08:01:37.053	'1061950': order buy market 0.10 XAUUSD sl: 0.00 tp: 0.00
+0	08:01:37.272	'1061950': order was opened : #137346413 buy 0.10 XAUUSD at 1328.67 sl: 0.00 tp: 0.00
+1	08:01:40.278	'1061950': order buy 0.80 XAUUSD opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+1	08:01:40.278	'1061950': order #0 buy 0.80 XAUUSD at 0.00 failed [Not enough money]
+0	08:01:44.313	'1061950': order buy market 0.50 XAUUSD sl: 0.00 tp: 0.00
+0	08:01:44.504	'1061950': order was opened : #137346428 buy 0.50 XAUUSD at 1328.64 sl: 0.00 tp: 0.00
+1	08:01:50.850	'1061950': order buy 0.30 XAUUSD opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+1	08:01:50.850	'1061950': order #0 buy 0.30 XAUUSD at 0.00 failed [Not enough money]
+0	08:02:42.132	'1061950': close order #137225178 sell 0.01 XAUUSD at 1327.96 sl: 1331.10 tp: 1319.10 at price 0.00
+0	08:02:42.382	'1061950': order #137225178 sell 0.01 XAUUSD at 1327.96 sl: 1331.10 tp: 1319.10 closed at price 1328.83
+0	08:07:04.852	'1061950': close order #137346428 buy 0.50 XAUUSD at 1328.64 sl: 0.00 tp: 0.00 at price 0.00
+0	08:07:05.099	'1061950': order #137346428 buy 0.50 XAUUSD at 1328.64 sl: 0.00 tp: 0.00 closed at price 1328.68
+0	08:07:06.983	'1061950': close order #137346413 buy 0.10 XAUUSD at 1328.67 sl: 0.00 tp: 0.00 at price 0.00
+0	08:07:07.247	'1061950': order #137346413 buy 0.10 XAUUSD at 1328.67 sl: 0.00 tp: 0.00 closed at price 1328.64
+0	08:07:44.738	'1061950': order buy market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	08:07:44.970	'1061950': order was opened : #137346756 buy 0.10 EURUSD at 1.13875 sl: 0.00000 tp: 0.00000
+0	08:07:50.684	'1061950': order buy market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	08:07:50.883	'1061950': order was opened : #137346765 buy 0.10 EURUSD at 1.13871 sl: 0.00000 tp: 0.00000
+0	08:07:57.281	'1061950': modify order #137346756 buy 0.10 EURUSD at 1.13875 sl: 0.00000 tp: 0.00000 -> sl: 1.13764 tp: 1.14766
+0	08:07:57.534	'1061950': order #137346756 buy 0.10 EURUSD at 1.13875 was modified -> sl: 1.13764 tp: 1.14766
+0	08:08:01.179	'1061950': modify order #137346765 buy 0.10 EURUSD at 1.13871 sl: 0.00000 tp: 0.00000 -> sl: 1.13765 tp: 1.14765
+0	08:08:01.370	'1061950': order #137346765 buy 0.10 EURUSD at 1.13871 was modified -> sl: 1.13765 tp: 1.14765
+0	08:08:27.461	MetaTrader build 1170 stopped
+0	08:27:21.697	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	08:27:21.697	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2863 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	08:27:21.697	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	08:27:23.588	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 120.71 ms)
+0	08:27:25.186	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 120.71 ms)
+0	08:27:25.588	'1061950': previous successful authorization performed from 190.216.168.14
+0	08:33:56.149	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.213 tp: 0.000 -> sl: 110.474 tp: 0.000
+0	08:33:56.384	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.474 tp: 0.000
+0	08:34:43.681	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.474 tp: 0.000 -> sl: 110.474 tp: 111.674
+0	08:34:43.915	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.474 tp: 111.674
+0	08:35:04.322	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.474 tp: 111.674 -> sl: 110.474 tp: 111.268
+0	08:35:04.528	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.474 tp: 111.268
+0	08:39:25.663	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.474 tp: 111.268 -> sl: 110.474 tp: 110.890
+0	08:39:25.882	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.474 tp: 110.890
+0	08:39:51.690	'1061950': close order #137346756 buy 0.10 EURUSD at 1.13875 sl: 1.13764 tp: 1.14766 at price 0.00000
+0	08:39:51.909	'1061950': order #137346756 buy 0.10 EURUSD at 1.13875 sl: 1.13764 tp: 1.14766 closed at price 1.13877
+0	08:41:50.656	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.474 tp: 110.890 -> sl: 110.474 tp: 111.199
+0	08:41:50.872	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.474 tp: 111.199
+0	08:42:08.245	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.474 tp: 111.199 -> sl: 110.474 tp: 0.000
+0	08:42:08.464	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.474 tp: 0.000
+0	08:42:46.316	'1061950': trailing stop 40 pip(s) on #137339326 placed
+0	08:42:46.566	'1061950': trailing stop #137339326 -> 110.633
+0	08:42:46.566	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.474 tp: 0.000 -> sl: 110.633 tp: 0.000
+0	08:42:46.613	'1061950': trailing stop #137339326 -> 110.631
+0	08:42:46.613	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.474 tp: 0.000 -> sl: 110.631 tp: 0.000
+0	08:42:46.660	'1061950': trailing stop #137339326 -> 110.631
+0	08:42:46.660	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.474 tp: 0.000 -> sl: 110.631 tp: 0.000
+0	08:42:46.816	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.633 tp: 0.000
+0	08:42:46.973	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.631 tp: 0.000
+0	08:42:46.973	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:42:51.786	'1061950': trailing stop #137339326 -> 110.632
+0	08:42:51.786	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.631 tp: 0.000 -> sl: 110.632 tp: 0.000
+0	08:42:51.848	'1061950': trailing stop #137339326 -> 110.633
+0	08:42:51.848	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.631 tp: 0.000 -> sl: 110.633 tp: 0.000
+0	08:42:51.895	'1061950': trailing stop #137339326 -> 110.633
+0	08:42:51.895	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.631 tp: 0.000 -> sl: 110.633 tp: 0.000
+0	08:42:51.973	'1061950': trailing stop #137339326 -> 110.633
+0	08:42:51.973	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.631 tp: 0.000 -> sl: 110.633 tp: 0.000
+0	08:42:52.020	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.632 tp: 0.000
+0	08:42:52.067	'1061950': trailing stop #137339326 -> 110.634
+0	08:42:52.067	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.632 tp: 0.000 -> sl: 110.634 tp: 0.000
+0	08:42:52.130	'1061950': trailing stop #137339326 -> 110.633
+1	08:42:52.130	'1061950': modification of order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.632 tp: 0.000 -> sl: 110.633 tp: 0.000 failed [Trade context is busy]
+0	08:42:52.176	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.633 tp: 0.000
+0	08:42:52.176	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:42:52.334	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:42:52.334	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.634 tp: 0.000
+0	08:43:16.279	'1061950': trailing stop on #137339326 modified to 200 pip(s)
+0	08:43:20.880	'1061950': trailing stop on #137339326 modified to 50 pip(s)
+0	08:43:25.771	'1061950': trailing stop on #137339326 modified to 100 pip(s)
+0	08:43:32.114	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.634 tp: 0.000 -> sl: 110.572 tp: 0.000
+0	08:43:32.332	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.572 tp: 0.000
+0	08:43:40.573	'1061950': trailing stop on #137339326 modified to 100 pip(s)
+0	08:43:45.879	'1061950': trailing stop on #137339326 deleted
+0	08:43:49.681	'1061950': all trailing stops are deleted
+0	08:43:55.771	'1061950': trailing stop 100 pip(s) on #137339326 placed
+0	08:43:58.676	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.572 tp: 0.000 -> sl: 0.000 tp: 0.000
+0	08:43:58.910	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 0.000 tp: 0.000
+0	08:43:59.246	'1061950': trailing stop #137339326 -> 110.565
+0	08:43:59.246	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 0.000 tp: 0.000 -> sl: 110.565 tp: 0.000
+0	08:43:59.447	'1061950': trailing stop #137339326 -> 110.565
+0	08:43:59.447	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 0.000 tp: 0.000 -> sl: 110.565 tp: 0.000
+0	08:43:59.509	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.565 tp: 0.000
+0	08:43:59.713	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:44:04.447	'1061950': trailing stop #137339326 -> 110.566
+0	08:44:04.447	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.565 tp: 0.000 -> sl: 110.566 tp: 0.000
+0	08:44:04.540	'1061950': trailing stop #137339326 -> 110.567
+0	08:44:04.540	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.565 tp: 0.000 -> sl: 110.567 tp: 0.000
+0	08:44:04.681	'1061950': trailing stop #137339326 -> 110.567
+0	08:44:04.681	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.566 tp: 0.000 -> sl: 110.567 tp: 0.000
+0	08:44:04.712	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.566 tp: 0.000
+0	08:44:04.837	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.567 tp: 0.000
+0	08:44:04.978	'1061950': trailing stop #137339326 -> 110.568
+0	08:44:04.978	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.567 tp: 0.000 -> sl: 110.568 tp: 0.000
+0	08:44:05.009	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:44:05.197	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.568 tp: 0.000
+0	08:44:06.262	'1061950': trailing stop #137339326 -> 110.569
+0	08:44:06.262	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.568 tp: 0.000 -> sl: 110.569 tp: 0.000
+0	08:44:06.489	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.569 tp: 0.000
+0	08:44:08.426	'1061950': trailing stop #137339326 -> 110.570
+0	08:44:08.426	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.569 tp: 0.000 -> sl: 110.570 tp: 0.000
+0	08:44:08.426	'1061950': trailing stop #137339326 -> 110.573
+0	08:44:08.426	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.569 tp: 0.000 -> sl: 110.573 tp: 0.000
+0	08:44:08.426	'1061950': trailing stop #137339326 -> 110.572
+0	08:44:08.426	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.569 tp: 0.000 -> sl: 110.572 tp: 0.000
+0	08:44:08.426	'1061950': trailing stop #137339326 -> 110.573
+0	08:44:08.426	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.569 tp: 0.000 -> sl: 110.573 tp: 0.000
+0	08:44:08.489	'1061950': trailing stop #137339326 -> 110.573
+1	08:44:08.489	'1061950': modification of order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.569 tp: 0.000 -> sl: 110.573 tp: 0.000 failed [Trade context is busy]
+0	08:44:08.723	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.570 tp: 0.000
+0	08:44:08.723	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.573 tp: 0.000
+0	08:44:08.723	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.572 tp: 0.000
+0	08:44:08.723	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.573 tp: 0.000
+0	08:44:09.098	'1061950': trailing stop #137339326 -> 110.574
+0	08:44:09.098	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.573 tp: 0.000 -> sl: 110.574 tp: 0.000
+0	08:44:09.160	'1061950': trailing stop #137339326 -> 110.574
+0	08:44:09.160	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.573 tp: 0.000 -> sl: 110.574 tp: 0.000
+0	08:44:09.332	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.574 tp: 0.000
+0	08:44:09.526	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:44:09.698	'1061950': trailing stop #137339326 -> 110.575
+0	08:44:09.698	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.574 tp: 0.000 -> sl: 110.575 tp: 0.000
+0	08:44:09.963	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.575 tp: 0.000
+0	08:44:10.010	'1061950': trailing stop #137339326 -> 110.576
+0	08:44:10.010	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.575 tp: 0.000 -> sl: 110.576 tp: 0.000
+0	08:44:10.260	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.576 tp: 0.000
+0	08:44:13.175	'1061950': trailing stop #137339326 -> 110.577
+0	08:44:13.175	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.576 tp: 0.000 -> sl: 110.577 tp: 0.000
+0	08:44:13.288	'1061950': trailing stop #137339326 -> 110.579
+0	08:44:13.288	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.576 tp: 0.000 -> sl: 110.579 tp: 0.000
+0	08:44:13.379	'1061950': trailing stop #137339326 -> 110.578
+0	08:44:13.379	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.577 tp: 0.000 -> sl: 110.578 tp: 0.000
+0	08:44:13.379	'1061950': trailing stop #137339326 -> 110.579
+0	08:44:13.379	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.577 tp: 0.000 -> sl: 110.579 tp: 0.000
+0	08:44:13.425	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.577 tp: 0.000
+0	08:44:13.457	'1061950': trailing stop #137339326 -> 110.579
+0	08:44:13.457	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.577 tp: 0.000 -> sl: 110.579 tp: 0.000
+0	08:44:13.537	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.579 tp: 0.000
+0	08:44:13.693	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.578 tp: 0.000
+0	08:44:13.693	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.579 tp: 0.000
+0	08:44:13.693	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:44:14.993	'1061950': trailing stop #137339326 -> 110.580
+0	08:44:14.993	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.579 tp: 0.000 -> sl: 110.580 tp: 0.000
+0	08:44:15.196	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.580 tp: 0.000
+0	08:44:15.258	'1061950': trailing stop #137339326 -> 110.581
+0	08:44:15.258	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.580 tp: 0.000 -> sl: 110.581 tp: 0.000
+0	08:44:15.348	'1061950': trailing stop #137339326 -> 110.581
+0	08:44:15.348	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.580 tp: 0.000 -> sl: 110.581 tp: 0.000
+0	08:44:15.411	'1061950': trailing stop #137339326 -> 110.582
+0	08:44:15.411	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.580 tp: 0.000 -> sl: 110.582 tp: 0.000
+0	08:44:15.473	'1061950': trailing stop #137339326 -> 110.582
+0	08:44:15.473	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.580 tp: 0.000 -> sl: 110.582 tp: 0.000
+0	08:44:15.504	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.581 tp: 0.000
+0	08:44:15.520	'1061950': trailing stop #137339326 -> 110.582
+0	08:44:15.520	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.581 tp: 0.000 -> sl: 110.582 tp: 0.000
+0	08:44:15.645	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:44:15.707	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.582 tp: 0.000
+0	08:44:15.833	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:44:15.833	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:44:32.504	'1061950': trailing stop #137339326 -> 110.585
+0	08:44:32.504	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.582 tp: 0.000 -> sl: 110.585 tp: 0.000
+0	08:44:32.597	'1061950': trailing stop #137339326 -> 110.585
+0	08:44:32.597	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.582 tp: 0.000 -> sl: 110.585 tp: 0.000
+0	08:44:32.675	'1061950': trailing stop #137339326 -> 110.587
+0	08:44:32.675	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.582 tp: 0.000 -> sl: 110.587 tp: 0.000
+0	08:44:32.722	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.585 tp: 0.000
+0	08:44:32.879	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	08:44:33.035	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.587 tp: 0.000
+0	08:45:00.008	MetaTrader build 1170 stopped
+0	09:00:02.341	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	09:00:02.343	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2205 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	09:00:02.343	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	09:00:04.454	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 120.71 ms)
+0	09:00:05.786	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 120.71 ms)
+0	09:00:06.167	'1061950': previous successful authorization performed from 190.216.168.14
+0	09:00:06.328	'1061950': trailing stop #137339326 -> 110.605
+0	09:00:06.328	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.587 tp: 0.000 -> sl: 110.605 tp: 0.000
+0	09:00:06.571	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.605 tp: 0.000
+0	09:00:07.579	'1061950': ping to current access point NY DC2 is 120.96 ms
+0	09:00:09.371	'1061950': trailing stop #137339326 -> 110.606
+0	09:00:09.371	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.605 tp: 0.000 -> sl: 110.606 tp: 0.000
+0	09:00:09.603	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.606 tp: 0.000
+0	09:00:18.117	'1061950': trailing stop #137339326 -> 110.607
+0	09:00:18.117	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.606 tp: 0.000 -> sl: 110.607 tp: 0.000
+0	09:00:18.201	'1061950': trailing stop #137339326 -> 110.610
+0	09:00:18.201	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.606 tp: 0.000 -> sl: 110.610 tp: 0.000
+0	09:00:18.285	'1061950': trailing stop #137339326 -> 110.611
+0	09:00:18.285	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.606 tp: 0.000 -> sl: 110.611 tp: 0.000
+0	09:00:18.355	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.607 tp: 0.000
+0	09:00:18.370	'1061950': trailing stop #137339326 -> 110.612
+0	09:00:18.370	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.607 tp: 0.000 -> sl: 110.612 tp: 0.000
+0	09:00:18.433	'1061950': trailing stop #137339326 -> 110.612
+0	09:00:18.433	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.607 tp: 0.000 -> sl: 110.612 tp: 0.000
+0	09:00:18.504	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.610 tp: 0.000
+0	09:00:18.603	'1061950': trailing stop #137339326 -> 110.613
+0	09:00:18.603	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.610 tp: 0.000 -> sl: 110.613 tp: 0.000
+0	09:00:18.656	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.611 tp: 0.000
+0	09:00:18.656	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.612 tp: 0.000
+0	09:00:18.656	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	09:00:18.833	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.613 tp: 0.000
+0	09:00:47.101	'1061950': trailing stop #137339326 -> 110.614
+0	09:00:47.101	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.613 tp: 0.000 -> sl: 110.614 tp: 0.000
+0	09:00:47.186	'1061950': trailing stop #137339326 -> 110.615
+0	09:00:47.186	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.613 tp: 0.000 -> sl: 110.615 tp: 0.000
+0	09:00:47.267	'1061950': trailing stop #137339326 -> 110.616
+0	09:00:47.267	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.613 tp: 0.000 -> sl: 110.616 tp: 0.000
+0	09:00:47.316	'1061950': trailing stop #137339326 -> 110.617
+0	09:00:47.316	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.613 tp: 0.000 -> sl: 110.617 tp: 0.000
+0	09:00:47.338	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.614 tp: 0.000
+0	09:00:47.400	'1061950': trailing stop #137339326 -> 110.617
+0	09:00:47.400	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.614 tp: 0.000 -> sl: 110.617 tp: 0.000
+0	09:00:47.472	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.615 tp: 0.000
+0	09:00:47.653	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.616 tp: 0.000
+0	09:00:47.653	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.617 tp: 0.000
+0	09:00:47.653	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	09:00:48.416	'1061950': trailing stop #137339326 -> 110.618
+0	09:00:48.416	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.617 tp: 0.000 -> sl: 110.618 tp: 0.000
+0	09:00:48.535	'1061950': trailing stop #137339326 -> 110.619
+0	09:00:48.535	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.617 tp: 0.000 -> sl: 110.619 tp: 0.000
+0	09:00:48.632	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.618 tp: 0.000
+0	09:00:48.785	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.619 tp: 0.000
+0	09:00:49.016	'1061950': close order #137346765 buy 0.10 EURUSD at 1.13871 sl: 1.13765 tp: 1.14765 at price 0.00000
+0	09:00:49.216	'1061950': order #137346765 buy 0.10 EURUSD at 1.13871 sl: 1.13765 tp: 1.14765 closed at price 1.13821
+0	09:01:06.501	'1061950': trailing stop #137339326 -> 110.621
+0	09:01:06.501	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.619 tp: 0.000 -> sl: 110.621 tp: 0.000
+0	09:01:06.600	'1061950': trailing stop #137339326 -> 110.622
+0	09:01:06.600	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.619 tp: 0.000 -> sl: 110.622 tp: 0.000
+0	09:01:06.716	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.621 tp: 0.000
+0	09:01:06.817	'1061950': trailing stop #137339326 -> 110.623
+0	09:01:06.817	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.621 tp: 0.000 -> sl: 110.623 tp: 0.000
+0	09:01:06.868	'1061950': trailing stop #137339326 -> 110.623
+0	09:01:06.868	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.621 tp: 0.000 -> sl: 110.623 tp: 0.000
+0	09:01:06.899	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.622 tp: 0.000
+0	09:01:07.031	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.623 tp: 0.000
+0	09:01:07.185	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	09:01:08.033	'1061950': trailing stop #137339326 -> 110.624
+0	09:01:08.033	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.623 tp: 0.000 -> sl: 110.624 tp: 0.000
+0	09:01:08.099	'1061950': trailing stop #137339326 -> 110.624
+0	09:01:08.099	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.623 tp: 0.000 -> sl: 110.624 tp: 0.000
+0	09:01:08.132	'1061950': trailing stop #137339326 -> 110.625
+0	09:01:08.132	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.623 tp: 0.000 -> sl: 110.625 tp: 0.000
+0	09:01:08.254	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.624 tp: 0.000
+0	09:01:08.368	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	09:01:08.368	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.625 tp: 0.000
+0	09:01:08.915	'1061950': trailing stop #137339326 -> 110.626
+0	09:01:08.915	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.625 tp: 0.000 -> sl: 110.626 tp: 0.000
+0	09:01:08.969	'1061950': trailing stop #137339326 -> 110.626
+0	09:01:08.969	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.625 tp: 0.000 -> sl: 110.626 tp: 0.000
+0	09:01:09.168	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.626 tp: 0.000
+0	09:01:09.336	'1061950': order #0 buy 0.00  at 0 was modified -> sl: 0 tp: 0
+0	09:02:01.852	'1061950': trailing stop #137339326 -> 110.628
+0	09:02:01.852	'1061950': modify order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.626 tp: 0.000 -> sl: 110.628 tp: 0.000
+0	09:02:02.129	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 was modified -> sl: 110.628 tp: 0.000
+0	09:05:10.238	'1061950': close order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.628 tp: 0.000 at price 0.000
+0	09:05:10.447	'1061950': order #137339326 buy 0.10 USDJPY at 110.471 sl: 110.628 tp: 0.000 closed at price 110.698
+0	09:10:06.121	'1061950': close order #137294752 buy 0.10 US500 at 2794.9 sl: 2764.0 tp: 2884.0 at price 0.0
+0	09:10:06.362	'1061950': order #137294752 buy 0.10 US500 at 2794.9 sl: 2764.0 tp: 2884.0 closed at price 2786.1
+0	09:11:28.902	MetaTrader build 1170 stopped
+0	09:12:09.155	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	09:12:09.156	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2053 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	09:12:09.156	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	09:12:11.066	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 120.96 ms)
+0	09:12:12.552	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 120.96 ms)
+0	09:12:12.908	'1061950': previous successful authorization performed from 190.216.168.98
+0	09:16:49.938	MetaTrader build 1170 stopped
+0	10:00:47.216	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	10:00:47.217	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1372 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	10:00:47.217	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	10:00:49.668	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 120.96 ms)
+0	10:00:51.268	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 120.96 ms)
+0	10:00:51.678	'1061950': previous successful authorization performed from 190.216.168.14
+0	10:00:53.019	'1061950': ping to current access point NY DC2 is 118.40 ms
+0	10:02:25.414	MetaTrader build 1170 stopped
+0	10:31:09.334	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	10:31:09.334	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1059 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	10:31:09.334	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	10:31:11.873	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 118.40 ms)
+0	10:31:13.324	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 118.40 ms)
+0	10:31:13.718	'1061950': previous successful authorization performed from 190.216.168.14
+0	10:31:41.123	'1061950': order sell market 0.10 XAUUSD sl: 0.00 tp: 0.00
+0	10:31:41.384	'1061950': order was opened : #137360301 sell 0.10 XAUUSD at 1322.64 sl: 0.00 tp: 0.00
+0	10:31:53.204	'1061950': modify order #137360301 sell 0.10 XAUUSD at 1322.64 sl: 0.00 tp: 0.00 -> sl: 1325.89 tp: 1312.86
+0	10:31:53.443	'1061950': order #137360301 sell 0.10 XAUUSD at 1322.64 was modified -> sl: 1325.89 tp: 1312.86
+0	10:38:02.222	MetaTrader build 1170 stopped
+0	12:32:19.502	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:32:19.502	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2435 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	12:32:19.502	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	12:32:22.886	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 118.40 ms)
+0	12:32:24.548	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 118.40 ms)
+0	12:32:24.949	'1061950': previous successful authorization performed from 34.216.80.116
+0	12:32:26.259	'1061950': auto connecting to a better access point NY DC (ping is 118.88 ms)
+0	12:32:26.732	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 118.88 ms)
+0	12:32:27.949	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 118.88 ms)
+0	12:32:28.317	'1061950': previous successful authorization performed from 190.216.168.98
+0	12:34:02.721	MetaTrader build 1170 stopped
+0	13:43:26.613	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	13:43:26.613	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1516 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	13:43:26.613	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	13:43:28.760	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 118.88 ms)
+0	13:43:30.423	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 118.88 ms)
+0	13:43:30.775	'1061950': previous successful authorization performed from 34.216.80.116
+0	13:43:32.144	'1061950': ping to current access point NY DC is 117.69 ms
+0	13:54:41.019	'1061950': modify order #137360301 sell 0.10 XAUUSD at 1322.64 sl: 1325.89 tp: 1312.86 -> sl: 1325.89 tp: 1261.40
+0	13:54:41.204	'1061950': order #137360301 sell 0.10 XAUUSD at 1322.64 was modified -> sl: 1325.89 tp: 1261.40
+0	13:54:51.862	'1061950': modify order #137370515 sell 0.10 XAUUSD at 1319.94 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1309.47
+0	13:54:52.047	'1061950': order #137370515 sell 0.10 XAUUSD at 1319.94 was modified -> sl: 0.00 tp: 1309.47
+0	13:54:55.601	'1061950': modify order #137370521 sell 0.10 XAUUSD at 1319.83 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1309.48
+0	13:54:55.787	'1061950': order #137370521 sell 0.10 XAUUSD at 1319.83 was modified -> sl: 0.00 tp: 1309.48
+0	13:55:02.115	'1061950': modify order #137370515 sell 0.10 XAUUSD at 1319.94 sl: 0.00 tp: 1309.47 -> sl: 0.00 tp: 1261.40
+0	13:55:02.293	'1061950': order #137370515 sell 0.10 XAUUSD at 1319.94 was modified -> sl: 0.00 tp: 1261.40
+0	13:55:04.066	'1061950': modify order #137360301 sell 0.10 XAUUSD at 1322.64 sl: 1325.89 tp: 1261.40 -> sl: 1325.89 tp: 1256.49
+0	13:55:04.314	'1061950': order #137360301 sell 0.10 XAUUSD at 1322.64 was modified -> sl: 1325.89 tp: 1256.49
+0	13:55:12.955	'1061950': modify order #137360301 sell 0.10 XAUUSD at 1322.64 sl: 1325.89 tp: 1256.49 -> sl: 1325.89 tp: 1261.40
+0	13:55:13.187	'1061950': order #137360301 sell 0.10 XAUUSD at 1322.64 was modified -> sl: 1325.89 tp: 1261.40
+0	13:55:15.407	'1061950': modify order #137370521 sell 0.10 XAUUSD at 1319.83 sl: 0.00 tp: 1309.48 -> sl: 0.00 tp: 1272.84
+0	13:55:15.585	'1061950': order #137370521 sell 0.10 XAUUSD at 1319.83 was modified -> sl: 0.00 tp: 1272.84
+0	13:55:17.908	'1061950': modify order #137370521 sell 0.10 XAUUSD at 1319.83 sl: 0.00 tp: 1272.84 -> sl: 0.00 tp: 1266.30
+0	13:55:18.093	'1061950': order #137370521 sell 0.10 XAUUSD at 1319.83 was modified -> sl: 0.00 tp: 1266.30
+0	13:55:21.085	'1061950': modify order #137370521 sell 0.10 XAUUSD at 1319.83 sl: 0.00 tp: 1266.30 -> sl: 0.00 tp: 1262.22
+0	13:55:21.270	'1061950': order #137370521 sell 0.10 XAUUSD at 1319.83 was modified -> sl: 0.00 tp: 1262.22
+0	13:55:32.048	'1061950': modify order #137360301 sell 0.10 XAUUSD at 1322.64 sl: 1325.89 tp: 1261.40 -> sl: 1325.89 tp: 1307.18
+0	13:55:32.232	'1061950': order #137360301 sell 0.10 XAUUSD at 1322.64 was modified -> sl: 1325.89 tp: 1307.18
+0	13:55:38.430	'1061950': modify order #137370521 sell 0.10 XAUUSD at 1319.83 sl: 0.00 tp: 1262.22 -> sl: 0.00 tp: 1307.18
+0	13:55:38.615	'1061950': order #137370521 sell 0.10 XAUUSD at 1319.83 was modified -> sl: 0.00 tp: 1307.18
+0	13:55:44.690	'1061950': modify order #137370515 sell 0.10 XAUUSD at 1319.94 sl: 0.00 tp: 1261.40 -> sl: 0.00 tp: 1307.18
+0	13:55:44.875	'1061950': order #137370515 sell 0.10 XAUUSD at 1319.94 was modified -> sl: 0.00 tp: 1307.18
+0	13:57:55.152	MetaTrader build 1170 stopped
+0	17:03:50.078	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	17:03:50.078	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1379 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	17:03:50.078	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	17:03:52.877	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 117.69 ms)
+0	17:03:54.426	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 117.69 ms)
+0	17:03:54.724	'1061950': previous successful authorization performed from 190.216.168.14
+0	17:03:55.859	'1061950': ping to current access point NY DC is 120.89 ms
+0	17:23:58.654	MetaTrader build 1170 stopped
+0	17:48:47.101	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	17:48:47.111	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 832 / 8072 Mb, Disk: 380 / 442 Gb, GMT-5
+0	17:48:47.111	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	17:48:49.635	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 120.89 ms)
+0	17:48:50.908	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 120.89 ms)
+0	17:48:51.251	'1061950': previous successful authorization performed from 190.216.168.98
+0	17:49:36.659	'1061950': order buy market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	17:49:36.838	'1061950': order was opened : #137377633 buy 0.10 EURUSD at 1.13738 sl: 0.00000 tp: 0.00000
+0	17:49:45.088	'1061950': modify order #137377633 buy 0.10 EURUSD at 1.13738 sl: 0.00000 tp: 0.00000 -> sl: 1.13415 tp: 1.14715
+0	17:49:45.268	'1061950': order #137377633 buy 0.10 EURUSD at 1.13738 was modified -> sl: 1.13415 tp: 1.14715
+0	17:49:50.528	'1061950': modify order #137377633 buy 0.10 EURUSD at 1.13738 sl: 1.13415 tp: 1.14715 -> sl: 1.13619 tp: 1.14715
+0	17:49:50.708	'1061950': order #137377633 buy 0.10 EURUSD at 1.13738 was modified -> sl: 1.13619 tp: 1.14715
+0	17:49:59.437	MetaTrader build 1170 stopped
