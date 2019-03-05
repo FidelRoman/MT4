@@ -1,8 +1,8 @@
 <chart>
 id=131953369075155307
 symbol=XAUUSD
-period=60
-leftpos=1970
+period=1440
+leftpos=1912
 digits=2
 scale=8
 graph=1
@@ -34,7 +34,7 @@ chartline_color=0
 volumes_color=32768
 grid_color=12632256
 askline_color=17919
-stops_color=4294967295
+stops_color=17919
 
 <window>
 height=129

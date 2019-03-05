@@ -1,9 +1,9 @@
 <chart>
-id=131953369099098378
-symbol=US500
-period=1440
-leftpos=1951
-digits=1
+id=131953369075155307
+symbol=XAUUSD
+period=240
+leftpos=1988
+digits=2
 scale=8
 graph=1
 fore=0
@@ -19,17 +19,17 @@ days=0
 descriptions=0
 shift_size=20
 fixed_pos=0
-window_left=182
-window_top=182
-window_right=1077
-window_bottom=571
+window_left=156
+window_top=156
+window_right=1051
+window_bottom=545
 window_type=1
 background_color=16119285
 foreground_color=0
 barup_color=0
 bardown_color=0
-bullcandle_color=8478258
-bearcandle_color=8421616
+bullcandle_color=55295
+bearcandle_color=7451452
 chartline_color=0
 volumes_color=32768
 grid_color=12632256
@@ -37,25 +37,10 @@ askline_color=17919
 stops_color=17919
 
 <window>
-height=128
+height=129
 fixed_height=0
 <indicator>
 name=main
-<object>
-type=1
-object_name=Horizontal Line 38841
-period_flags=0
-create_time=1550161849
-color=8388736
-style=1
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-value_0=1319.245259
-</object>
 <object>
 type=1
 object_name=Horizontal Line 50922
@@ -69,13 +54,32 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=1314.206061
+value_0=1332.628972
+</object>
+<object>
+type=16
+object_name=Rectangle 35514
+period_flags=0
+create_time=1551272634
+color=14524637
+style=0
+weight=1
+background=1
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1550790000
+value_0=1321.060000
+time_1=1551283200
+value_1=1332.567290
+ray=0
 </object>
 <object>
 type=1
-object_name=Horizontal Line 50930
+object_name=Horizontal Line 41854
 period_flags=0
-create_time=1550173938
+create_time=1551737726
 color=8388736
 style=1
 weight=1
@@ -84,13 +88,13 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=1310.344628
+value_0=1283.656322
 </object>
 <object>
 type=1
-object_name=Horizontal Line 59906
+object_name=Horizontal Line 41857
 period_flags=0
-create_time=1550182914
+create_time=1551737729
 color=8388736
 style=1
 weight=1
@@ -99,43 +103,13 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=2772.873935
-</object>
-<object>
-type=1
-object_name=Horizontal Line 59913
-period_flags=0
-create_time=1550182921
-color=8388736
-style=1
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-value_0=2762.480750
-</object>
-<object>
-type=1
-object_name=Horizontal Line 59979
-period_flags=0
-create_time=1550182987
-color=8388736
-style=1
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-value_0=2680.956474
+value_0=1289.663218
 </object>
 </indicator>
 </window>
 
 <window>
-height=30
+height=29
 fixed_height=0
 <indicator>
 name=Volumes

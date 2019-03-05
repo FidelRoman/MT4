@@ -1,0 +1,100 @@
+0	10:02:11.748	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	10:02:11.749	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2116 / 8072 Mb, Disk: 386 / 442 Gb, GMT-5
+0	10:02:11.749	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	10:02:16.772	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 117.50 ms)
+0	10:02:18.042	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 117.50 ms)
+0	10:02:18.476	'1061950': previous successful authorization performed from 190.216.168.14
+0	10:02:20.015	'1061950': ping to current access point NY DC is 116.05 ms
+0	10:02:26.959	'1061950': modify pending order #137567360 sell limit 0.10 EURUSD at 1.13515 sl: 1.13801 tp: 1.12991 -> price: 1.13515 sl: 1.13801 tp: 1.12902
+0	10:02:27.159	'1061950': pending order #137567360 sell limit 0.10 EURUSD was modified -> price: 1.13515 sl: 1.13801 tp: 1.12902
+0	10:03:08.095	'1061950': modify pending order #137567360 sell limit 0.10 EURUSD at 1.13515 sl: 1.13801 tp: 1.12902 -> price: 1.13515 sl: 1.13801 tp: 1.12939
+0	10:03:08.271	'1061950': pending order #137567360 sell limit 0.10 EURUSD was modified -> price: 1.13515 sl: 1.13801 tp: 1.12939
+0	10:06:16.838	'1061950': modify order #137589095 sell 0.10 EURUSD at 1.13370 sl: 1.13527 tp: 0.00000 -> sl: 1.13230 tp: 0.00000
+0	10:06:17.025	'1061950': order #137589095 sell 0.10 EURUSD at 1.13370 was modified -> sl: 1.13230 tp: 0.00000
+0	10:17:03.846	'1061950': modify pending order #137567360 sell limit 0.10 EURUSD at 1.13515 sl: 1.13801 tp: 1.12939 -> price: 1.13515 sl: 1.13801 tp: 1.12955
+0	10:17:04.028	'1061950': pending order #137567360 sell limit 0.10 EURUSD was modified -> price: 1.13515 sl: 1.13801 tp: 1.12955
+0	10:17:27.959	'1061950': delete pending order #137567360 sell limit 0.10 EURUSD at 1.13515 sl: 1.13801 tp: 1.12955
+0	10:17:28.131	'1061950': pending order #137567360 was deleted
+0	10:17:33.246	'1061950': modify order #137589095 sell 0.10 EURUSD at 1.13370 sl: 1.13230 tp: 0.00000 -> sl: 1.13191 tp: 0.00000
+0	10:17:33.433	'1061950': order #137589095 sell 0.10 EURUSD at 1.13370 was modified -> sl: 1.13191 tp: 0.00000
+0	10:17:41.685	MetaTrader build 1170 stopped
+0	10:27:31.863	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	10:27:31.863	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1115 / 8072 Mb, Disk: 385 / 442 Gb, GMT-5
+0	10:27:31.863	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	10:27:35.136	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 116.05 ms)
+0	10:27:36.329	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 116.05 ms)
+0	10:27:36.660	'1061950': previous successful authorization performed from 190.216.168.98
+0	10:31:37.736	'1061950': modify order #137589095 sell 0.10 EURUSD at 1.13370 sl: 1.13191 tp: 0.00000 -> sl: 1.13191 tp: 1.12750
+0	10:31:37.924	'1061950': order #137589095 sell 0.10 EURUSD at 1.13370 was modified -> sl: 1.13191 tp: 1.12750
+0	10:32:32.883	'1061950': close order #137589095 sell 0.10 EURUSD at 1.13370 sl: 1.13191 tp: 1.12750 at price 0.00000
+0	10:32:33.072	'1061950': order #137589095 sell 0.10 EURUSD at 1.13370 sl: 1.13191 tp: 1.12750 closed at price 1.12944
+0	10:33:51.456	'1061950': pending order sell limit 0.10 XAUUSD at 1282.97 sl: 0.00 tp: 0.00
+0	10:33:51.644	'1061950': order was opened : #137646250 sell limit 0.10 XAUUSD at 1282.97 sl: 0.00 tp: 0.00
+0	10:34:14.618	'1061950': modify pending order #137646250 sell limit 0.10 XAUUSD at 1282.97 sl: 0.00 tp: 0.00 -> price: 1282.97 sl: 1286.66 tp: 0.00
+0	10:34:14.821	'1061950': pending order #137646250 sell limit 0.10 XAUUSD was modified -> price: 1282.97 sl: 1286.66 tp: 0.00
+0	10:34:21.658	'1061950': modify pending order #137646250 sell limit 0.10 XAUUSD at 1282.97 sl: 1286.66 tp: 0.00 -> price: 1282.97 sl: 1283.89 tp: 0.00
+0	10:34:21.845	'1061950': pending order #137646250 sell limit 0.10 XAUUSD was modified -> price: 1282.97 sl: 1283.89 tp: 0.00
+0	10:34:35.478	MetaTrader build 1170 stopped
+0	12:07:42.484	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:07:42.486	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2636 / 8072 Mb, Disk: 384 / 442 Gb, GMT-5
+0	12:07:42.486	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	12:07:46.548	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 116.05 ms)
+0	12:07:47.748	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 116.05 ms)
+0	12:07:48.110	'1061950': previous successful authorization performed from 190.216.168.14
+0	12:07:49.763	'1061950': ping to current access point NY DC is 117.27 ms
+1	12:55:33.531	'1061950': ping failed
+1	12:55:33.624	'1061950': connect failed [No hay conexión]
+0	12:55:39.602	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: n/a)
+0	12:55:41.616	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: n/a)
+0	12:55:42.339	'1061950': previous successful authorization performed from 190.216.168.98
+0	12:55:43.402	'1061950': ping to current access point NY DC2 is 120.25 ms
+0	12:59:50.336	MetaTrader build 1170 stopped
+0	13:15:09.719	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	13:15:09.719	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2394 / 8072 Mb, Disk: 384 / 442 Gb, GMT-5
+0	13:15:09.719	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	13:15:13.221	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 120.25 ms)
+0	13:15:14.837	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 120.25 ms)
+0	13:15:15.325	'1061950': previous successful authorization performed from 190.216.168.98
+2	13:17:15.986	Custom indicator Heiken Ashi EURUSD,H4: loaded successfully
+2	13:20:53.233	Custom indicator Heiken Ashi EURUSD,H1: removed
+0	13:29:19.005	MetaTrader build 1170 stopped
+0	15:01:02.879	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	15:01:02.879	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1737 / 8072 Mb, Disk: 384 / 442 Gb, GMT-5
+0	15:01:02.879	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	15:01:06.308	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 120.25 ms)
+0	15:01:08.029	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 120.25 ms)
+0	15:01:08.505	'1061950': previous successful authorization performed from 54.189.196.21
+0	15:01:09.761	'1061950': auto connecting to a better access point NY DC (ping is 117.24 ms)
+0	15:01:10.198	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 117.24 ms)
+0	15:01:11.339	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 117.24 ms)
+0	15:01:11.672	'1061950': previous successful authorization performed from 190.216.168.98
+0	15:03:14.759	'1061950': pending order buy limit 0.10 XAUUSD at 929.62 sl: 0.00 tp: 0.00
+0	15:03:15.009	'1061950': order was opened : #137668976 buy limit 0.10 XAUUSD at 929.62 sl: 0.00 tp: 0.00
+0	15:03:18.756	'1061950': delete pending order #137668976 buy limit 0.10 XAUUSD at 929.62 sl: 0.00 tp: 0.00
+0	15:03:18.959	'1061950': pending order #137668976 was deleted
+0	15:03:22.396	'1061950': pending order buy limit 0.10 XAUUSD at 586.13 sl: 0.00 tp: 0.00
+0	15:03:22.593	'1061950': order was opened : #137668980 buy limit 0.10 XAUUSD at 586.13 sl: 0.00 tp: 0.00
+0	15:03:38.981	'1061950': delete pending order #137668980 buy limit 0.10 XAUUSD at 586.13 sl: 0.00 tp: 0.00
+0	15:03:39.184	'1061950': pending order #137668980 was deleted
+0	15:03:50.099	'1061950': pending order buy limit 0.01 XAUUSD at 500.00 sl: 0.00 tp: 0.00
+0	15:03:50.302	'1061950': order was opened : #137668987 buy limit 0.01 XAUUSD at 500.00 sl: 0.00 tp: 0.00
+0	15:03:57.066	'1061950': delete pending order #137668987 buy limit 0.01 XAUUSD at 500.00 sl: 0.00 tp: 0.00
+0	15:03:57.269	'1061950': pending order #137668987 was deleted
+0	15:04:07.400	'1061950': pending order buy limit 0.01 XAUUSD at 500.00 sl: 0.00 tp: 0.00
+0	15:04:07.603	'1061950': order was opened : #137668991 buy limit 0.01 XAUUSD at 500.00 sl: 0.00 tp: 0.00
+0	15:05:34.462	MetaTrader build 1170 stopped
+0	15:18:50.990	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	15:18:50.990	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 1412 / 8072 Mb, Disk: 384 / 442 Gb, GMT-5
+0	15:18:50.990	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	15:18:54.161	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 117.24 ms)
+0	15:18:55.410	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 117.24 ms)
+0	15:18:56.011	'1061950': previous successful authorization performed from 190.216.168.98
+0	15:28:11.735	MetaTrader build 1170 stopped
+0	16:27:42.279	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:27:42.295	Windows 10 Pro x64, IE 11, UAC, 8 x Intel Core i7-6700  @ 3.40GHz, Memory: 2561 / 8072 Mb, Disk: 384 / 442 Gb, GMT-5
+0	16:27:42.295	Data Folder: C:\Users\lroman\AppData\Roaming\MetaQuotes\Terminal\5851ADDFD3B166E53878035FB8BF9FAC
+0	16:27:46.186	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 117.24 ms)
+0	16:27:47.407	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 117.24 ms)
+0	16:27:47.807	'1061950': previous successful authorization performed from 190.216.168.98
+0	16:27:49.134	'1061950': ping to current access point NY DC is 115.84 ms
+0	16:34:36.326	MetaTrader build 1170 stopped
