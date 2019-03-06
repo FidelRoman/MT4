@@ -1,8 +1,8 @@
 <chart>
-id=131953369099098378
+id=131953650393588282
 symbol=US500
 period=60
-leftpos=1898
+leftpos=1816
 digits=1
 scale=8
 graph=1
@@ -19,10 +19,10 @@ days=0
 descriptions=0
 shift_size=20
 fixed_pos=0
-window_left=182
-window_top=182
-window_right=1077
-window_bottom=571
+window_left=104
+window_top=104
+window_right=1603
+window_bottom=640
 window_type=3
 background_color=16119285
 foreground_color=0
@@ -139,7 +139,7 @@ height=30
 fixed_height=0
 <indicator>
 name=Volumes
-color=8478258
+color=7451452
 style=0
 weight=3
 color2=3937500
