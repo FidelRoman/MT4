@@ -1,0 +1,126 @@
+0	10:54:03.732	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	10:54:03.732	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9265 / 16250 Mb, Disk: 752 / 919 Gb, GMT-5
+0	10:54:03.732	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	10:54:08.045	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 120.03 ms)
+0	10:54:09.938	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 120.03 ms)
+0	10:54:10.390	'1600030859': previous successful authorization performed from 34.213.194.214
+0	10:54:37.668	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 119.56 ms)
+0	10:54:39.199	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 119.56 ms)
+0	10:54:40.849	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 119.56 ms)
+0	10:54:41.239	'1600030859': previous successful authorization performed from 190.238.103.207
+0	10:55:31.377	'1600030859': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	10:55:31.604	'1600030859': order was opened : #12396233 sell 0.01 XAUUSD at 1340.24 sl: 0.00 tp: 0.00
+0	10:55:35.651	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 0.00 tp: 0.00 -> sl: 1348.41 tp: 0.00
+0	10:55:35.866	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1348.41 tp: 0.00
+0	10:56:23.841	'1600030859': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	10:56:24.100	'1600030859': order was opened : #12396480 sell 0.01 EURUSD at 1.13261 sl: 0.00000 tp: 0.00000
+0	10:56:27.932	'1600030859': modify order #12396480 sell 0.01 EURUSD at 1.13261 sl: 0.00000 tp: 0.00000 -> sl: 1.13487 tp: 0.00000
+0	10:56:28.121	'1600030859': order #12396480 sell 0.01 EURUSD at 1.13261 was modified -> sl: 1.13487 tp: 0.00000
+0	10:56:50.449	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1348.41 tp: 0.00 -> sl: 1342.64 tp: 0.00
+0	10:56:50.660	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1342.64 tp: 0.00
+0	10:57:14.563	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1342.64 tp: 0.00 -> sl: 1340.99 tp: 0.00
+0	10:57:14.792	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1340.99 tp: 0.00
+0	10:57:31.193	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1340.99 tp: 0.00 -> sl: 1340.46 tp: 0.00
+0	10:57:31.449	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1340.46 tp: 0.00
+0	10:57:37.971	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1340.46 tp: 0.00 -> sl: 1340.21 tp: 0.00
+0	10:57:38.146	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1340.21 tp: 0.00
+1	10:57:38.828	'1600030859': modification of order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1340.21 tp: 0.00 -> sl: 1340.21 tp: 1340.18 failed [Invalid S/L or T/P]
+0	10:57:40.042	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1340.21 tp: 0.00 -> sl: 1340.27 tp: 0.00
+0	10:57:40.226	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1340.27 tp: 0.00
+0	10:57:44.639	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1340.27 tp: 0.00 -> sl: 1340.21 tp: 0.00
+0	10:57:44.868	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1340.21 tp: 0.00
+0	10:58:20.756	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1340.21 tp: 0.00 -> sl: 1340.23 tp: 0.00
+0	10:58:20.948	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1340.23 tp: 0.00
+0	10:58:21.210	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1340.23 tp: 0.00 -> sl: 1340.27 tp: 0.00
+0	10:58:21.442	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1340.27 tp: 0.00
+0	10:58:31.233	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1340.27 tp: 0.00 -> sl: 1340.84 tp: 0.00
+0	10:58:31.505	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1340.84 tp: 0.00
+0	10:58:38.833	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1340.84 tp: 0.00 -> sl: 1340.31 tp: 0.00
+0	10:58:39.066	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1340.31 tp: 0.00
+0	10:58:45.122	'1600030859': modify order #12396233 sell 0.01 XAUUSD at 1340.24 sl: 1340.31 tp: 0.00 -> sl: 1340.19 tp: 0.00
+0	10:58:45.322	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 was modified -> sl: 1340.19 tp: 0.00
+0	10:59:15.143	'1600030859': order #12396233 sell 0.01 XAUUSD at 1340.24 closed due stop-loss at price 1340.29
+0	10:59:39.001	'1600030859': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	10:59:39.243	'1600030859': order was opened : #12397211 sell 0.01 XAUUSD at 1339.93 sl: 0.00 tp: 0.00
+0	10:59:41.668	'1600030859': modify order #12397211 sell 0.01 XAUUSD at 1339.93 sl: 0.00 tp: 0.00 -> sl: 1341.45 tp: 0.00
+0	10:59:41.880	'1600030859': order #12397211 sell 0.01 XAUUSD at 1339.93 was modified -> sl: 1341.45 tp: 0.00
+0	10:59:45.118	'1600030859': modify order #12397211 sell 0.01 XAUUSD at 1339.93 sl: 1341.45 tp: 0.00 -> sl: 1341.72 tp: 0.00
+0	10:59:45.333	'1600030859': order #12397211 sell 0.01 XAUUSD at 1339.93 was modified -> sl: 1341.72 tp: 0.00
+0	10:59:49.420	'1600030859': modify order #12397211 sell 0.01 XAUUSD at 1339.93 sl: 1341.72 tp: 0.00 -> sl: 1342.03 tp: 0.00
+0	10:59:49.649	'1600030859': order #12397211 sell 0.01 XAUUSD at 1339.93 was modified -> sl: 1342.03 tp: 0.00
+0	10:59:51.785	'1600030859': modify order #12397211 sell 0.01 XAUUSD at 1339.93 sl: 1342.03 tp: 0.00 -> sl: 1341.91 tp: 0.00
+0	10:59:52.023	'1600030859': order #12397211 sell 0.01 XAUUSD at 1339.93 was modified -> sl: 1341.91 tp: 0.00
+0	11:00:57.049	'1600030859': modify order #12396480 sell 0.01 EURUSD at 1.13261 sl: 1.13487 tp: 0.00000 -> sl: 1.13487 tp: 1.11143
+0	11:00:57.245	'1600030859': order #12396480 sell 0.01 EURUSD at 1.13261 was modified -> sl: 1.13487 tp: 1.11143
+0	11:01:00.322	'1600030859': modify order #12396480 sell 0.01 EURUSD at 1.13261 sl: 1.13487 tp: 1.11143 -> sl: 1.13487 tp: 1.12156
+0	11:01:00.519	'1600030859': order #12396480 sell 0.01 EURUSD at 1.13261 was modified -> sl: 1.13487 tp: 1.12156
+0	11:01:15.261	'1600030859': modify order #12397211 sell 0.01 XAUUSD at 1339.93 sl: 1341.91 tp: 0.00 -> sl: 1344.89 tp: 0.00
+0	11:01:15.512	'1600030859': order #12397211 sell 0.01 XAUUSD at 1339.93 was modified -> sl: 1344.89 tp: 0.00
+0	11:03:18.147	'1600030859': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	11:03:18.352	'1600030859': order was opened : #12398077 sell 0.01 XAUUSD at 1340.79 sl: 0.00 tp: 0.00
+0	11:03:22.644	'1600030859': modify order #12398077 sell 0.01 XAUUSD at 1340.79 sl: 0.00 tp: 0.00 -> sl: 1343.29 tp: 0.00
+0	11:03:23.033	'1600030859': order #12398077 sell 0.01 XAUUSD at 1340.79 was modified -> sl: 1343.29 tp: 0.00
+0	11:03:29.018	'1600030859': modify order #12398077 sell 0.01 XAUUSD at 1340.79 sl: 1343.29 tp: 0.00 -> sl: 1343.86 tp: 0.00
+0	11:03:29.238	'1600030859': order #12398077 sell 0.01 XAUUSD at 1340.79 was modified -> sl: 1343.86 tp: 0.00
+0	11:09:38.588	'1600030859': close order #12397211 sell 0.01 XAUUSD at 1339.93 sl: 1344.89 tp: 0.00 at price 0.00
+0	11:09:38.846	'1600030859': order #12397211 sell 0.01 XAUUSD at 1339.93 sl: 1344.89 tp: 0.00 closed at price 1342.63
+0	11:10:25.027	'1600030859': modify order #12398077 sell 0.01 XAUUSD at 1340.79 sl: 1343.86 tp: 0.00 -> sl: 1343.86 tp: 1338.59
+0	11:10:25.218	'1600030859': order #12398077 sell 0.01 XAUUSD at 1340.79 was modified -> sl: 1343.86 tp: 1338.59
+1	11:19:02.102	'1600030859': ping failed
+1	11:19:02.104	'1600030859': datacenter connecting failed [6]
+0	11:19:02.777	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 128.80 ms)
+0	11:19:03.882	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 128.80 ms)
+0	11:19:04.229	'1600030859': previous successful authorization performed from 190.238.103.207
+0	11:22:22.226	'1600030859': modify order #12398077 sell 0.01 XAUUSD at 1340.79 sl: 1343.86 tp: 1338.59 -> sl: 1343.86 tp: 1340.15
+0	11:22:22.444	'1600030859': order #12398077 sell 0.01 XAUUSD at 1340.79 was modified -> sl: 1343.86 tp: 1340.15
+0	11:31:02.443	'1600030859': modify order #12398077 sell 0.01 XAUUSD at 1340.79 sl: 1343.86 tp: 1340.15 -> sl: 1345.20 tp: 1340.15
+0	11:31:02.654	'1600030859': order #12398077 sell 0.01 XAUUSD at 1340.79 was modified -> sl: 1345.20 tp: 1340.15
+0	11:31:47.999	MetaTrader build 1170 stopped
+0	11:35:19.782	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:35:19.783	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9962 / 16250 Mb, Disk: 752 / 919 Gb, GMT-5
+0	11:35:19.783	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	11:35:24.035	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 128.80 ms)
+0	11:35:27.849	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 128.80 ms)
+0	11:35:29.250	'1600030859': previous successful authorization performed from 34.213.194.214
+0	11:35:34.354	'1600030859': close order #12398077 sell 0.01 XAUUSD at 1340.79 sl: 1345.20 tp: 1340.15 at price 0.00
+0	11:35:34.764	'1600030859': order #12398077 sell 0.01 XAUUSD at 1340.79 sl: 1345.20 tp: 1340.15 closed at price 1343.89
+0	11:35:48.565	MetaTrader build 1170 stopped
+0	13:50:56.583	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	13:50:56.583	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12606 / 16250 Mb, Disk: 752 / 919 Gb, GMT-5
+0	13:50:56.583	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	13:50:59.684	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 128.80 ms)
+0	13:51:02.218	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 128.80 ms)
+0	13:51:02.700	'1600030859': previous successful authorization performed from 34.213.194.214
+0	13:51:08.974	'1600030859': ping to current access point NY4 DC 1 is 120.90 ms
+0	13:51:11.035	MetaTrader build 1170 stopped
+0	14:23:20.917	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:23:20.918	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9622 / 16250 Mb, Disk: 752 / 919 Gb, GMT-5
+0	14:23:20.918	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	14:23:26.069	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 120.90 ms)
+0	14:23:36.236	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 120.90 ms)
+0	14:23:39.413	'1600030859': previous successful authorization performed from 34.213.194.214
+0	14:23:52.237	MetaTrader build 1170 stopped
+0	14:51:28.575	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:51:28.575	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10989 / 16250 Mb, Disk: 752 / 919 Gb, GMT-5
+0	14:51:28.575	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	14:51:31.323	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 120.90 ms)
+0	14:51:33.144	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 120.90 ms)
+0	14:51:33.522	'1600030859': previous successful authorization performed from 190.238.103.207
+0	14:52:02.578	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 119.06 ms)
+1	14:52:03.596	'1600030859': connect failed [No connection]
+0	14:52:04.378	MetaTrader build 1170 stopped
+0	15:40:48.258	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	15:40:48.258	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11447 / 16250 Mb, Disk: 750 / 919 Gb, GMT-5
+0	15:40:48.258	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	15:40:53.316	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 119.06 ms)
+0	15:40:55.960	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 119.06 ms)
+0	15:40:56.552	'1600030859': previous successful authorization performed from 34.213.194.214
+0	15:41:05.893	MetaTrader build 1170 stopped
+0	20:30:04.903	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	20:30:04.903	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11004 / 16250 Mb, Disk: 749 / 919 Gb, GMT-5
+0	20:30:04.903	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	20:30:08.971	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 119.06 ms)
+0	20:30:10.851	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 119.06 ms)
+0	20:30:11.318	'1600030859': previous successful authorization performed from 190.238.103.207
+0	20:30:14.434	'1600030859': auto connecting to a better access point NY4 DC 1 (ping is 132.03 ms)
+0	20:30:15.097	MetaTrader build 1170 stopped

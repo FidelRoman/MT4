@@ -1,0 +1,15 @@
+0	22:20:43.368	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:20:43.368	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12131 / 16250 Mb, Disk: 752 / 919 Gb, GMT-5
+0	22:20:43.368	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:20:56.291	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 117.08 ms)
+0	22:20:58.965	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 117.08 ms)
+0	22:20:59.313	'1600030859': previous successful authorization performed from 34.214.22.214
+0	22:21:25.776	'1600030859': ping to current access point NY4 DC 1 is 120.03 ms
+0	22:23:22.360	MetaTrader build 1170 stopped
+0	22:59:43.278	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:59:43.279	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 8980 / 16250 Mb, Disk: 752 / 919 Gb, GMT-5
+0	22:59:43.279	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:59:50.837	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 120.03 ms)
+0	22:59:52.416	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 120.03 ms)
+0	22:59:52.794	'1600030859': previous successful authorization performed from 190.238.103.207
+0	23:00:08.198	MetaTrader build 1170 stopped

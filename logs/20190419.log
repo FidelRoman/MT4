@@ -1,0 +1,33 @@
+0	15:54:30.560	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	15:54:30.560	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 5034 / 8058 Mb, Disk: 753 / 919 Gb, GMT-5
+0	15:54:30.560	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	15:54:35.938	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 124.78 ms)
+0	15:54:39.888	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 124.78 ms)
+0	15:54:40.439	'1600030859': previous successful authorization performed from 190.239.85.89
+1	15:55:13.024	'1600030859': modification of order #6296189 buy 0.01 NZDCAD at 0.89415 sl: 0.89106 tp: 0.92729 -> sl: 0.89106 tp: 0.89416 failed [Invalid S/L or T/P]
+0	15:55:14.152	'1600030859': ping to current access point NY4 DC 1 is 145.18 ms
+0	15:55:14.392	'1600030859': modify order #6296189 buy 0.01 NZDCAD at 0.89415 sl: 0.89106 tp: 0.92729 -> sl: 0.89411 tp: 0.92729
+0	15:55:14.593	'1600030859': order #6296189 buy 0.01 NZDCAD at 0.89415 was modified -> sl: 0.89411 tp: 0.92729
+0	15:55:26.528	'1600030859': modify order #6296189 buy 0.01 NZDCAD at 0.89415 sl: 0.89411 tp: 0.92729 -> sl: 0.89416 tp: 0.92729
+0	15:55:26.724	'1600030859': order #6296189 buy 0.01 NZDCAD at 0.89415 was modified -> sl: 0.89416 tp: 0.92729
+0	15:55:36.696	'1600030859': modify order #6296189 buy 0.01 NZDCAD at 0.89415 sl: 0.89416 tp: 0.92729 -> sl: 0.89380 tp: 0.92729
+0	15:55:36.891	'1600030859': order #6296189 buy 0.01 NZDCAD at 0.89415 was modified -> sl: 0.89380 tp: 0.92729
+0	15:55:39.810	'1600030859': modify order #6296189 buy 0.01 NZDCAD at 0.89415 sl: 0.89380 tp: 0.92729 -> sl: 0.89371 tp: 0.92729
+0	15:55:39.994	'1600030859': order #6296189 buy 0.01 NZDCAD at 0.89415 was modified -> sl: 0.89371 tp: 0.92729
+0	15:55:49.214	'1600030859': modify order #6296189 buy 0.01 NZDCAD at 0.89415 sl: 0.89371 tp: 0.92729 -> sl: 0.89371 tp: 0.90546
+0	15:55:49.626	'1600030859': order #6296189 buy 0.01 NZDCAD at 0.89415 was modified -> sl: 0.89371 tp: 0.90546
+0	15:56:24.552	'1600030859': order sell market 0.01 USDCHF sl: 0.00000 tp: 0.00000
+0	15:56:24.780	'1600030859': order was opened : #6367914 sell 0.01 USDCHF at 1.01399 sl: 0.00000 tp: 0.00000
+0	15:56:35.592	'1600030859': modify order #6367914 sell 0.01 USDCHF at 1.01399 sl: 0.00000 tp: 0.00000 -> sl: 1.01617 tp: 0.00000
+0	15:56:35.804	'1600030859': order #6367914 sell 0.01 USDCHF at 1.01399 was modified -> sl: 1.01617 tp: 0.00000
+0	15:56:59.895	'1600030859': modify order #6367914 sell 0.01 USDCHF at 1.01399 sl: 1.01617 tp: 0.00000 -> sl: 1.01617 tp: 0.99112
+0	15:57:00.189	'1600030859': order #6367914 sell 0.01 USDCHF at 1.01399 was modified -> sl: 1.01617 tp: 0.99112
+0	15:57:12.032	'1600030859': modify order #6367914 sell 0.01 USDCHF at 1.01399 sl: 1.01617 tp: 0.99112 -> sl: 1.01617 tp: 1.00871
+1	15:57:12.366	'1600030859': modification of order #6367914 sell 0.01 USDCHF at 1.01399 sl: 1.01617 tp: 0.99112 -> sl: 1.01617 tp: 1.00871 failed [Market is closed]
+0	15:57:15.320	'1600030859': modify order #6367914 sell 0.01 USDCHF at 1.01399 sl: 1.01617 tp: 0.99112 -> sl: 1.01617 tp: 1.00863
+1	15:57:15.537	'1600030859': modification of order #6367914 sell 0.01 USDCHF at 1.01399 sl: 1.01617 tp: 0.99112 -> sl: 1.01617 tp: 1.00863 failed [Market is closed]
+0	15:57:17.482	'1600030859': modify order #6367914 sell 0.01 USDCHF at 1.01399 sl: 1.01617 tp: 0.99112 -> sl: 1.01617 tp: 0.99570
+1	15:57:17.685	'1600030859': modification of order #6367914 sell 0.01 USDCHF at 1.01399 sl: 1.01617 tp: 0.99112 -> sl: 1.01617 tp: 0.99570 failed [Market is closed]
+0	15:57:19.137	'1600030859': modify order #6367914 sell 0.01 USDCHF at 1.01399 sl: 1.01617 tp: 0.99112 -> sl: 1.01617 tp: 0.99038
+1	15:57:19.352	'1600030859': modification of order #6367914 sell 0.01 USDCHF at 1.01399 sl: 1.01617 tp: 0.99112 -> sl: 1.01617 tp: 0.99038 failed [Market is closed]
+0	15:57:23.002	MetaTrader build 1170 stopped

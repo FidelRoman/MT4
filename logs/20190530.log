@@ -1,0 +1,15 @@
+0	22:16:06.184	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:16:06.184	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10824 / 16250 Mb, Disk: 770 / 919 Gb, GMT-5
+0	22:16:06.184	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:16:15.166	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 119.51 ms)
+0	22:16:23.747	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 119.51 ms)
+0	22:16:26.316	'1600030859': previous successful authorization performed from 34.208.88.221
+0	22:17:46.251	'1600030859': auto connecting to a better access point ICM-DC-BS (ping is 272.64 ms)
+0	22:17:47.870	MetaTrader build 1170 stopped
+0	22:28:09.611	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:28:09.611	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11811 / 16250 Mb, Disk: 770 / 919 Gb, GMT-5
+0	22:28:09.611	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:28:18.591	'1600030859': login on ICMarkets-Live16 through ICM-DC-BS (ping: 272.64 ms)
+0	22:28:34.577	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-BS (ping: 272.64 ms)
+0	22:28:38.797	'1600030859': previous successful authorization performed from 190.238.105.217
+0	22:29:47.143	MetaTrader build 1170 stopped

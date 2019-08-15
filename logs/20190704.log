@@ -1,0 +1,54 @@
+0	22:01:58.761	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:01:58.761	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10448 / 16250 Mb, Disk: 763 / 919 Gb, GMT-5
+0	22:01:58.761	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:02:04.304	'1600030859': login on ICMarkets-Live16 through SYD_DC01_AWS (ping: 636.11 ms)
+0	22:02:10.151	'1600030859': login datacenter on ICMarkets-Live16 through SYD_DC01_AWS (ping: 636.11 ms)
+0	22:02:11.286	'1600030859': previous successful authorization performed from 190.239.83.231
+0	22:02:34.124	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 116.74 ms)
+0	22:02:35.248	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 116.74 ms)
+0	22:02:36.635	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 116.74 ms)
+0	22:02:37.046	'1600030859': previous successful authorization performed from 190.232.110.253
+0	22:03:02.126	'1600030859': order buy market 0.02 EURUSD sl: 0.00000 tp: 0.00000
+0	22:03:02.402	'1600030859': order was opened : #14649408 buy 0.02 EURUSD at 1.12825 sl: 0.00000 tp: 0.00000
+0	22:03:11.502	'1600030859': modify order #14649408 buy 0.02 EURUSD at 1.12825 sl: 0.00000 tp: 0.00000 -> sl: 1.12638 tp: 0.00000
+0	22:03:11.699	'1600030859': order #14649408 buy 0.02 EURUSD at 1.12825 was modified -> sl: 1.12638 tp: 0.00000
+0	22:03:31.182	'1600030859': modify order #14649408 buy 0.02 EURUSD at 1.12825 sl: 1.12638 tp: 0.00000 -> sl: 1.12638 tp: 1.14092
+0	22:03:31.371	'1600030859': order #14649408 buy 0.02 EURUSD at 1.12825 was modified -> sl: 1.12638 tp: 1.14092
+0	22:11:42.421	MetaTrader build 1170 stopped
+0	22:18:20.025	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:18:20.025	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9813 / 16250 Mb, Disk: 763 / 919 Gb, GMT-5
+0	22:18:20.025	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:18:22.715	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 116.74 ms)
+0	22:18:24.724	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 116.74 ms)
+0	22:18:25.130	'1600030859': previous successful authorization performed from 34.220.133.136
+0	22:20:00.632	MetaTrader build 1170 stopped
+0	22:33:11.858	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:33:11.859	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9974 / 16250 Mb, Disk: 763 / 919 Gb, GMT-5
+0	22:33:11.859	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:33:14.804	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 116.74 ms)
+0	22:33:17.029	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 116.74 ms)
+0	22:33:17.388	'1600030859': previous successful authorization performed from 190.232.110.253
+0	22:34:05.428	MetaTrader build 1170 stopped
+0	22:42:01.588	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:42:01.589	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10659 / 16250 Mb, Disk: 763 / 919 Gb, GMT-5
+0	22:42:01.589	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:42:04.621	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 116.74 ms)
+0	22:42:08.012	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 116.74 ms)
+0	22:42:08.578	'1600030859': previous successful authorization performed from 190.232.110.253
+0	22:42:43.650	MetaTrader build 1170 stopped
+0	23:13:57.368	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	23:13:57.369	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11097 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	23:13:57.369	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	23:14:03.486	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 116.74 ms)
+0	23:14:11.029	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 116.74 ms)
+0	23:14:11.652	'1600030859': previous successful authorization performed from 190.232.110.253
+0	23:15:09.852	'1600030859': ping to current access point Vir_DC01_AWS is 154.45 ms
+0	23:15:16.421	'1600030859': order sell market 0.01 EURGBP sl: 0.00000 tp: 0.00000
+0	23:15:16.865	'1600030859': order was opened : #14650447 sell 0.01 EURGBP at 0.89654 sl: 0.00000 tp: 0.00000
+0	23:15:21.253	'1600030859': modify order #14650447 sell 0.01 EURGBP at 0.89654 sl: 0.00000 tp: 0.00000 -> sl: 0.89987 tp: 0.00000
+0	23:15:21.653	'1600030859': order #14650447 sell 0.01 EURGBP at 0.89654 was modified -> sl: 0.89987 tp: 0.00000
+0	23:15:59.477	'1600030859': modify order #14650447 sell 0.01 EURGBP at 0.89654 sl: 0.89987 tp: 0.00000 -> sl: 0.89987 tp: 0.86813
+0	23:15:59.757	'1600030859': order #14650447 sell 0.01 EURGBP at 0.89654 was modified -> sl: 0.89987 tp: 0.86813
+0	23:16:01.648	'1600030859': modify order #14650447 sell 0.01 EURGBP at 0.89654 sl: 0.89987 tp: 0.86813 -> sl: 0.89987 tp: 0.86861
+0	23:16:01.949	'1600030859': order #14650447 sell 0.01 EURGBP at 0.89654 was modified -> sl: 0.89987 tp: 0.86861
+0	23:16:16.551	MetaTrader build 1170 stopped

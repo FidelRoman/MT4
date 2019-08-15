@@ -1,8 +1,8 @@
 <chart>
-id=131953649351355949
-symbol=USDJPY
+id=132065133857329398
+symbol=DXY_U9
 period=240
-leftpos=14165
+leftpos=2102
 digits=3
 scale=8
 graph=1
@@ -10,7 +10,7 @@ fore=0
 grid=1
 volume=0
 scroll=1
-shift=0
+shift=1
 ohlc=1
 one_click=1
 one_click_btn=1
@@ -19,10 +19,10 @@ days=0
 descriptions=0
 shift_size=20
 fixed_pos=0
-window_left=0
-window_top=383
-window_right=864
-window_bottom=766
+window_left=104
+window_top=104
+window_right=1504
+window_bottom=607
 window_type=1
 background_color=16119285
 foreground_color=0
@@ -41,21 +41,6 @@ height=128
 fixed_height=0
 <indicator>
 name=main
-<object>
-type=1
-object_name=Soporte 1.13
-period_flags=0
-create_time=1546520113
-color=11829830
-style=0
-weight=1
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-value_0=1.130000
-</object>
 <object>
 type=1
 object_name=Soporte 1.12
@@ -182,9 +167,9 @@ value_0=2696.140000
 </object>
 <object>
 type=1
-object_name=Horizontal Line 9377
+object_name=Horizontal Line 17593
 period_flags=0
-create_time=1550263457
+create_time=1550009529
 color=8388736
 style=1
 weight=1
@@ -193,13 +178,13 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=111.236994
+value_0=1.131579
 </object>
 <object>
 type=1
-object_name=Horizontal Line 9380
+object_name=Horizontal Line 17625
 period_flags=0
-create_time=1550263460
+create_time=1550009561
 color=8388736
 style=1
 weight=1
@@ -208,13 +193,13 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-value_0=110.247104
+value_0=1.137108
 </object>
 <object>
 type=2
-object_name=Trendline 38887
+object_name=Trendline 47409
 period_flags=0
-create_time=1551407079
+create_time=1551415601
 color=8388736
 style=0
 weight=2
@@ -223,11 +208,102 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1548892800
-value_0=108.498000
-time_1=1551225600
-value_1=110.355000
+time_0=1550232000
+value_0=1.123410
+time_1=1551484800
+value_1=1.137342
 ray=1
+</object>
+<object>
+type=2
+object_name=Trendline 54789
+period_flags=0
+create_time=1562039813
+color=8388736
+style=1
+weight=1
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1546819200
+value_0=94.571707
+time_1=1563062400
+value_1=96.307000
+ray=1
+</object>
+<object>
+type=1
+object_name=Horizontal Line 10265
+period_flags=0
+create_time=1564354585
+color=8388736
+style=1
+weight=1
+background=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+value_0=98.217993
+</object>
+<object>
+type=16
+object_name=Rectangle 14555
+period_flags=0
+create_time=1564686555
+color=15453831
+style=0
+weight=1
+background=1
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1564688700
+value_0=98.206992
+time_1=1564711200
+value_1=98.084286
+ray=0
+</object>
+<object>
+type=16
+object_name=Rectangle 14569
+period_flags=0
+create_time=1564686569
+color=15453831
+style=0
+weight=1
+background=1
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1564631100
+value_0=98.686000
+time_1=1564686900
+value_1=98.531015
+ray=0
+</object>
+<object>
+type=16
+object_name=Rectangle 21112
+period_flags=0
+create_time=1565086328
+color=15453831
+style=0
+weight=1
+background=1
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1565013600
+value_0=97.550112
+time_1=1565524800
+value_1=97.191378
+ray=0
 </object>
 </indicator>
 </window>

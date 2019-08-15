@@ -1,0 +1,69 @@
+0	16:26:01.501	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:26:01.501	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 5038 / 8058 Mb, Disk: 796 / 919 Gb, GMT-5
+0	16:26:01.501	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	16:31:11.512	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:31:11.512	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 5330 / 8058 Mb, Disk: 795 / 919 Gb, GMT-5
+0	16:31:11.512	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+1	16:31:19.269	HistoryBase: 2 errors in 'EURUSD240'
+0	16:31:21.241	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.06 ms)
+0	16:31:25.530	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.06 ms)
+0	16:31:26.466	'1600030859': previous successful authorization performed from 190.239.191.194
+0	16:31:54.637	'1600030859': one click trading has been enabled
+0	16:32:01.247	'1600030859': modify order #2424959 buy 0.02 EURUSD at 1.12318 sl: 1.12100 tp: 0.00000 -> sl: 1.12100 tp: 1.13777
+0	16:32:01.534	'1600030859': order #2424959 buy 0.02 EURUSD at 1.12318 was modified -> sl: 1.12100 tp: 1.13777
+0	16:33:47.247	MetaTrader build 1170 stopped
+0	17:13:43.989	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	17:13:43.989	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4559 / 8058 Mb, Disk: 796 / 919 Gb, GMT-5
+0	17:13:43.989	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	17:13:47.179	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.06 ms)
+0	17:13:49.155	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.06 ms)
+0	17:13:49.679	'1600030859': previous successful authorization performed from 190.239.191.194
+0	17:33:57.804	MetaTrader build 1170 stopped
+0	18:44:59.018	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	18:44:59.034	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 5373 / 8058 Mb, Disk: 796 / 919 Gb, GMT-5
+0	18:44:59.034	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	18:45:03.571	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.06 ms)
+0	18:45:05.899	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.06 ms)
+0	18:45:06.414	'1600030859': previous successful authorization performed from 190.239.191.194
+0	18:45:34.036	'1600030859': ping to current access point Vir_DC01_AWS is 117.94 ms
+0	18:54:04.618	'1600030859': order buy market 0.01 USDJPY sl: 0.000 tp: 0.000
+0	18:54:04.949	'1600030859': order was opened : #2439054 buy 0.01 USDJPY at 110.989 sl: 0.000 tp: 0.000
+0	18:54:14.356	'1600030859': modify order #2439054 buy 0.01 USDJPY at 110.989 sl: 0.000 tp: 0.000 -> sl: 110.871 tp: 0.000
+0	18:54:14.608	'1600030859': order #2439054 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.871 tp: 0.000
+0	18:54:43.089	'1600030859': order buy market 0.01 USDJPY sl: 0.000 tp: 0.000
+0	18:54:43.404	'1600030859': order was opened : #2439104 buy 0.01 USDJPY at 110.989 sl: 0.000 tp: 0.000
+0	18:54:47.884	'1600030859': modify order #2439054 buy 0.01 USDJPY at 110.989 sl: 110.871 tp: 0.000 -> sl: 110.878 tp: 0.000
+0	18:54:48.151	'1600030859': order #2439054 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.878 tp: 0.000
+0	18:54:52.063	'1600030859': modify order #2439054 buy 0.01 USDJPY at 110.989 sl: 110.878 tp: 0.000 -> sl: 110.895 tp: 0.000
+0	18:54:52.290	'1600030859': order #2439054 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.895 tp: 0.000
+0	18:54:54.139	'1600030859': modify order #2439054 buy 0.01 USDJPY at 110.989 sl: 110.895 tp: 0.000 -> sl: 110.891 tp: 0.000
+0	18:54:54.390	'1600030859': order #2439054 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.891 tp: 0.000
+0	18:55:10.294	'1600030859': modify order #2439104 buy 0.01 USDJPY at 110.989 sl: 0.000 tp: 0.000 -> sl: 110.672 tp: 0.000
+0	18:55:10.590	'1600030859': order #2439104 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.672 tp: 0.000
+0	18:55:16.289	'1600030859': modify order #2439104 buy 0.01 USDJPY at 110.989 sl: 110.672 tp: 0.000 -> sl: 110.868 tp: 0.000
+0	18:55:16.555	'1600030859': order #2439104 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.868 tp: 0.000
+0	18:55:24.876	'1600030859': modify order #2439054 buy 0.01 USDJPY at 110.989 sl: 110.891 tp: 0.000 -> sl: 110.876 tp: 0.000
+0	18:55:25.135	'1600030859': order #2439054 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.876 tp: 0.000
+0	18:56:20.627	'1600030859': modify order #2439054 buy 0.01 USDJPY at 110.989 sl: 110.876 tp: 0.000 -> sl: 110.876 tp: 114.170
+0	18:56:20.926	'1600030859': order #2439054 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.876 tp: 114.170
+0	18:56:25.010	'1600030859': modify order #2439054 buy 0.01 USDJPY at 110.989 sl: 110.876 tp: 114.170 -> sl: 110.876 tp: 114.226
+0	18:56:25.351	'1600030859': order #2439054 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.876 tp: 114.226
+0	18:56:44.498	'1600030859': modify order #2439104 buy 0.01 USDJPY at 110.989 sl: 110.868 tp: 0.000 -> sl: 110.868 tp: 114.000
+0	18:56:44.889	'1600030859': order #2439104 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.868 tp: 114.000
+0	19:02:52.915	'1600030859': modify order #2439104 buy 0.01 USDJPY at 110.989 sl: 110.868 tp: 114.000 -> sl: 110.868 tp: 112.074
+0	19:02:53.147	'1600030859': order #2439104 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.868 tp: 112.074
+0	19:03:00.144	'1600030859': modify order #2439104 buy 0.01 USDJPY at 110.989 sl: 110.868 tp: 112.074 -> sl: 110.868 tp: 112.017
+0	19:03:00.367	'1600030859': order #2439104 buy 0.01 USDJPY at 110.989 was modified -> sl: 110.868 tp: 112.017
+2	19:12:54.695	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+2	19:13:06.335	Custom indicator Heiken Ashi XAUUSD,H4: removed
+2	19:13:12.052	Custom indicator Heiken Ashi XAUUSD,H4: loaded successfully
+2	19:13:24.434	Custom indicator Heiken Ashi XAUUSD,Daily: removed
+0	19:14:32.258	'1600030859': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	19:14:32.576	'1600030859': order was opened : #2441233 sell 0.01 XAUUSD at 1291.65 sl: 0.00 tp: 0.00
+0	19:14:37.776	'1600030859': modify order #2441233 sell 0.01 XAUUSD at 1291.65 sl: 0.00 tp: 0.00 -> sl: 1299.85 tp: 0.00
+0	19:14:38.077	'1600030859': order #2441233 sell 0.01 XAUUSD at 1291.65 was modified -> sl: 1299.85 tp: 0.00
+0	19:14:59.853	'1600030859': modify order #2441233 sell 0.01 XAUUSD at 1291.65 sl: 1299.85 tp: 0.00 -> sl: 1299.85 tp: 1244.54
+0	19:15:00.097	'1600030859': order #2441233 sell 0.01 XAUUSD at 1291.65 was modified -> sl: 1299.85 tp: 1244.54
+0	19:16:28.739	'1600030859': modify order #2441233 sell 0.01 XAUUSD at 1291.65 sl: 1299.85 tp: 1244.54 -> sl: 1296.50 tp: 1244.54
+0	19:16:28.987	'1600030859': order #2441233 sell 0.01 XAUUSD at 1291.65 was modified -> sl: 1296.50 tp: 1244.54
+0	19:26:21.094	MetaTrader build 1170 stopped

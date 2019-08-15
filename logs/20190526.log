@@ -1,0 +1,43 @@
+0	14:13:39.856	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:13:39.856	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10754 / 16250 Mb, Disk: 777 / 919 Gb, GMT-5
+0	14:13:39.856	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	14:13:46.912	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 116.93 ms)
+0	14:13:50.327	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 116.93 ms)
+0	14:13:50.926	'1600030859': previous successful authorization performed from 190.42.137.98
+0	14:14:20.475	'1600030859': ping to current access point NY4 DC 1 is 123.12 ms
+0	14:15:36.874	MetaTrader build 1170 stopped
+0	16:57:49.234	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:57:49.234	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9772 / 16250 Mb, Disk: 776 / 919 Gb, GMT-5
+0	16:57:49.234	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	16:57:52.298	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 123.11 ms)
+0	16:57:54.013	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 123.11 ms)
+0	16:57:54.391	'1600030859': previous successful authorization performed from 181.66.102.146
+0	16:58:19.291	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 117.67 ms)
+0	16:58:20.520	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.67 ms)
+0	16:58:22.023	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.67 ms)
+0	16:58:22.518	'1600030859': previous successful authorization performed from 181.66.102.146
+0	17:00:12.600	'1600030859': order buy market 0.01 XAUUSD sl: 0.00 tp: 0.00
+1	17:00:12.812	'1600030859': order buy 0.01 XAUUSD opening at market sl: 0.00 tp: 0.00 failed [Off quotes]
+0	17:00:19.912	'1600030859': order buy market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	17:00:20.156	'1600030859': order was opened : #10964461 buy 0.01 EURUSD at 1.12110 sl: 0.00000 tp: 0.00000
+0	17:00:48.574	'1600030859': modify order #10964461 buy 0.01 EURUSD at 1.12110 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.12600
+0	17:00:48.796	'1600030859': order #10964461 buy 0.01 EURUSD at 1.12110 was modified -> sl: 0.00000 tp: 1.12600
+0	17:01:00.137	MetaTrader build 1170 stopped
+0	22:25:56.761	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:25:56.761	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12354 / 16250 Mb, Disk: 776 / 919 Gb, GMT-5
+0	22:25:56.761	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:26:04.685	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.67 ms)
+0	22:26:09.250	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.67 ms)
+0	22:26:09.750	'1600030859': previous successful authorization performed from 54.70.81.158
+0	22:26:35.146	'1600030859': auto connecting to a better access point NY4 DC 1 (ping is 117.61 ms)
+0	22:26:50.761	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 128.18 ms)
+3	22:26:53.095	Main pumping: timeout on stop
+0	22:26:53.223	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 128.18 ms)
+0	22:26:54.149	MetaTrader build 1170 stopped
+0	22:51:42.294	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:51:42.294	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11882 / 16250 Mb, Disk: 776 / 919 Gb, GMT-5
+0	22:51:42.294	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:51:46.155	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 128.18 ms)
+0	22:51:49.159	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 128.18 ms)
+0	22:51:49.583	'1600030859': previous successful authorization performed from 181.66.102.146
+0	22:52:06.060	MetaTrader build 1170 stopped

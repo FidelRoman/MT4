@@ -1,0 +1,284 @@
+0	02:57:31.839	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	02:57:31.839	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11833 / 16250 Mb, Disk: 710 / 919 Gb, GMT-5
+0	02:57:31.839	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	02:57:36.284	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 125.29 ms)
+0	02:57:38.338	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 125.29 ms)
+0	02:57:38.791	'1600028698': previous successful authorization performed from 190.234.120.95
+0	02:58:06.484	'1600028698': auto connecting to a better access point NY4 DC 1 (ping is 122.84 ms)
+0	02:58:07.738	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 122.84 ms)
+0	02:58:09.276	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 122.84 ms)
+0	02:58:09.732	'1600028698': previous successful authorization performed from 190.234.120.33
+0	02:58:45.476	'1600028698': modify order #16221401 buy 0.05 USDCHF at 0.99095 sl: 0.99000 tp: 0.00000 -> sl: 0.99000 tp: 1.00089
+0	02:58:45.693	'1600028698': order #16221401 buy 0.05 USDCHF at 0.99095 was modified -> sl: 0.99000 tp: 1.00089
+0	03:00:48.956	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31137 tp: 0.00000 -> sl: 1.31137 tp: 1.33973
+0	03:00:49.191	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31137 tp: 1.33973
+0	03:01:14.860	'1600028698': order sell market 0.05 EURGBP sl: 0.00000 tp: 0.00000
+0	03:01:15.077	'1600028698': order was opened : #16252907 sell 0.05 EURGBP at 0.91599 sl: 0.00000 tp: 0.00000
+0	03:01:17.211	'1600028698': modify order #16252907 sell 0.05 EURGBP at 0.91599 sl: 0.00000 tp: 0.00000 -> sl: 0.91924 tp: 0.00000
+0	03:01:17.457	'1600028698': order #16252907 sell 0.05 EURGBP at 0.91599 was modified -> sl: 0.91924 tp: 0.00000
+0	03:01:26.164	'1600028698': modify order #16252907 sell 0.05 EURGBP at 0.91599 sl: 0.91924 tp: 0.00000 -> sl: 0.91858 tp: 0.00000
+0	03:01:26.346	'1600028698': order #16252907 sell 0.05 EURGBP at 0.91599 was modified -> sl: 0.91858 tp: 0.00000
+0	03:01:28.628	'1600028698': modify order #16252907 sell 0.05 EURGBP at 0.91599 sl: 0.91858 tp: 0.00000 -> sl: 0.91879 tp: 0.00000
+0	03:01:28.923	'1600028698': order #16252907 sell 0.05 EURGBP at 0.91599 was modified -> sl: 0.91879 tp: 0.00000
+0	03:01:33.120	'1600028698': modify order #16252907 sell 0.05 EURGBP at 0.91599 sl: 0.91879 tp: 0.00000 -> sl: 0.91904 tp: 0.00000
+0	03:01:33.303	'1600028698': order #16252907 sell 0.05 EURGBP at 0.91599 was modified -> sl: 0.91904 tp: 0.00000
+0	03:01:47.208	'1600028698': modify order #16252907 sell 0.05 EURGBP at 0.91599 sl: 0.91904 tp: 0.00000 -> sl: 0.91904 tp: 0.90941
+0	03:01:47.461	'1600028698': order #16252907 sell 0.05 EURGBP at 0.91599 was modified -> sl: 0.91904 tp: 0.90941
+0	03:02:30.136	'1600028698': close order #16252907 sell 0.05 EURGBP at 0.91599 sl: 0.91904 tp: 0.90941 at price 0.00000
+0	03:02:30.377	'1600028698': order #16252907 sell 0.05 EURGBP at 0.91599 sl: 0.91904 tp: 0.90941 closed at price 0.91619
+0	03:03:52.940	'1600028698': close order #16221401 buy 0.05 USDCHF at 0.99095 sl: 0.99000 tp: 1.00089 at price 0.00000
+0	03:03:53.148	'1600028698': order #16221401 buy 0.05 USDCHF at 0.99095 sl: 0.99000 tp: 1.00089 closed at price 0.99051
+0	03:03:59.068	'1600028698': order sell market 0.05 USDCHF sl: 0.00000 tp: 0.00000
+0	03:03:59.291	'1600028698': order was opened : #16253003 sell 0.05 USDCHF at 0.99050 sl: 0.00000 tp: 0.00000
+0	03:04:10.003	'1600028698': modify order #16253003 sell 0.05 USDCHF at 0.99050 sl: 0.00000 tp: 0.00000 -> sl: 0.99149 tp: 0.00000
+0	03:04:10.183	'1600028698': order #16253003 sell 0.05 USDCHF at 0.99050 was modified -> sl: 0.99149 tp: 0.00000
+0	03:04:27.405	'1600028698': modify order #16253003 sell 0.05 USDCHF at 0.99050 sl: 0.99149 tp: 0.00000 -> sl: 0.99149 tp: 0.98793
+0	03:04:27.641	'1600028698': order #16253003 sell 0.05 USDCHF at 0.99050 was modified -> sl: 0.99149 tp: 0.98793
+0	03:05:13.587	'1600028698': modify order #16253003 sell 0.05 USDCHF at 0.99050 sl: 0.99149 tp: 0.98793 -> sl: 0.99149 tp: 0.98121
+0	03:05:13.847	'1600028698': order #16253003 sell 0.05 USDCHF at 0.99050 was modified -> sl: 0.99149 tp: 0.98121
+0	03:06:32.339	'1600028698': modify order #16253003 sell 0.05 USDCHF at 0.99050 sl: 0.99149 tp: 0.98121 -> sl: 0.99149 tp: 0.98806
+0	03:06:32.521	'1600028698': order #16253003 sell 0.05 USDCHF at 0.99050 was modified -> sl: 0.99149 tp: 0.98806
+0	03:07:51.923	'1600028698': order buy market 0.05 USDCHF sl: 0.00000 tp: 0.00000
+0	03:07:52.145	'1600028698': order was opened : #16253176 buy 0.05 USDCHF at 0.99113 sl: 0.00000 tp: 0.00000
+0	03:07:58.603	'1600028698': modify order #16253176 buy 0.05 USDCHF at 0.99113 sl: 0.00000 tp: 0.00000 -> sl: 0.99033 tp: 0.00000
+0	03:07:58.778	'1600028698': order #16253176 buy 0.05 USDCHF at 0.99113 was modified -> sl: 0.99033 tp: 0.00000
+0	03:08:04.955	'1600028698': modify order #16253176 buy 0.05 USDCHF at 0.99113 sl: 0.99033 tp: 0.00000 -> sl: 0.99033 tp: 0.99448
+0	03:08:05.219	'1600028698': order #16253176 buy 0.05 USDCHF at 0.99113 was modified -> sl: 0.99033 tp: 0.99448
+0	03:08:19.435	'1600028698': modify order #16253176 buy 0.05 USDCHF at 0.99113 sl: 0.99033 tp: 0.99448 -> sl: 0.99033 tp: 0.99496
+0	03:08:19.653	'1600028698': order #16253176 buy 0.05 USDCHF at 0.99113 was modified -> sl: 0.99033 tp: 0.99496
+0	03:08:49.083	'1600028698': modify order #16253003 sell 0.05 USDCHF at 0.99050 sl: 0.99149 tp: 0.98806 -> sl: 0.99149 tp: 0.99048
+0	03:08:49.353	'1600028698': order #16253003 sell 0.05 USDCHF at 0.99050 was modified -> sl: 0.99149 tp: 0.99048
+0	03:09:00.309	'1600028698': close order #16253003 sell 0.05 USDCHF at 0.99050 sl: 0.99149 tp: 0.99048 at price 0.00000
+0	03:09:00.617	'1600028698': order #16253003 sell 0.05 USDCHF at 0.99050 sl: 0.99149 tp: 0.99048 closed at price 0.99112
+0	03:10:48.515	'1600028698': modify order #16253176 buy 0.05 USDCHF at 0.99113 sl: 0.99033 tp: 0.99496 -> sl: 0.99033 tp: 0.99299
+0	03:10:48.748	'1600028698': order #16253176 buy 0.05 USDCHF at 0.99113 was modified -> sl: 0.99033 tp: 0.99299
+0	03:10:54.760	'1600028698': modify order #16253176 buy 0.05 USDCHF at 0.99113 sl: 0.99033 tp: 0.99299 -> sl: 0.99033 tp: 0.99366
+0	03:10:54.954	'1600028698': order #16253176 buy 0.05 USDCHF at 0.99113 was modified -> sl: 0.99033 tp: 0.99366
+0	03:11:03.304	'1600028698': modify order #16253176 buy 0.05 USDCHF at 0.99113 sl: 0.99033 tp: 0.99366 -> sl: 0.99033 tp: 1.00037
+0	03:11:03.596	'1600028698': order #16253176 buy 0.05 USDCHF at 0.99113 was modified -> sl: 0.99033 tp: 1.00037
+0	03:12:18.899	MetaTrader build 1170 stopped
+0	03:13:12.491	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	03:13:12.491	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12533 / 16250 Mb, Disk: 710 / 919 Gb, GMT-5
+0	03:13:12.491	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	03:13:16.351	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 122.84 ms)
+0	03:13:18.560	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 122.84 ms)
+0	03:13:19.041	'1600028698': previous successful authorization performed from 190.234.120.33
+0	03:13:31.991	MetaTrader build 1170 stopped
+0	06:51:31.816	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	06:51:31.816	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12882 / 16250 Mb, Disk: 710 / 919 Gb, GMT-5
+0	06:51:31.816	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	06:51:45.487	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 122.84 ms)
+0	06:51:48.437	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 122.84 ms)
+0	06:51:48.801	'1600028698': previous successful authorization performed from 190.234.120.33
+0	06:52:17.196	'1600028698': ping to current access point NY4 DC 1 is 123.82 ms
+0	06:54:41.310	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31137 tp: 1.33973 -> sl: 1.31137 tp: 1.33416
+0	06:54:41.485	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31137 tp: 1.33416
+2	06:55:37.556	Custom indicator Heiken Ashi AUDUSD,H1: loaded successfully
+2	06:55:40.492	Custom indicator Heiken Ashi AUDUSD,H4: removed
+0	06:57:43.069	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31137 tp: 1.33416 -> sl: 1.31606 tp: 1.33416
+0	06:57:43.250	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31606 tp: 1.33416
+0	06:57:46.165	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31606 tp: 1.33416 -> sl: 1.31611 tp: 1.33416
+0	06:57:46.339	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31611 tp: 1.33416
+0	07:02:19.877	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31611 tp: 1.33416 -> sl: 1.31149 tp: 1.33416
+0	07:02:20.050	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31149 tp: 1.33416
+0	07:02:26.109	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31149 tp: 1.33416 -> sl: 1.31465 tp: 1.33416
+0	07:02:26.288	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31465 tp: 1.33416
+0	07:02:48.557	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31465 tp: 1.33416 -> sl: 1.31612 tp: 1.33416
+0	07:02:48.731	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31612 tp: 1.33416
+1	07:02:58.789	'1600028698': modification of order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31612 tp: 1.33416 -> sl: 1.31612 tp: 1.31611 failed [Invalid S/L or T/P]
+1	07:03:01.717	'1600028698': modification of order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31612 tp: 1.33416 -> sl: 1.31612 tp: 1.31611 failed [Invalid S/L or T/P]
+1	07:03:03.914	'1600028698': modification of order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31612 tp: 1.33416 -> sl: 1.31612 tp: 1.31612 failed [Invalid S/L or T/P]
+1	07:03:07.125	'1600028698': modification of order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31612 tp: 1.33416 -> sl: 1.31612 tp: 1.31615 failed [Invalid S/L or T/P]
+0	07:03:09.365	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31612 tp: 1.33416 -> sl: 1.31595 tp: 1.33416
+0	07:03:09.535	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31595 tp: 1.33416
+0	07:03:11.677	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31595 tp: 1.33416 -> sl: 1.31611 tp: 1.33416
+0	07:03:11.849	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31611 tp: 1.33416
+0	07:04:33.733	'1600028698': order sell market 0.02 USDJPY sl: 0.000 tp: 0.000
+0	07:04:33.953	'1600028698': order was opened : #16271895 sell 0.02 USDJPY at 108.506 sl: 0.000 tp: 0.000
+0	07:04:38.709	'1600028698': modify order #16271895 sell 0.02 USDJPY at 108.506 sl: 0.000 tp: 0.000 -> sl: 108.629 tp: 0.000
+0	07:04:38.893	'1600028698': order #16271895 sell 0.02 USDJPY at 108.506 was modified -> sl: 108.629 tp: 0.000
+0	07:04:57.725	'1600028698': modify order #16271895 sell 0.02 USDJPY at 108.506 sl: 108.629 tp: 0.000 -> sl: 108.629 tp: 107.283
+0	07:04:57.903	'1600028698': order #16271895 sell 0.02 USDJPY at 108.506 was modified -> sl: 108.629 tp: 107.283
+0	07:05:09.197	'1600028698': modify order #16271895 sell 0.02 USDJPY at 108.506 sl: 108.629 tp: 107.283 -> sl: 108.629 tp: 107.627
+0	07:05:09.374	'1600028698': order #16271895 sell 0.02 USDJPY at 108.506 was modified -> sl: 108.629 tp: 107.627
+0	07:05:17.021	'1600028698': modify order #16271895 sell 0.02 USDJPY at 108.506 sl: 108.629 tp: 107.627 -> sl: 108.629 tp: 107.283
+0	07:05:17.193	'1600028698': order #16271895 sell 0.02 USDJPY at 108.506 was modified -> sl: 108.629 tp: 107.283
+0	07:12:51.950	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31611 tp: 1.33416 -> sl: 1.31481 tp: 1.33416
+0	07:12:52.130	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31481 tp: 1.33416
+0	07:12:56.541	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31481 tp: 1.33416 -> sl: 1.31454 tp: 1.33416
+0	07:12:56.718	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31454 tp: 1.33416
+0	07:13:00.469	'1600028698': modify order #16221616 buy 0.02 USDCAD at 1.31609 sl: 1.31454 tp: 1.33416 -> sl: 1.31481 tp: 1.33416
+0	07:13:00.643	'1600028698': order #16221616 buy 0.02 USDCAD at 1.31609 was modified -> sl: 1.31481 tp: 1.33416
+0	07:14:53.381	'1600028698': modify order #16271895 sell 0.02 USDJPY at 108.506 sl: 108.629 tp: 107.283 -> sl: 108.630 tp: 107.283
+0	07:14:53.553	'1600028698': order #16271895 sell 0.02 USDJPY at 108.506 was modified -> sl: 108.630 tp: 107.283
+0	07:16:59.317	'1600028698': order sell market 0.05 EURUSD sl: 0.00000 tp: 0.00000
+0	07:16:59.543	'1600028698': order was opened : #16273151 sell 0.05 EURUSD at 1.11523 sl: 0.00000 tp: 0.00000
+0	07:17:01.821	'1600028698': modify order #16273151 sell 0.05 EURUSD at 1.11523 sl: 0.00000 tp: 0.00000 -> sl: 1.11603 tp: 0.00000
+0	07:17:02.001	'1600028698': order #16273151 sell 0.05 EURUSD at 1.11523 was modified -> sl: 1.11603 tp: 0.00000
+0	07:17:15.476	'1600028698': modify order #16273151 sell 0.05 EURUSD at 1.11523 sl: 1.11603 tp: 0.00000 -> sl: 1.11603 tp: 1.11185
+0	07:17:15.645	'1600028698': order #16273151 sell 0.05 EURUSD at 1.11523 was modified -> sl: 1.11603 tp: 1.11185
+0	07:19:03.324	'1600028698': order sell market 0.01 EURGBP sl: 0.00000 tp: 0.00000
+0	07:19:03.528	'1600028698': order was opened : #16273319 sell 0.01 EURGBP at 0.91578 sl: 0.00000 tp: 0.00000
+0	07:19:06.965	'1600028698': modify order #16273319 sell 0.01 EURGBP at 0.91578 sl: 0.00000 tp: 0.00000 -> sl: 0.91918 tp: 0.00000
+0	07:19:07.145	'1600028698': order #16273319 sell 0.01 EURGBP at 0.91578 was modified -> sl: 0.91918 tp: 0.00000
+0	07:19:14.285	'1600028698': modify order #16273319 sell 0.01 EURGBP at 0.91578 sl: 0.91918 tp: 0.00000 -> sl: 0.91918 tp: 0.90497
+0	07:19:14.455	'1600028698': order #16273319 sell 0.01 EURGBP at 0.91578 was modified -> sl: 0.91918 tp: 0.90497
+0	07:31:53.805	MetaTrader build 1170 stopped
+0	08:55:42.084	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	08:55:42.084	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10849 / 16250 Mb, Disk: 710 / 919 Gb, GMT-5
+0	08:55:42.084	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	08:55:44.736	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 123.82 ms)
+0	08:55:46.737	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 123.82 ms)
+0	08:55:47.209	'1600028698': previous successful authorization performed from 190.234.120.33
+0	08:56:17.715	'1600028698': auto connecting to a better access point Vir_DC01_AWS (ping is 123.97 ms)
+0	08:56:19.188	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.97 ms)
+0	08:56:20.611	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.97 ms)
+0	08:56:21.092	'1600028698': previous successful authorization performed from 190.234.120.33
+0	08:56:25.452	News: news base synchronization
+0	08:57:39.638	MetaTrader build 1170 stopped
+0	11:01:47.899	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:01:47.899	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 13171 / 16250 Mb, Disk: 710 / 919 Gb, GMT-5
+0	11:01:47.899	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	11:02:11.489	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.97 ms)
+0	11:02:14.298	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.97 ms)
+0	11:02:14.763	'1600028698': previous successful authorization performed from 190.234.120.33
+0	11:02:40.467	'1600028698': auto connecting to a better access point NY4 DC 1 (ping is 124.33 ms)
+0	11:02:41.924	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 124.33 ms)
+0	11:02:43.973	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 124.33 ms)
+0	11:02:44.353	'1600028698': previous successful authorization performed from 190.234.120.33
+0	11:06:34.836	'1600028698': close order #16273151 sell 0.05 EURUSD at 1.11523 sl: 1.11603 tp: 1.11185 at price 0.00000
+0	11:06:35.058	'1600028698': order #16273151 sell 0.05 EURUSD at 1.11523 sl: 1.11603 tp: 1.11185 closed at price 1.11515
+0	11:21:26.644	MetaTrader build 1170 stopped
+0	11:24:18.908	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:24:18.908	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10345 / 16250 Mb, Disk: 710 / 919 Gb, GMT-5
+0	11:24:18.908	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	11:24:26.238	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 124.33 ms)
+0	11:24:28.744	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 124.33 ms)
+0	11:24:29.253	'1600028698': previous successful authorization performed from 34.222.158.234
+2	11:45:55.361	Custom indicator Heiken Ashi USDCHF,Daily: loaded successfully
+2	11:47:15.002	Custom indicator Heiken Ashi USDCHF,Daily: removed
+0	11:47:57.225	'1600028698': order buy market 0.01 USDCHF sl: 0.00000 tp: 0.00000
+0	11:47:57.554	'1600028698': order was opened : #16292742 buy 0.01 USDCHF at 0.99109 sl: 0.00000 tp: 0.00000
+0	11:48:03.733	'1600028698': modify order #16292742 buy 0.01 USDCHF at 0.99109 sl: 0.00000 tp: 0.00000 -> sl: 0.98903 tp: 0.00000
+0	11:48:03.920	'1600028698': order #16292742 buy 0.01 USDCHF at 0.99109 was modified -> sl: 0.98903 tp: 0.00000
+0	11:48:12.706	'1600028698': modify order #16292742 buy 0.01 USDCHF at 0.99109 sl: 0.98903 tp: 0.00000 -> sl: 0.98903 tp: 1.00078
+0	11:48:12.886	'1600028698': order #16292742 buy 0.01 USDCHF at 0.99109 was modified -> sl: 0.98903 tp: 1.00078
+0	11:48:15.183	'1600028698': modify order #16292742 buy 0.01 USDCHF at 0.99109 sl: 0.98903 tp: 1.00078 -> sl: 0.98903 tp: 0.99877
+0	11:48:15.474	'1600028698': order #16292742 buy 0.01 USDCHF at 0.99109 was modified -> sl: 0.98903 tp: 0.99877
+2	11:54:23.355	Custom indicator Heiken Ashi EURGBP,Weekly: loaded successfully
+2	11:54:25.523	Custom indicator Heiken Ashi EURGBP,Weekly: removed
+2	11:54:48.220	Custom indicator Heiken Ashi EURGBP,Weekly: loaded successfully
+0	11:55:30.053	'1600028698': modify order #16273319 sell 0.01 EURGBP at 0.91578 sl: 0.91918 tp: 0.90497 -> sl: 0.91918 tp: 0.90035
+0	11:55:30.232	'1600028698': order #16273319 sell 0.01 EURGBP at 0.91578 was modified -> sl: 0.91918 tp: 0.90035
+2	11:55:36.547	Custom indicator Heiken Ashi EURGBP,H4: removed
+0	11:55:41.142	'1600028698': modify order #16273319 sell 0.01 EURGBP at 0.91578 sl: 0.91918 tp: 0.90035 -> sl: 0.91918 tp: 0.90498
+0	11:55:41.322	'1600028698': order #16273319 sell 0.01 EURGBP at 0.91578 was modified -> sl: 0.91918 tp: 0.90498
+2	11:55:43.301	Custom indicator Heiken Ashi EURGBP,H4: loaded successfully
+2	11:55:48.675	Custom indicator Heiken Ashi EURGBP,H4: removed
+0	11:56:25.158	MetaTrader build 1170 stopped
+0	12:29:40.326	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:29:40.326	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12279 / 16250 Mb, Disk: 710 / 919 Gb, GMT-5
+0	12:29:40.326	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	12:29:42.374	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 124.33 ms)
+0	12:29:43.867	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 124.33 ms)
+0	12:29:44.245	'1600028698': previous successful authorization performed from 190.234.120.33
+0	12:30:09.285	'1600028698': auto connecting to a better access point Vir_DC01_AWS (ping is 123.98 ms)
+0	12:30:10.314	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.98 ms)
+0	12:30:11.558	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.98 ms)
+0	12:30:11.948	'1600028698': previous successful authorization performed from 190.234.120.33
+0	12:31:20.122	MetaTrader build 1170 stopped
+0	14:41:44.213	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:41:44.214	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12105 / 16250 Mb, Disk: 710 / 919 Gb, GMT-5
+0	14:41:44.214	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	14:41:48.235	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.98 ms)
+0	14:41:50.293	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.98 ms)
+0	14:41:50.705	'1600028698': previous successful authorization performed from 34.222.158.234
+0	14:42:15.491	'1600028698': ping to current access point Vir_DC01_AWS is 122.87 ms
+0	14:47:33.573	'1600028698': order buy market 0.03 USDCAD sl: 0.00000 tp: 0.00000
+0	14:47:33.803	'1600028698': order was opened : #16302707 buy 0.03 USDCAD at 1.31541 sl: 0.00000 tp: 0.00000
+0	14:47:41.220	'1600028698': modify order #16302707 buy 0.03 USDCAD at 1.31541 sl: 0.00000 tp: 0.00000 -> sl: 1.31388 tp: 0.00000
+0	14:47:41.461	'1600028698': order #16302707 buy 0.03 USDCAD at 1.31541 was modified -> sl: 1.31388 tp: 0.00000
+0	14:47:44.769	'1600028698': modify order #16302707 buy 0.03 USDCAD at 1.31541 sl: 1.31388 tp: 0.00000 -> sl: 1.31388 tp: 1.31590
+0	14:47:44.976	'1600028698': order #16302707 buy 0.03 USDCAD at 1.31541 was modified -> sl: 1.31388 tp: 1.31590
+0	14:47:48.628	'1600028698': modify order #16302707 buy 0.03 USDCAD at 1.31541 sl: 1.31388 tp: 1.31590 -> sl: 1.31388 tp: 1.31873
+0	14:47:48.852	'1600028698': order #16302707 buy 0.03 USDCAD at 1.31541 was modified -> sl: 1.31388 tp: 1.31873
+0	14:47:51.461	'1600028698': modify order #16302707 buy 0.03 USDCAD at 1.31541 sl: 1.31388 tp: 1.31873 -> sl: 1.31388 tp: 1.31854
+0	14:47:51.635	'1600028698': order #16302707 buy 0.03 USDCAD at 1.31541 was modified -> sl: 1.31388 tp: 1.31854
+0	14:47:57.372	'1600028698': modify order #16302707 buy 0.03 USDCAD at 1.31541 sl: 1.31388 tp: 1.31854 -> sl: 1.31388 tp: 1.31879
+0	14:47:57.554	'1600028698': order #16302707 buy 0.03 USDCAD at 1.31541 was modified -> sl: 1.31388 tp: 1.31879
+0	14:48:00.974	'1600028698': modify order #16302707 buy 0.03 USDCAD at 1.31541 sl: 1.31388 tp: 1.31879 -> sl: 1.31388 tp: 1.31857
+0	14:48:01.165	'1600028698': order #16302707 buy 0.03 USDCAD at 1.31541 was modified -> sl: 1.31388 tp: 1.31857
+0	14:48:11.796	'1600028698': modify order #16302707 buy 0.03 USDCAD at 1.31541 sl: 1.31388 tp: 1.31857 -> sl: 1.31465 tp: 1.31857
+0	14:48:12.045	'1600028698': order #16302707 buy 0.03 USDCAD at 1.31541 was modified -> sl: 1.31465 tp: 1.31857
+0	14:48:23.724	'1600028698': modify order #16302707 buy 0.03 USDCAD at 1.31541 sl: 1.31465 tp: 1.31857 -> sl: 1.31450 tp: 1.31857
+0	14:48:23.913	'1600028698': order #16302707 buy 0.03 USDCAD at 1.31541 was modified -> sl: 1.31450 tp: 1.31857
+0	14:50:06.152	MetaTrader build 1170 stopped
+0	15:21:28.745	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	15:21:28.746	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12363 / 16250 Mb, Disk: 710 / 919 Gb, GMT-5
+0	15:21:28.746	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	15:21:30.801	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.87 ms)
+0	15:21:32.713	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.87 ms)
+0	15:21:33.168	'1600028698': previous successful authorization performed from 190.234.120.33
+0	15:22:03.670	'1600028698': close order #16302707 buy 0.03 USDCAD at 1.31541 sl: 1.31450 tp: 1.31857 at price 0.00000
+0	15:22:03.948	'1600028698': order #16302707 buy 0.03 USDCAD at 1.31541 sl: 1.31450 tp: 1.31857 closed at price 1.31480
+0	15:22:07.095	'1600028698': order sell market 0.05 USDCAD sl: 0.00000 tp: 0.00000
+0	15:22:07.370	'1600028698': order was opened : #16303961 sell 0.05 USDCAD at 1.31479 sl: 0.00000 tp: 0.00000
+0	15:22:14.783	'1600028698': modify order #16303961 sell 0.05 USDCAD at 1.31479 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.30119
+0	15:22:14.962	'1600028698': order #16303961 sell 0.05 USDCAD at 1.31479 was modified -> sl: 0.00000 tp: 1.30119
+0	15:22:20.111	'1600028698': modify order #16303961 sell 0.05 USDCAD at 1.31479 sl: 0.00000 tp: 1.30119 -> sl: 0.00000 tp: 1.30878
+0	15:22:20.354	'1600028698': order #16303961 sell 0.05 USDCAD at 1.31479 was modified -> sl: 0.00000 tp: 1.30878
+0	15:22:23.446	'1600028698': modify order #16303961 sell 0.05 USDCAD at 1.31479 sl: 0.00000 tp: 1.30878 -> sl: 1.31552 tp: 1.30878
+0	15:22:23.622	'1600028698': order #16303961 sell 0.05 USDCAD at 1.31479 was modified -> sl: 1.31552 tp: 1.30878
+0	15:22:43.455	'1600028698': modify order #16303961 sell 0.05 USDCAD at 1.31479 sl: 1.31552 tp: 1.30878 -> sl: 1.31552 tp: 1.31143
+0	15:22:43.681	'1600028698': order #16303961 sell 0.05 USDCAD at 1.31479 was modified -> sl: 1.31552 tp: 1.31143
+0	15:23:37.919	'1600028698': modify order #16303961 sell 0.05 USDCAD at 1.31479 sl: 1.31552 tp: 1.31143 -> sl: 1.31552 tp: 1.31178
+0	15:23:38.432	'1600028698': order #16303961 sell 0.05 USDCAD at 1.31479 was modified -> sl: 1.31552 tp: 1.31178
+0	15:27:41.247	'1600028698': modify order #16303961 sell 0.05 USDCAD at 1.31479 sl: 1.31552 tp: 1.31178 -> sl: 1.31555 tp: 1.31178
+0	15:27:41.509	'1600028698': order #16303961 sell 0.05 USDCAD at 1.31479 was modified -> sl: 1.31555 tp: 1.31178
+0	15:27:51.209	MetaTrader build 1170 stopped
+0	15:30:13.076	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	15:30:13.076	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12336 / 16250 Mb, Disk: 710 / 919 Gb, GMT-5
+0	15:30:13.076	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	15:30:16.827	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.87 ms)
+0	15:30:19.558	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.87 ms)
+0	15:30:20.086	'1600028698': previous successful authorization performed from 190.234.120.33
+2	15:32:31.341	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+2	15:32:34.220	Custom indicator Heiken Ashi XAUUSD,Daily: removed
+0	15:33:30.942	MetaTrader build 1170 stopped
+0	16:00:50.716	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:00:50.716	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12216 / 16250 Mb, Disk: 734 / 919 Gb, GMT-5
+0	16:00:50.716	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	16:00:56.537	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.87 ms)
+0	16:00:59.146	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.87 ms)
+0	16:00:59.566	'1600028698': previous successful authorization performed from 34.222.158.234
+0	16:01:29.668	'1600028698': ping to current access point Vir_DC01_AWS is 123.31 ms
+2	16:01:31.178	Custom indicator Heiken Ashi USDCAD,Daily: loaded successfully
+2	16:01:42.032	Custom indicator Heiken Ashi USDCAD,Daily: removed
+0	16:02:42.082	'1600028698': modify order #16303961 sell 0.05 USDCAD at 1.31479 sl: 1.31555 tp: 1.31178 -> sl: 1.31558 tp: 1.31178
+0	16:02:42.329	'1600028698': order #16303961 sell 0.05 USDCAD at 1.31479 was modified -> sl: 1.31558 tp: 1.31178
+0	16:03:17.402	MetaTrader build 1170 stopped
+0	16:06:10.349	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:06:10.350	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12291 / 16250 Mb, Disk: 757 / 919 Gb, GMT-5
+0	16:06:10.350	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	16:06:15.740	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.31 ms)
+0	16:06:18.663	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.31 ms)
+0	16:06:19.095	'1600028698': previous successful authorization performed from 190.234.120.33
+0	16:06:53.904	'1600028698': close order #16292742 buy 0.01 USDCHF at 0.99109 sl: 0.98903 tp: 0.99877 at price 0.00000
+0	16:06:54.233	'1600028698': order #16292742 buy 0.01 USDCHF at 0.99109 sl: 0.98903 tp: 0.99877 closed at price 0.98985
+0	16:07:21.084	'1600028698': modify order #16303961 sell 0.05 USDCAD at 1.31479 sl: 1.31558 tp: 1.31178 -> sl: 1.31608 tp: 1.31178
+0	16:07:21.289	'1600028698': order #16303961 sell 0.05 USDCAD at 1.31479 was modified -> sl: 1.31608 tp: 1.31178
+0	16:08:11.744	MetaTrader build 1170 stopped
+0	23:34:15.395	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	23:34:15.396	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12243 / 16250 Mb, Disk: 762 / 919 Gb, GMT-5
+0	23:34:15.396	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	23:34:21.496	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.31 ms)
+0	23:34:24.521	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.31 ms)
+0	23:34:25.398	'1600028698': previous successful authorization performed from 190.239.87.99
+0	23:35:03.342	'1600028698': ping to current access point Vir_DC01_AWS is 129.57 ms
+0	23:35:54.687	'1600028698': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	23:35:54.947	'1600028698': order was opened : #16319896 sell 0.01 XAUUSD at 1428.38 sl: 0.00 tp: 0.00
+0	23:36:12.443	'1600028698': modify order #16319896 sell 0.01 XAUUSD at 1428.38 sl: 0.00 tp: 0.00 -> sl: 1438.00 tp: 1424.00
+0	23:36:12.785	'1600028698': order #16319896 sell 0.01 XAUUSD at 1428.38 was modified -> sl: 1438.00 tp: 1424.00
+0	23:38:56.727	'1600028698': modify order #16319896 sell 0.01 XAUUSD at 1428.38 sl: 1438.00 tp: 1424.00 -> sl: 1438.00 tp: 1420.30
+0	23:38:56.956	'1600028698': order #16319896 sell 0.01 XAUUSD at 1428.38 was modified -> sl: 1438.00 tp: 1420.30
+0	23:46:52.558	MetaTrader build 1170 stopped

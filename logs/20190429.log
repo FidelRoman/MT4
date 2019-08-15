@@ -1,0 +1,61 @@
+0	21:18:46.824	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	21:18:46.824	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3100 / 8058 Mb, Disk: 753 / 919 Gb, GMT-5
+0	21:18:46.824	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	21:18:52.490	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.30 ms)
+0	21:18:55.804	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.30 ms)
+0	21:18:56.506	'1600030859': previous successful authorization performed from 190.234.106.214
+0	21:19:26.523	'1600030859': auto connecting to a better access point NY4 DC 1 (ping is 122.66 ms)
+0	21:19:27.966	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 122.66 ms)
+0	21:19:29.577	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 122.66 ms)
+0	21:19:30.024	'1600030859': previous successful authorization performed from 34.217.130.47
+2	22:31:32.668	Custom indicator Heiken Ashi NZDCHF,H1: loaded successfully
+2	22:31:36.784	Custom indicator Heiken Ashi NZDCHF,H1: removed
+0	22:32:04.298	'1600030859': order sell market 0.01 NZDCHF sl: 0.00000 tp: 0.00000
+0	22:32:04.515	'1600030859': order was opened : #7569725 sell 0.01 NZDCHF at 0.67951 sl: 0.00000 tp: 0.00000
+0	22:32:07.010	'1600030859': modify order #7569725 sell 0.01 NZDCHF at 0.67951 sl: 0.00000 tp: 0.00000 -> sl: 0.68119 tp: 0.00000
+0	22:32:07.195	'1600030859': order #7569725 sell 0.01 NZDCHF at 0.67951 was modified -> sl: 0.68119 tp: 0.00000
+0	22:32:29.074	'1600030859': modify order #7569725 sell 0.01 NZDCHF at 0.67951 sl: 0.68119 tp: 0.00000 -> sl: 0.68119 tp: 0.67200
+0	22:32:29.280	'1600030859': order #7569725 sell 0.01 NZDCHF at 0.67951 was modified -> sl: 0.68119 tp: 0.67200
+0	22:33:58.588	'1600030859': order sell market 0.01 GBPUSD sl: 0.00000 tp: 0.00000
+0	22:33:58.833	'1600030859': order was opened : #7569821 sell 0.01 GBPUSD at 1.29415 sl: 0.00000 tp: 0.00000
+0	22:34:06.289	'1600030859': modify order #7569821 sell 0.01 GBPUSD at 1.29415 sl: 0.00000 tp: 0.00000 -> sl: 1.29490 tp: 0.00000
+0	22:34:06.520	'1600030859': order #7569821 sell 0.01 GBPUSD at 1.29415 was modified -> sl: 1.29490 tp: 0.00000
+0	22:34:15.522	'1600030859': modify order #7569821 sell 0.01 GBPUSD at 1.29415 sl: 1.29490 tp: 0.00000 -> sl: 1.29652 tp: 0.00000
+0	22:34:15.724	'1600030859': order #7569821 sell 0.01 GBPUSD at 1.29415 was modified -> sl: 1.29652 tp: 0.00000
+0	22:34:19.682	'1600030859': modify order #7569821 sell 0.01 GBPUSD at 1.29415 sl: 1.29652 tp: 0.00000 -> sl: 1.29582 tp: 0.00000
+0	22:34:19.875	'1600030859': order #7569821 sell 0.01 GBPUSD at 1.29415 was modified -> sl: 1.29582 tp: 0.00000
+0	22:34:23.961	'1600030859': modify order #7569821 sell 0.01 GBPUSD at 1.29415 sl: 1.29582 tp: 0.00000 -> sl: 1.29538 tp: 0.00000
+0	22:34:24.145	'1600030859': order #7569821 sell 0.01 GBPUSD at 1.29415 was modified -> sl: 1.29538 tp: 0.00000
+0	22:34:29.921	'1600030859': modify order #7569821 sell 0.01 GBPUSD at 1.29415 sl: 1.29538 tp: 0.00000 -> sl: 1.29514 tp: 0.00000
+0	22:34:30.113	'1600030859': order #7569821 sell 0.01 GBPUSD at 1.29415 was modified -> sl: 1.29514 tp: 0.00000
+0	22:34:46.828	'1600030859': modify order #7569821 sell 0.01 GBPUSD at 1.29415 sl: 1.29514 tp: 0.00000 -> sl: 1.29516 tp: 0.00000
+0	22:34:47.070	'1600030859': order #7569821 sell 0.01 GBPUSD at 1.29415 was modified -> sl: 1.29516 tp: 0.00000
+0	22:34:56.445	'1600030859': modify order #7569821 sell 0.01 GBPUSD at 1.29415 sl: 1.29516 tp: 0.00000 -> sl: 1.29515 tp: 0.00000
+0	22:34:56.658	'1600030859': order #7569821 sell 0.01 GBPUSD at 1.29415 was modified -> sl: 1.29515 tp: 0.00000
+0	22:35:13.943	'1600030859': modify order #7569821 sell 0.01 GBPUSD at 1.29415 sl: 1.29515 tp: 0.00000 -> sl: 1.29515 tp: 1.29106
+0	22:35:14.245	'1600030859': order #7569821 sell 0.01 GBPUSD at 1.29415 was modified -> sl: 1.29515 tp: 1.29106
+2	22:36:25.385	Custom indicator Heiken Ashi EURUSD,H4: loaded successfully
+2	22:36:36.873	Custom indicator Heiken Ashi EURUSD,H4: removed
+0	22:37:51.390	MetaTrader build 1170 stopped
+0	22:38:28.978	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:38:28.978	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4146 / 8058 Mb, Disk: 753 / 919 Gb, GMT-5
+0	22:38:28.978	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:38:32.854	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 122.66 ms)
+0	22:38:34.738	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 122.66 ms)
+0	22:38:35.154	'1600030859': previous successful authorization performed from 34.217.130.47
+0	22:39:01.418	'1600030859': order buy market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	22:39:01.655	'1600030859': order was opened : #7570009 buy 0.01 XAUUSD at 1283.00 sl: 0.00 tp: 0.00
+0	22:39:03.279	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 134.52 ms)
+0	22:39:04.821	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 134.52 ms)
+0	22:39:06.297	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 134.52 ms)
+0	22:39:06.728	'1600030859': previous successful authorization performed from 190.239.73.88
+0	22:39:11.209	'1600030859': modify order #7570009 buy 0.01 XAUUSD at 1283.00 sl: 0.00 tp: 0.00 -> sl: 1280.22 tp: 0.00
+0	22:39:11.423	'1600030859': order #7570009 buy 0.01 XAUUSD at 1283.00 was modified -> sl: 1280.22 tp: 0.00
+0	22:39:29.954	MetaTrader build 1170 stopped
+0	22:52:58.455	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:52:58.455	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 5033 / 8058 Mb, Disk: 753 / 919 Gb, GMT-5
+0	22:52:58.455	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:53:00.803	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 134.52 ms)
+0	22:53:03.134	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 134.52 ms)
+0	22:53:03.581	'1600030859': previous successful authorization performed from 190.239.73.88
+0	22:53:27.112	MetaTrader build 1170 stopped

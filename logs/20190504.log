@@ -1,0 +1,40 @@
+0	08:52:22.306	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	08:52:22.306	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4743 / 8058 Mb, Disk: 752 / 919 Gb, GMT-5
+0	08:52:22.306	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	08:52:40.843	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 117.72 ms)
+0	08:52:43.779	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 117.72 ms)
+0	08:52:44.319	'1600030859': previous successful authorization performed from 190.236.17.118
+0	08:53:07.530	'1600030859': auto connecting to a better access point ICM-DC-EUS2 (ping is 117.39 ms)
+0	08:53:09.617	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 117.39 ms)
+0	08:53:11.195	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 117.39 ms)
+0	08:53:11.598	'1600030859': previous successful authorization performed from 190.119.190.101
+0	09:07:38.287	MetaTrader build 1170 stopped
+0	09:14:45.954	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	09:14:45.958	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4361 / 8058 Mb, Disk: 752 / 919 Gb, GMT-5
+0	09:14:45.958	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	09:14:52.064	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 117.39 ms)
+0	09:14:54.854	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 117.39 ms)
+0	09:14:55.434	'1600030859': previous successful authorization performed from 190.119.190.101
+0	09:15:24.428	MetaTrader build 1170 stopped
+0	09:19:41.515	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	09:19:41.515	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4435 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	09:19:41.515	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	09:19:46.964	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 117.39 ms)
+0	09:19:49.874	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 117.39 ms)
+0	09:19:50.451	'1600030859': previous successful authorization performed from 190.119.190.101
+0	09:21:19.028	MetaTrader build 1170 stopped
+0	10:44:07.019	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	10:44:07.019	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4646 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	10:44:07.019	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	10:44:11.796	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 117.39 ms)
+0	10:44:14.495	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 117.39 ms)
+0	10:44:14.945	'1600030859': previous successful authorization performed from 190.119.190.101
+0	10:44:41.814	'1600030859': ping to current access point ICM-DC-EUS2 is 119.82 ms
+0	10:45:41.140	MetaTrader build 1170 stopped
+0	10:46:18.178	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	10:46:18.178	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3902 / 8058 Mb, Disk: 752 / 919 Gb, GMT-5
+0	10:46:18.178	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	10:46:22.967	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 119.82 ms)
+0	10:46:25.637	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 119.82 ms)
+0	10:46:26.138	'1600030859': previous successful authorization performed from 190.119.190.101
+0	10:47:05.607	MetaTrader build 1170 stopped

@@ -1,0 +1,11 @@
+0	23:11:30.969	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	23:11:30.969	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3686 / 8058 Mb, Disk: 752 / 919 Gb, GMT-5
+0	23:11:30.969	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	23:12:23.811	'1600030859': login on ICMarkets-Live16 through ICM-DC-NCUS (ping: 132.18 ms)
+0	23:12:29.503	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-NCUS (ping: 132.18 ms)
+0	23:12:30.536	'1600030859': previous successful authorization performed from 190.119.190.108
+0	23:12:58.985	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 115.58 ms)
+0	23:13:06.320	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 115.58 ms)
+0	23:13:08.121	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 115.58 ms)
+0	23:13:08.716	'1600030859': previous successful authorization performed from 190.236.22.242
+0	23:18:07.647	MetaTrader build 1170 stopped

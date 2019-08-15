@@ -1,0 +1,92 @@
+0	12:00:50.951	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:00:50.951	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4906 / 8058 Mb, Disk: 796 / 919 Gb, GMT-5
+0	12:00:50.951	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	12:00:57.626	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.94 ms)
+0	12:00:59.645	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 117.94 ms)
+0	12:01:00.064	'1600030859': previous successful authorization performed from 190.239.191.194
+0	12:01:26.435	'1600030859': ping to current access point Vir_DC01_AWS is 122.02 ms
+0	12:04:57.616	MetaTrader build 1170 stopped
+0	12:55:33.569	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:55:33.570	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 2647 / 8058 Mb, Disk: 795 / 919 Gb, GMT-5
+0	12:55:33.570	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	12:55:36.436	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.02 ms)
+0	12:55:37.978	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.02 ms)
+0	12:55:38.367	'1600030859': previous successful authorization performed from 190.239.191.194
+0	12:56:46.213	MetaTrader build 1170 stopped
+0	12:57:02.453	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:57:02.453	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 2540 / 8058 Mb, Disk: 795 / 919 Gb, GMT-5
+0	12:57:02.453	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	12:57:04.968	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.02 ms)
+0	12:57:07.089	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.02 ms)
+0	12:57:07.538	'1600030859': previous successful authorization performed from 190.239.191.194
+0	12:57:45.163	'1600030859': modify order #2600845 sell 0.01 XAUUSD at 1292.64 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1173.60
+0	12:57:45.399	'1600030859': order #2600845 sell 0.01 XAUUSD at 1292.64 was modified -> sl: 0.00 tp: 1173.60
+0	12:57:48.292	'1600030859': modify order #2600845 sell 0.01 XAUUSD at 1292.64 sl: 0.00 tp: 1173.60 -> sl: 0.00 tp: 1176.56
+0	12:57:48.553	'1600030859': order #2600845 sell 0.01 XAUUSD at 1292.64 was modified -> sl: 0.00 tp: 1176.56
+0	12:57:54.627	'1600030859': modify order #2600845 sell 0.01 XAUUSD at 1292.64 sl: 0.00 tp: 1176.56 -> sl: 0.00 tp: 1235.30
+0	12:57:54.853	'1600030859': order #2600845 sell 0.01 XAUUSD at 1292.64 was modified -> sl: 0.00 tp: 1235.30
+0	12:58:07.055	'1600030859': modify order #2600863 sell 0.01 XAUUSD at 1292.67 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1234.00
+0	12:58:07.325	'1600030859': order #2600863 sell 0.01 XAUUSD at 1292.67 was modified -> sl: 0.00 tp: 1234.00
+0	12:58:13.646	'1600030859': modify order #2600903 sell 0.01 XAUUSD at 1292.61 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1234.00
+0	12:58:13.822	'1600030859': order #2600903 sell 0.01 XAUUSD at 1292.61 was modified -> sl: 0.00 tp: 1234.00
+0	12:58:30.126	'1600030859': modify order #2600845 sell 0.01 XAUUSD at 1292.64 sl: 0.00 tp: 1235.30 -> sl: 0.00 tp: 1234.00
+0	12:58:30.350	'1600030859': order #2600845 sell 0.01 XAUUSD at 1292.64 was modified -> sl: 0.00 tp: 1234.00
+0	12:59:11.624	MetaTrader build 1170 stopped
+0	13:43:12.537	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	13:43:12.537	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 2535 / 8058 Mb, Disk: 795 / 919 Gb, GMT-5
+0	13:43:12.537	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	13:43:18.621	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.02 ms)
+0	13:43:20.674	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 122.02 ms)
+0	13:43:21.171	'1600030859': previous successful authorization performed from 190.239.191.194
+0	13:43:46.688	'1600030859': ping to current access point Vir_DC01_AWS is 118.47 ms
+0	13:44:09.291	'1600030859': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	13:44:09.571	'1600030859': order was opened : #2672246 sell 0.01 XAUUSD at 1288.13 sl: 0.00 tp: 0.00
+0	13:44:20.501	'1600030859': modify order #2672246 sell 0.01 XAUUSD at 1288.13 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1234.00
+0	13:44:20.737	'1600030859': order #2672246 sell 0.01 XAUUSD at 1288.13 was modified -> sl: 0.00 tp: 1234.00
+0	13:44:22.398	'1600030859': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	13:44:22.674	'1600030859': order was opened : #2672255 sell 0.01 XAUUSD at 1288.04 sl: 0.00 tp: 0.00
+0	13:44:35.001	'1600030859': modify order #2672255 sell 0.01 XAUUSD at 1288.04 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1234.00
+0	13:44:35.257	'1600030859': order #2672255 sell 0.01 XAUUSD at 1288.04 was modified -> sl: 0.00 tp: 1234.00
+0	13:44:50.175	'1600030859': order sell market 0.02 XAUUSD sl: 0.00 tp: 0.00
+1	13:44:50.445	'1600030859': order sell 0.02 XAUUSD opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	13:44:52.332	'1600030859': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	13:44:52.630	'1600030859': order was opened : #2672290 sell 0.01 XAUUSD at 1288.08 sl: 0.00 tp: 0.00
+0	13:44:53.478	'1600030859': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+1	13:44:53.706	'1600030859': order sell 0.01 XAUUSD opening at market sl: 0.00 tp: 0.00 failed [Not enough money]
+0	13:45:00.649	'1600030859': modify order #2672290 sell 0.01 XAUUSD at 1288.08 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1234.00
+0	13:45:00.863	'1600030859': order #2672290 sell 0.01 XAUUSD at 1288.08 was modified -> sl: 0.00 tp: 1234.00
+0	13:45:20.189	MetaTrader build 1170 stopped
+0	13:53:57.212	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	13:53:57.212	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 1605 / 8058 Mb, Disk: 795 / 919 Gb, GMT-5
+0	13:53:57.212	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	13:54:00.294	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 118.47 ms)
+0	13:54:02.528	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 118.47 ms)
+0	13:54:03.012	'1600030859': previous successful authorization performed from 190.239.191.194
+0	13:55:44.972	MetaTrader build 1170 stopped
+0	14:50:14.641	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:50:14.641	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 2610 / 8058 Mb, Disk: 795 / 919 Gb, GMT-5
+0	14:50:14.641	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	14:50:18.522	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 118.47 ms)
+0	14:50:20.641	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 118.47 ms)
+0	14:50:21.062	'1600030859': previous successful authorization performed from 190.239.191.194
+1	14:50:30.545	'1600030859': modification of order #2672246 sell 0.01 XAUUSD at 1288.13 sl: 0.00 tp: 1234.00 -> sl: 1288.19 tp: 1234.00 failed [Invalid S/L or T/P]
+0	14:50:45.754	'1600030859': auto connecting to a better access point NY4 DC 1 (ping is 118.20 ms)
+0	14:50:46.969	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 118.20 ms)
+0	14:50:48.143	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 118.20 ms)
+0	14:50:48.642	'1600030859': previous successful authorization performed from 190.239.191.194
+0	14:51:20.524	MetaTrader build 1170 stopped
+0	16:16:07.153	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:16:07.153	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3553 / 8058 Mb, Disk: 794 / 919 Gb, GMT-5
+0	16:16:07.153	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	16:16:12.847	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 118.20 ms)
+0	16:16:14.690	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 118.20 ms)
+0	16:16:15.096	'1600030859': previous successful authorization performed from 190.239.191.194
+0	16:16:39.910	'1600030859': ping to current access point NY4 DC 1 is 118.00 ms
+0	16:17:29.683	MetaTrader build 1170 stopped
+0	16:41:54.598	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:41:54.598	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 5435 / 8058 Mb, Disk: 794 / 919 Gb, GMT-5
+0	16:41:54.598	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	16:41:58.026	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 118.00 ms)
+0	16:42:00.342	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 118.00 ms)
+0	16:42:00.843	'1600030859': previous successful authorization performed from 190.239.191.194
+0	16:42:06.980	MetaTrader build 1170 stopped

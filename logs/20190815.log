@@ -1,0 +1,6 @@
+0	00:12:00.765	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	00:12:00.766	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11026 / 16250 Mb, Disk: 754 / 919 Gb, GMT-5
+0	00:12:00.766	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	00:12:05.627	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 122.88 ms)
+0	00:12:07.764	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 122.88 ms)
+0	00:12:08.196	'1600028698': previous successful authorization performed from 190.234.120.48

@@ -1,0 +1,158 @@
+0	09:25:46.265	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	09:25:46.265	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3666 / 8058 Mb, Disk: 798 / 919 Gb, GMT-5
+0	09:25:46.265	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	09:25:49.576	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 125.33 ms)
+0	09:25:51.386	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 125.33 ms)
+0	09:25:51.903	'1600030859': previous successful authorization performed from 190.42.137.164
+1	09:26:31.577	'1600030859': ping failed
+1	09:26:31.579	'1600030859': datacenter connecting failed [6]
+0	09:26:50.129	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 115.12 ms)
+1	09:27:41.130	'1600030859': connect failed [No connection]
+0	09:27:57.610	'1600030859': login on ICMarkets-Live16 through SYD_DC01_AWS (ping: n/a)
+1	09:28:20.490	'1600030859': datacenter connecting failed [6]
+0	09:28:57.671	'1600030859': login on ICMarkets-Live16 through ICM-DC-SEA (ping: n/a)
+0	09:29:02.003	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-SEA (ping: n/a)
+0	09:29:03.207	'1600030859': previous successful authorization performed from 190.42.137.164
+0	09:29:07.176	'1600030859': ping to current access point ICM-DC-SEA is n/a
+0	09:29:33.272	'1600030859': one click trading has been enabled
+0	09:29:37.170	'1600030859': order buy market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	09:29:38.022	'1600030859': order was opened : #2355310 buy 0.10 EURUSD at 1.12402 sl: 0.00000 tp: 0.00000
+0	09:29:45.635	'1600030859': modify order #2355310 buy 0.10 EURUSD at 1.12402 sl: 0.00000 tp: 0.00000 -> sl: 1.12077 tp: 0.00000
+0	09:29:46.324	'1600030859': order #2355310 buy 0.10 EURUSD at 1.12402 was modified -> sl: 1.12077 tp: 0.00000
+0	09:30:01.259	'1600030859': modify order #2355310 buy 0.10 EURUSD at 1.12402 sl: 1.12077 tp: 0.00000 -> sl: 1.12077 tp: 1.14001
+0	09:30:02.028	'1600030859': order #2355310 buy 0.10 EURUSD at 1.12402 was modified -> sl: 1.12077 tp: 1.14001
+0	09:30:40.762	'1600030859': order sell market 0.10 USDJPY sl: 0.000 tp: 0.000
+0	09:30:41.540	'1600030859': order was opened : #2356033 sell 0.10 USDJPY at 110.881 sl: 0.000 tp: 0.000
+0	09:30:48.025	'1600030859': modify order #2356033 sell 0.10 USDJPY at 110.881 sl: 0.000 tp: 0.000 -> sl: 110.940 tp: 0.000
+0	09:30:48.813	'1600030859': order #2356033 sell 0.10 USDJPY at 110.881 was modified -> sl: 110.940 tp: 0.000
+1	09:31:05.582	'1600030859': modification of order #2356033 sell 0.10 USDJPY at 110.881 sl: 110.940 tp: 0.000 -> sl: 107.585 tp: 0.000 failed [Invalid S/L or T/P]
+0	09:31:08.886	'1600030859': modify order #2356033 sell 0.10 USDJPY at 110.881 sl: 110.940 tp: 0.000 -> sl: 110.940 tp: 107.620
+0	09:31:09.587	'1600030859': order #2356033 sell 0.10 USDJPY at 110.881 was modified -> sl: 110.940 tp: 107.620
+0	09:33:47.283	'1600030859': order buy market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+1	09:33:48.037	'1600030859': order buy 0.10 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:33:52.778	'1600030859': order buy market 0.05 EURUSD sl: 0.00000 tp: 0.00000
+1	09:33:53.525	'1600030859': order buy 0.05 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:33:57.219	'1600030859': order buy market 0.20 EURUSD sl: 0.00000 tp: 0.00000
+1	09:33:57.945	'1600030859': order buy 0.20 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:34:02.931	'1600030859': order buy market 0.02 EURUSD sl: 0.00000 tp: 0.00000
+0	09:34:03.727	'1600030859': order was opened : #2357261 buy 0.02 EURUSD at 1.12338 sl: 0.00000 tp: 0.00000
+0	09:34:10.395	'1600030859': modify order #2357261 buy 0.02 EURUSD at 1.12338 sl: 0.00000 tp: 0.00000 -> sl: 1.12073 tp: 0.00000
+0	09:34:11.099	'1600030859': order #2357261 buy 0.02 EURUSD at 1.12338 was modified -> sl: 1.12073 tp: 0.00000
+0	09:34:12.963	'1600030859': order buy market 0.02 EURUSD sl: 0.00000 tp: 0.00000
+0	09:34:13.712	'1600030859': order was opened : #2357308 buy 0.02 EURUSD at 1.12336 sl: 0.00000 tp: 0.00000
+0	09:34:18.320	'1600030859': modify order #2357261 buy 0.02 EURUSD at 1.12338 sl: 1.12073 tp: 0.00000 -> sl: 1.12080 tp: 0.00000
+0	09:34:19.064	'1600030859': order #2357261 buy 0.02 EURUSD at 1.12338 was modified -> sl: 1.12080 tp: 0.00000
+0	09:34:22.578	'1600030859': order buy market 0.02 EURUSD sl: 0.00000 tp: 0.00000
+1	09:34:23.279	'1600030859': order buy 0.02 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:34:36.405	'1600030859': modify order #2357308 buy 0.02 EURUSD at 1.12336 sl: 0.00000 tp: 0.00000 -> sl: 1.12077 tp: 0.00000
+0	09:34:37.134	'1600030859': order #2357308 buy 0.02 EURUSD at 1.12336 was modified -> sl: 1.12077 tp: 0.00000
+0	09:35:43.026	'1600030859': order buy market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	09:35:43.777	'1600030859': order was opened : #2358732 buy 0.01 EURUSD at 1.12318 sl: 0.00000 tp: 0.00000
+0	09:35:45.515	'1600030859': order buy market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+1	09:35:46.286	'1600030859': order buy 0.01 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:35:58.829	'1600030859': modify order #2358732 buy 0.01 EURUSD at 1.12318 sl: 0.00000 tp: 0.00000 -> sl: 1.12061 tp: 0.00000
+0	09:35:59.557	'1600030859': order #2358732 buy 0.01 EURUSD at 1.12318 was modified -> sl: 1.12061 tp: 0.00000
+0	09:43:41.401	'1600030859': order buy market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+1	09:43:42.125	'1600030859': order buy 0.01 EURUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:51:50.422	'1600030859': close order #2356033 sell 0.10 USDJPY at 110.881 sl: 110.940 tp: 107.620 at price 0.000
+0	09:51:51.227	'1600030859': order #2356033 sell 0.10 USDJPY at 110.881 sl: 110.940 tp: 107.620 closed at price 110.870
+0	09:56:38.490	'1600030859': order buy market 0.10 GBPUSD sl: 0.00000 tp: 0.00000
+1	09:56:39.323	'1600030859': order buy 0.10 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:56:40.088	'1600030859': order buy market 0.10 GBPUSD sl: 0.00000 tp: 0.00000
+1	09:56:40.802	'1600030859': order buy 0.10 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:56:46.201	'1600030859': order buy market 0.04 GBPUSD sl: 0.00000 tp: 0.00000
+0	09:56:46.959	'1600030859': order was opened : #2369340 buy 0.04 GBPUSD at 1.30027 sl: 0.00000 tp: 0.00000
+0	09:56:47.834	'1600030859': order buy market 0.04 GBPUSD sl: 0.00000 tp: 0.00000
+1	09:56:48.549	'1600030859': order buy 0.04 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:56:53.680	'1600030859': order buy market 0.02 GBPUSD sl: 0.00000 tp: 0.00000
+0	09:56:54.526	'1600030859': order was opened : #2369358 buy 0.02 GBPUSD at 1.30031 sl: 0.00000 tp: 0.00000
+0	09:56:55.456	'1600030859': order buy market 0.02 GBPUSD sl: 0.00000 tp: 0.00000
+1	09:56:56.237	'1600030859': order buy 0.02 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:56:56.695	'1600030859': order buy market 0.02 GBPUSD sl: 0.00000 tp: 0.00000
+1	09:56:57.460	'1600030859': order buy 0.02 GBPUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	09:57:04.041	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 0.00000 tp: 0.00000 -> sl: 1.29545 tp: 0.00000
+0	09:57:04.774	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29545 tp: 0.00000
+0	09:57:09.208	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29545 tp: 0.00000 -> sl: 1.29525 tp: 0.00000
+0	09:57:09.941	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29525 tp: 0.00000
+0	10:11:01.065	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29525 tp: 0.00000 -> sl: 1.29525 tp: 1.33373
+0	10:11:01.799	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29525 tp: 1.33373
+0	10:11:04.127	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29525 tp: 1.33373 -> sl: 1.29525 tp: 1.33453
+0	10:11:04.849	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29525 tp: 1.33453
+0	10:11:09.183	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29525 tp: 1.33453 -> sl: 1.29525 tp: 1.33215
+0	10:11:09.898	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29525 tp: 1.33215
+0	10:11:13.979	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29525 tp: 1.33215 -> sl: 1.29525 tp: 1.33274
+0	10:11:14.690	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29525 tp: 1.33274
+0	10:11:40.577	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29525 tp: 1.33274 -> sl: 1.29789 tp: 1.33300
+0	10:11:41.501	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29789 tp: 1.33300
+0	10:11:57.352	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29789 tp: 1.33300 -> sl: 1.29722 tp: 1.33300
+0	10:11:58.085	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29722 tp: 1.33300
+0	10:12:07.802	'1600030859': modify order #2369358 buy 0.02 GBPUSD at 1.30031 sl: 0.00000 tp: 0.00000 -> sl: 1.29738 tp: 0.00000
+0	10:12:08.494	'1600030859': order #2369358 buy 0.02 GBPUSD at 1.30031 was modified -> sl: 1.29738 tp: 0.00000
+0	10:12:17.095	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29722 tp: 1.33300 -> sl: 1.29722 tp: 1.33217
+0	10:12:17.838	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29722 tp: 1.33217
+0	10:12:19.081	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29722 tp: 1.33217 -> sl: 1.29722 tp: 1.33312
+0	10:12:19.741	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29722 tp: 1.33312
+0	10:12:28.688	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29722 tp: 1.33312 -> sl: 1.29722 tp: 1.33252
+0	10:12:29.447	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29722 tp: 1.33252
+0	10:12:31.244	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29722 tp: 1.33252 -> sl: 1.29722 tp: 1.33419
+0	10:12:31.945	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29722 tp: 1.33419
+0	10:12:43.592	'1600030859': modify order #2369358 buy 0.02 GBPUSD at 1.30031 sl: 1.29738 tp: 0.00000 -> sl: 1.29738 tp: 1.30455
+0	10:12:44.272	'1600030859': order #2369358 buy 0.02 GBPUSD at 1.30031 was modified -> sl: 1.29738 tp: 1.30455
+0	10:12:49.100	'1600030859': modify order #2369358 buy 0.02 GBPUSD at 1.30031 sl: 1.29738 tp: 1.30455 -> sl: 1.29738 tp: 1.33442
+0	10:12:49.822	'1600030859': order #2369358 buy 0.02 GBPUSD at 1.30031 was modified -> sl: 1.29738 tp: 1.33442
+0	10:13:42.307	'1600030859': modify order #2358732 buy 0.01 EURUSD at 1.12318 sl: 1.12061 tp: 0.00000 -> sl: 1.12061 tp: 1.12732
+0	10:13:43.013	'1600030859': order #2358732 buy 0.01 EURUSD at 1.12318 was modified -> sl: 1.12061 tp: 1.12732
+0	10:13:45.026	'1600030859': modify order #2358732 buy 0.01 EURUSD at 1.12318 sl: 1.12061 tp: 1.12732 -> sl: 1.12061 tp: 1.12727
+0	10:13:45.756	'1600030859': order #2358732 buy 0.01 EURUSD at 1.12318 was modified -> sl: 1.12061 tp: 1.12727
+0	10:13:49.379	'1600030859': modify order #2357261 buy 0.02 EURUSD at 1.12338 sl: 1.12080 tp: 0.00000 -> sl: 1.12080 tp: 1.12722
+0	10:13:50.088	'1600030859': order #2357261 buy 0.02 EURUSD at 1.12338 was modified -> sl: 1.12080 tp: 1.12722
+0	10:14:00.855	'1600030859': modify order #2355310 buy 0.10 EURUSD at 1.12402 sl: 1.12077 tp: 1.14001 -> sl: 1.12077 tp: 1.12695
+0	10:14:01.575	'1600030859': order #2355310 buy 0.10 EURUSD at 1.12402 was modified -> sl: 1.12077 tp: 1.12695
+0	10:14:04.104	'1600030859': modify order #2357261 buy 0.02 EURUSD at 1.12338 sl: 1.12080 tp: 1.12722 -> sl: 1.12080 tp: 1.13902
+0	10:14:04.807	'1600030859': order #2357261 buy 0.02 EURUSD at 1.12338 was modified -> sl: 1.12080 tp: 1.13902
+0	10:14:07.076	'1600030859': modify order #2358732 buy 0.01 EURUSD at 1.12318 sl: 1.12061 tp: 1.12727 -> sl: 1.12061 tp: 1.13897
+0	10:14:07.780	'1600030859': order #2358732 buy 0.01 EURUSD at 1.12318 was modified -> sl: 1.12061 tp: 1.13897
+0	10:14:20.301	'1600030859': modify order #2355310 buy 0.10 EURUSD at 1.12402 sl: 1.12077 tp: 1.12695 -> sl: 1.12077 tp: 1.12817
+0	10:14:21.044	'1600030859': order #2355310 buy 0.10 EURUSD at 1.12402 was modified -> sl: 1.12077 tp: 1.12817
+0	10:14:23.934	'1600030859': modify order #2355310 buy 0.10 EURUSD at 1.12402 sl: 1.12077 tp: 1.12817 -> sl: 1.12077 tp: 1.12844
+0	10:14:24.670	'1600030859': order #2355310 buy 0.10 EURUSD at 1.12402 was modified -> sl: 1.12077 tp: 1.12844
+0	10:15:01.334	'1600030859': modify order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29722 tp: 1.33419 -> sl: 1.29722 tp: 1.32491
+0	10:15:02.035	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 was modified -> sl: 1.29722 tp: 1.32491
+0	10:15:06.039	'1600030859': modify order #2369358 buy 0.02 GBPUSD at 1.30031 sl: 1.29738 tp: 1.33442 -> sl: 1.29738 tp: 1.32491
+0	10:15:06.749	'1600030859': order #2369358 buy 0.02 GBPUSD at 1.30031 was modified -> sl: 1.29738 tp: 1.32491
+1	10:22:34.114	'1600030859': datacenter connecting failed [6]
+0	10:22:35.818	'1600030859': login on ICMarkets-Live16 through ICM-DC-SEA (ping: n/a)
+0	10:22:40.459	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-SEA (ping: n/a)
+0	10:22:41.759	'1600030859': previous successful authorization performed from 190.239.77.199
+0	10:23:19.231	'1600030859': ping to current access point ICM-DC-SEA is 592.57 ms
+1	10:25:44.619	'1600030859': datacenter connecting failed [6]
+0	10:25:46.266	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.69 ms)
+0	10:25:54.806	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.69 ms)
+0	10:25:57.377	'1600030859': previous successful authorization performed from 190.42.137.164
+0	10:37:41.319	'1600030859': close order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29722 tp: 1.32491 at price 0.00000
+0	10:37:41.613	'1600030859': order #2369340 buy 0.04 GBPUSD at 1.30027 sl: 1.29722 tp: 1.32491 closed at price 1.30320
+0	10:37:42.132	'1600030859': close order #2355310 buy 0.10 EURUSD at 1.12402 sl: 1.12077 tp: 1.12844 at price 0.00000
+0	10:37:42.423	'1600030859': order #2355310 buy 0.10 EURUSD at 1.12402 sl: 1.12077 tp: 1.12844 closed at price 1.12262
+0	10:37:43.172	'1600030859': close order #2357261 buy 0.02 EURUSD at 1.12338 sl: 1.12080 tp: 1.13902 at price 0.00000
+0	10:37:43.460	'1600030859': order #2357261 buy 0.02 EURUSD at 1.12338 sl: 1.12080 tp: 1.13902 closed at price 1.12262
+0	10:37:44.765	'1600030859': close order #2357308 buy 0.02 EURUSD at 1.12336 sl: 1.12077 tp: 0.00000 at price 0.00000
+0	10:37:45.020	'1600030859': order #2357308 buy 0.02 EURUSD at 1.12336 sl: 1.12077 tp: 0.00000 closed at price 1.12256
+0	10:37:46.001	'1600030859': close order #2358732 buy 0.01 EURUSD at 1.12318 sl: 1.12061 tp: 1.13897 at price 0.00000
+0	10:37:46.254	'1600030859': order #2358732 buy 0.01 EURUSD at 1.12318 sl: 1.12061 tp: 1.13897 closed at price 1.12257
+0	10:37:48.605	'1600030859': close order #2369358 buy 0.02 GBPUSD at 1.30031 sl: 1.29738 tp: 1.32491 at price 0.00000
+0	10:37:48.871	'1600030859': order #2369358 buy 0.02 GBPUSD at 1.30031 sl: 1.29738 tp: 1.32491 closed at price 1.30298
+0	10:41:03.159	MetaTrader build 1170 stopped
+0	11:12:11.669	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:12:11.670	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3588 / 8058 Mb, Disk: 798 / 919 Gb, GMT-5
+0	11:12:11.670	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	11:12:14.248	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.69 ms)
+0	11:12:16.071	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 123.69 ms)
+0	11:12:16.509	'1600030859': previous successful authorization performed from 190.42.137.164
+1	11:20:39.158	'1600030859': datacenter connecting failed [6]
+0	11:20:39.755	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 117.99 ms)
+0	11:20:41.076	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 117.99 ms)
+0	11:20:41.474	'1600030859': previous successful authorization performed from 190.42.137.164
+0	11:21:34.248	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 117.99 ms)
+0	11:21:35.307	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 117.99 ms)
+0	11:21:35.719	'1600030859': previous successful authorization performed from 190.42.137.164
+0	11:23:50.070	MetaTrader build 1170 stopped

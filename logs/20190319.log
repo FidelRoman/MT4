@@ -1,0 +1,17 @@
+0	22:41:30.436	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:41:30.436	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4919 / 8058 Mb, Disk: 796 / 919 Gb, GMT-5
+0	22:41:30.436	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+1	22:41:37.279	'1061950': connect failed [Invalid account]
+0	22:42:45.066	'43036059': login on XMGlobal-Real 33
+0	22:42:50.622	'43036059': previous successful authorization performed from 201.240.146.96
+0	22:43:31.868	'43036059': auto connecting to a better access point REAL33 - DC10 (ping is 204.52 ms)
+0	22:43:33.161	'43036059': login on XMGlobal-Real 33 through REAL33 - DC10 (ping: 204.52 ms)
+0	22:43:35.797	'43036059': previous successful authorization performed from 190.239.71.234
+0	22:44:30.397	'43036059': one click trading has been enabled
+0	22:44:46.986	MetaTrader build 1170 stopped
+0	23:06:55.647	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	23:06:55.647	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4103 / 8058 Mb, Disk: 796 / 919 Gb, GMT-5
+0	23:06:55.647	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	23:06:58.729	'43036059': login on XMGlobal-Real 33 through REAL33 - DC10 (ping: 204.52 ms)
+0	23:07:01.582	'43036059': previous successful authorization performed from 190.239.71.234
+0	23:07:26.478	MetaTrader build 1170 stopped

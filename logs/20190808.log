@@ -1,0 +1,41 @@
+0	16:11:17.929	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	16:11:17.933	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10512 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	16:11:17.933	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	16:11:23.192	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 122.71 ms)
+0	16:11:25.478	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 122.71 ms)
+0	16:11:25.923	'1600028698': previous successful authorization performed from 190.234.120.242
+0	16:11:51.209	'1600028698': ping to current access point NY4 DC 1 is 125.10 ms
+0	16:13:19.647	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2877.20 tp: 0.00 -> sl: 2875.00 tp: 0.00
+1	16:13:19.827	'1600028698': modification of order #16910295 buy 1.00 US500 at 2877.90 sl: 2877.20 tp: 0.00 -> sl: 2875.00 tp: 0.00 failed [Market is closed]
+0	16:13:33.028	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2877.20 tp: 0.00 -> sl: 2877.20 tp: 4000.00
+1	16:13:33.203	'1600028698': modification of order #16910295 buy 1.00 US500 at 2877.90 sl: 2877.20 tp: 0.00 -> sl: 2877.20 tp: 4000.00 failed [Market is closed]
+0	16:16:18.533	MetaTrader build 1170 stopped
+0	22:33:00.466	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:33:00.466	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12412 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	22:33:00.466	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:33:13.295	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 125.10 ms)
+0	22:33:18.662	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 125.10 ms)
+0	22:33:19.226	'1600028698': previous successful authorization performed from 34.213.195.94
+0	22:33:46.374	'1600028698': ping to current access point NY4 DC 1 is 123.80 ms
+0	22:34:15.155	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2877.20 tp: 0.00 -> sl: 2877.50 tp: 0.00
+0	22:34:15.358	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2877.50 tp: 0.00
+0	22:34:21.121	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2877.50 tp: 0.00 -> sl: 2875.94 tp: 0.00
+0	22:34:21.324	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2875.94 tp: 0.00
+0	22:34:24.318	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2875.94 tp: 0.00 -> sl: 2875.94 tp: 2944.90
+0	22:34:24.521	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2875.94 tp: 2944.90
+0	22:34:29.168	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2875.94 tp: 2944.90 -> sl: 2877.81 tp: 2944.90
+0	22:34:29.371	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2877.81 tp: 2944.90
+0	22:34:35.541	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2877.81 tp: 2944.90 -> sl: 2877.81 tp: 3017.10
+0	22:34:35.729	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2877.81 tp: 3017.10
+0	22:34:37.518	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2877.81 tp: 3017.10 -> sl: 2877.81 tp: 3024.91
+0	22:34:37.722	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2877.81 tp: 3024.91
+0	22:34:46.854	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2877.81 tp: 3024.91 -> sl: 2877.81 tp: 3000.00
+0	22:34:47.057	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2877.81 tp: 3000.00
+0	22:35:05.515	MetaTrader build 1170 stopped
+0	22:40:31.880	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:40:31.880	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10254 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	22:40:31.880	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:40:34.315	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 123.80 ms)
+0	22:40:36.087	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 123.80 ms)
+0	22:40:36.471	'1600028698': previous successful authorization performed from 190.234.120.242
+0	22:58:30.467	MetaTrader build 1170 stopped

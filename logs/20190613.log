@@ -1,0 +1,37 @@
+0	18:48:57.735	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	18:48:57.735	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12372 / 16250 Mb, Disk: 768 / 919 Gb, GMT-5
+0	18:48:57.735	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	18:49:02.991	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 118.52 ms)
+0	18:49:06.553	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 118.52 ms)
+0	18:49:07.274	'1600030859': previous successful authorization performed from 54.244.48.82
+0	18:50:01.657	'1600030859': auto connecting to a better access point NY4 DC 2 (ping is 138.22 ms)
+0	18:50:07.831	'1600030859': login on ICMarkets-Live16 through NY4 DC 2 (ping: 138.22 ms)
+0	18:50:17.914	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 2 (ping: 138.22 ms)
+0	18:50:20.037	'1600030859': previous successful authorization performed from 190.238.103.179
+0	18:51:04.595	'1600030859': modify order #12877117 sell 0.01 EURGBP at 0.88838 sl: 0.89346 tp: 0.86708 -> sl: 0.88995 tp: 0.86708
+0	18:51:05.595	'1600030859': order #12877117 sell 0.01 EURGBP at 0.88838 was modified -> sl: 0.88995 tp: 0.86708
+0	18:51:09.120	'1600030859': modify order #12877117 sell 0.01 EURGBP at 0.88838 sl: 0.88995 tp: 0.86708 -> sl: 0.89008 tp: 0.86708
+0	18:51:10.183	'1600030859': order #12877117 sell 0.01 EURGBP at 0.88838 was modified -> sl: 0.89008 tp: 0.86708
+0	18:51:36.996	'1600030859': modify order #12877117 sell 0.01 EURGBP at 0.88838 sl: 0.89008 tp: 0.86708 -> sl: 0.89008 tp: 0.88482
+0	18:51:38.058	'1600030859': order #12877117 sell 0.01 EURGBP at 0.88838 was modified -> sl: 0.89008 tp: 0.88482
+0	18:51:46.065	'1600030859': modify order #12877117 sell 0.01 EURGBP at 0.88838 sl: 0.89008 tp: 0.88482 -> sl: 0.89207 tp: 0.88482
+0	18:51:47.002	'1600030859': order #12877117 sell 0.01 EURGBP at 0.88838 was modified -> sl: 0.89207 tp: 0.88482
+0	18:52:08.289	MetaTrader build 1170 stopped
+0	18:52:37.797	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	18:52:37.797	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11517 / 16250 Mb, Disk: 768 / 919 Gb, GMT-5
+0	18:52:37.797	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	18:52:42.196	'1600030859': login on ICMarkets-Live16 through NY4 DC 2 (ping: 138.22 ms)
+0	18:52:54.020	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 2 (ping: 138.22 ms)
+0	18:52:55.546	'1600030859': previous successful authorization performed from 190.238.103.179
+0	18:53:18.774	'1600030859': close order #12877117 sell 0.01 EURGBP at 0.88838 sl: 0.89207 tp: 0.88482 at price 0.00000
+0	18:53:19.726	'1600030859': order #12877117 sell 0.01 EURGBP at 0.88838 sl: 0.89207 tp: 0.88482 closed at price 0.88974
+0	18:53:20.391	'1600030859': close order #12877442 sell 0.01 EURUSD at 1.12826 sl: 1.13042 tp: 1.11990 at price 0.00000
+0	18:53:21.460	'1600030859': order #12877442 sell 0.01 EURUSD at 1.12826 sl: 1.13042 tp: 1.11990 closed at price 1.12808
+0	18:53:22.142	'1600030859': close order #12877654 buy 0.01 USDCHF at 0.99306 sl: 0.98989 tp: 1.00909 at price 0.00000
+0	18:53:23.283	'1600030859': order #12877654 buy 0.01 USDCHF at 0.99306 sl: 0.98989 tp: 1.00909 closed at price 0.99367
+1	18:53:46.919	'20542967': connect failed [Invalid account]
+0	19:00:25.418	'30414736': login on ICMarkets-Demo03
+0	19:02:03.448	'30414736': ping to current access point TYDC is 986.57 ms
+2	19:04:18.086	Custom indicator Heiken Ashi EURUSD,H4: loaded successfully
+2	19:04:25.508	Custom indicator Heiken Ashi EURUSD,Daily: removed
+0	19:05:37.968	MetaTrader build 1170 stopped

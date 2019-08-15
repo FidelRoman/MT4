@@ -1,0 +1,137 @@
+0	01:37:54.884	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	01:37:54.884	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9147 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	01:37:54.884	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	01:37:59.417	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 123.80 ms)
+0	01:38:02.861	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 123.80 ms)
+0	01:38:03.919	'1600028698': previous successful authorization performed from 190.236.16.180
+0	01:38:49.050	'1600028698': auto connecting to a better access point NY4 DC 2 (ping is 205.55 ms)
+0	01:38:50.981	'1600028698': login on ICMarkets-Live16 through NY4 DC 2 (ping: 205.55 ms)
+0	01:38:53.241	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 2 (ping: 205.55 ms)
+0	01:38:54.746	'1600028698': previous successful authorization performed from 190.234.120.242
+0	01:39:52.744	'1600028698': order buy market 0.02 AUDUSD sl: 0.00000 tp: 0.00000
+0	01:39:53.002	'1600028698': order was opened : #16996020 buy 0.02 AUDUSD at 0.68137 sl: 0.00000 tp: 0.00000
+0	01:39:59.637	'1600028698': modify order #16996020 buy 0.02 AUDUSD at 0.68137 sl: 0.00000 tp: 0.00000 -> sl: 0.67955 tp: 0.00000
+0	01:39:59.863	'1600028698': order #16996020 buy 0.02 AUDUSD at 0.68137 was modified -> sl: 0.67955 tp: 0.00000
+0	01:40:09.060	'1600028698': modify order #16996020 buy 0.02 AUDUSD at 0.68137 sl: 0.67955 tp: 0.00000 -> sl: 0.67955 tp: 0.69989
+0	01:40:10.325	'1600028698': order #16996020 buy 0.02 AUDUSD at 0.68137 was modified -> sl: 0.67955 tp: 0.69989
+0	01:40:36.304	MetaTrader build 1170 stopped
+0	02:34:38.387	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	02:34:38.387	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 8633 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	02:34:38.387	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	02:34:45.093	'1600028698': login on ICMarkets-Live16 through NY4 DC 2 (ping: 205.55 ms)
+0	02:34:47.608	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 2 (ping: 205.55 ms)
+0	02:34:48.132	'1600028698': previous successful authorization performed from 34.213.195.94
+0	02:36:02.464	MetaTrader build 1170 stopped
+0	03:02:46.125	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	03:02:46.125	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 8473 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	03:02:46.125	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	03:02:48.644	'1600028698': login on ICMarkets-Live16 through NY4 DC 2 (ping: 205.55 ms)
+0	03:02:50.979	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 2 (ping: 205.55 ms)
+0	03:02:51.458	'1600028698': previous successful authorization performed from 190.236.16.180
+0	03:03:19.791	'1600028698': auto connecting to a better access point Vir_DC01_AWS (ping is 134.94 ms)
+0	03:03:20.986	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 134.94 ms)
+0	03:03:22.577	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 134.94 ms)
+0	03:03:23.042	'1600028698': previous successful authorization performed from 190.236.16.180
+0	03:04:55.468	'1600028698': order buy market 1.00 US500 sl: 0.00 tp: 0.00
+0	03:04:56.073	'1600028698': order was opened : #17000032 buy 1.00 US500 at 2926.00 sl: 0.00 tp: 0.00
+0	03:05:03.956	'1600028698': modify order #17000032 buy 1.00 US500 at 2926.00 sl: 0.00 tp: 0.00 -> sl: 2915.09 tp: 0.00
+0	03:05:04.182	'1600028698': order #17000032 buy 1.00 US500 at 2926.00 was modified -> sl: 2915.09 tp: 0.00
+0	03:05:19.291	'1600028698': modify order #17000032 buy 1.00 US500 at 2926.00 sl: 2915.09 tp: 0.00 -> sl: 2915.09 tp: 2972.15
+0	03:05:19.479	'1600028698': order #17000032 buy 1.00 US500 at 2926.00 was modified -> sl: 2915.09 tp: 2972.15
+0	03:05:50.398	MetaTrader build 1170 stopped
+0	03:10:27.977	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	03:10:27.978	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 8590 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	03:10:27.978	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	03:10:30.453	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 134.94 ms)
+0	03:10:32.372	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 134.94 ms)
+0	03:10:32.820	'1600028698': previous successful authorization performed from 190.236.16.180
+0	03:10:58.038	MetaTrader build 1170 stopped
+0	09:05:48.530	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	09:05:48.530	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10292 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	09:05:48.530	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	09:05:54.471	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 134.94 ms)
+0	09:05:57.942	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 134.94 ms)
+0	09:05:58.741	'1600028698': previous successful authorization performed from 190.236.16.180
+0	09:06:32.981	'1600028698': auto connecting to a better access point NY4 DC 1 (ping is 121.96 ms)
+0	09:06:34.422	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 121.96 ms)
+0	09:06:36.080	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 121.96 ms)
+0	09:06:36.706	'1600028698': previous successful authorization performed from 190.234.120.242
+0	09:22:30.759	'1600028698': order #17000032 buy 1.00 US500 at 2926.00 closed due stop-loss at price 2915.00
+0	09:25:03.344	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2877.81 tp: 3000.00 -> sl: 2883.46 tp: 3000.00
+0	09:25:03.533	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2883.46 tp: 3000.00
+0	09:25:05.770	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2883.46 tp: 3000.00 -> sl: 2901.88 tp: 3000.00
+0	09:25:05.949	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2901.88 tp: 3000.00
+0	09:25:10.784	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2901.88 tp: 3000.00 -> sl: 2907.14 tp: 3000.00
+0	09:25:10.964	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2907.14 tp: 3000.00
+0	09:25:19.063	'1600028698': modify order #16910295 buy 1.00 US500 at 2877.90 sl: 2907.14 tp: 3000.00 -> sl: 2906.01 tp: 3000.00
+0	09:25:19.244	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 was modified -> sl: 2906.01 tp: 3000.00
+0	09:26:10.939	'1600028698': close order #16910295 buy 1.00 US500 at 2877.90 sl: 2906.01 tp: 3000.00 at price 0.00
+0	09:26:11.457	'1600028698': order #16910295 buy 1.00 US500 at 2877.90 sl: 2906.01 tp: 3000.00 closed at price 2914.60
+0	09:29:02.352	MetaTrader build 1170 stopped
+0	09:41:39.130	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	09:41:39.130	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 8390 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	09:41:39.130	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	09:41:43.966	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 121.96 ms)
+0	09:41:46.653	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 121.96 ms)
+0	09:41:47.193	'1600028698': previous successful authorization performed from 52.42.178.125
+0	09:51:53.594	MetaTrader build 1170 stopped
+0	11:20:20.783	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:20:20.783	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9538 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	11:20:20.783	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	11:20:24.658	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 121.96 ms)
+0	11:20:26.900	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 121.96 ms)
+0	11:20:27.405	'1600028698': previous successful authorization performed from 190.234.120.242
+0	11:20:51.445	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.00000 tp: 0.67000 -> sl: 0.67973 tp: 0.67000
+0	11:20:51.630	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67973 tp: 0.67000
+0	11:20:53.131	'1600028698': auto connecting to a better access point Vir_DC01_AWS (ping is 128.79 ms)
+0	11:20:54.687	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 128.79 ms)
+0	11:20:56.372	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 128.79 ms)
+0	11:20:56.898	'1600028698': previous successful authorization performed from 190.234.120.242
+0	11:21:03.617	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.67973 tp: 0.67000 -> sl: 0.67973 tp: 0.67500
+0	11:21:03.868	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67973 tp: 0.67500
+0	11:23:02.811	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.67973 tp: 0.67500 -> sl: 0.67973 tp: 0.67522
+0	11:23:03.051	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67973 tp: 0.67522
+0	11:24:26.669	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.67973 tp: 0.67522 -> sl: 0.67981 tp: 0.67522
+0	11:24:26.893	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67981 tp: 0.67522
+0	11:24:56.837	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.67981 tp: 0.67522 -> sl: 0.67995 tp: 0.67522
+0	11:24:57.153	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67995 tp: 0.67522
+0	11:32:08.943	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.67995 tp: 0.67522 -> sl: 0.67995 tp: 0.67816
+0	11:32:09.248	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67995 tp: 0.67816
+0	11:32:19.413	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.67995 tp: 0.67816 -> sl: 0.67995 tp: 0.67774
+0	11:32:19.610	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67995 tp: 0.67774
+0	11:32:27.005	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.67995 tp: 0.67774 -> sl: 0.67995 tp: 0.67500
+0	11:32:27.255	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67995 tp: 0.67500
+0	11:38:22.231	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.67995 tp: 0.67500 -> sl: 0.67995 tp: 0.66774
+0	11:38:22.435	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67995 tp: 0.66774
+0	11:38:32.806	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.67995 tp: 0.66774 -> sl: 0.67995 tp: 0.66972
+0	11:38:33.029	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67995 tp: 0.66972
+0	11:53:24.982	'1600028698': modify order #17038162 sell 0.05 AUDUSD at 0.67912 sl: 0.67995 tp: 0.66972 -> sl: 0.67913 tp: 0.66972
+0	11:53:25.228	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 was modified -> sl: 0.67913 tp: 0.66972
+0	11:54:20.616	'1600028698': order #17038162 sell 0.05 AUDUSD at 0.67912 closed due stop-loss at price 0.67914
+0	12:02:57.403	MetaTrader build 1170 stopped
+0	12:49:23.121	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:49:23.121	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9761 / 16250 Mb, Disk: 760 / 919 Gb, GMT-5
+0	12:49:23.121	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	12:49:25.724	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 128.79 ms)
+0	12:49:27.687	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 128.79 ms)
+0	12:49:28.107	'1600028698': previous successful authorization performed from 190.234.120.242
+0	12:49:54.693	'1600028698': ping to current access point Vir_DC01_AWS is 121.29 ms
+0	12:50:47.404	MetaTrader build 1170 stopped
+0	14:28:18.614	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:28:18.614	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9735 / 16250 Mb, Disk: 760 / 919 Gb, GMT-5
+0	14:28:18.614	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	14:28:21.793	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 121.29 ms)
+0	14:28:23.823	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 121.29 ms)
+0	14:28:24.237	'1600028698': previous successful authorization performed from 190.234.120.242
+0	14:28:50.001	'1600028698': auto connecting to a better access point NY4 DC 1 (ping is 123.39 ms)
+0	14:28:51.231	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 123.39 ms)
+0	14:28:52.750	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 123.39 ms)
+0	14:28:53.517	'1600028698': previous successful authorization performed from 190.234.120.242
+0	14:29:58.192	MetaTrader build 1170 stopped
+0	15:15:58.803	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	15:15:58.803	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9994 / 16250 Mb, Disk: 760 / 919 Gb, GMT-5
+0	15:15:58.803	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	15:16:04.283	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 123.39 ms)
+0	15:16:06.580	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 123.39 ms)
+0	15:16:07.058	'1600028698': previous successful authorization performed from 52.42.178.125
+0	15:17:49.297	MetaTrader build 1170 stopped

@@ -1,0 +1,21 @@
+0	22:30:31.131	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:30:31.131	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3982 / 8058 Mb, Disk: 753 / 919 Gb, GMT-5
+0	22:30:31.131	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:30:35.677	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 118.28 ms)
+0	22:30:38.826	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 118.28 ms)
+0	22:30:39.524	'1600030859': previous successful authorization performed from 190.236.2.254
+2	22:31:08.335	Custom indicator Heiken Ashi US500,H1: loaded successfully
+0	22:31:18.750	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 138.88 ms)
+0	22:31:20.908	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 138.88 ms)
+0	22:31:23.102	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 138.88 ms)
+0	22:31:24.292	'1600030859': previous successful authorization performed from 190.234.105.251
+2	22:32:09.544	Custom indicator Heiken Ashi US500,H4: removed
+0	22:33:22.805	MetaTrader build 1170 stopped
+0	23:46:14.937	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	23:46:14.941	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4235 / 8058 Mb, Disk: 752 / 919 Gb, GMT-5
+0	23:46:14.941	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	23:46:22.991	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 138.88 ms)
+0	23:46:26.444	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 138.88 ms)
+0	23:46:27.005	'1600030859': previous successful authorization performed from 18.236.168.162
+0	23:46:55.089	'1600030859': ping to current access point Vir_DC01_AWS is 126.81 ms
+0	23:49:58.086	MetaTrader build 1170 stopped

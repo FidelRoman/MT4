@@ -1,0 +1,67 @@
+0	12:09:50.809	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:09:50.809	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10779 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	12:09:50.809	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	12:09:53.915	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 125.33 ms)
+0	12:09:56.115	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 125.33 ms)
+0	12:09:56.619	'1600028698': previous successful authorization performed from 190.234.120.242
+0	12:10:27.221	'1600028698': ping to current access point Vir_DC01_AWS is 122.77 ms
+1	12:20:36.817	'1600028698': ping failed
+1	12:20:36.821	'1600028698': datacenter connecting failed [6]
+0	12:20:37.577	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 121.86 ms)
+0	12:20:39.067	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 121.86 ms)
+0	12:20:39.700	'1600028698': previous successful authorization performed from 52.33.140.179
+0	12:20:46.154	MetaTrader build 1170 stopped
+0	12:24:26.706	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:24:26.706	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12072 / 16250 Mb, Disk: 761 / 919 Gb, GMT-5
+0	12:24:26.706	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	12:24:29.404	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 121.86 ms)
+0	12:24:32.311	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 121.86 ms)
+0	12:24:32.795	'1600028698': previous successful authorization performed from 190.234.120.242
+0	12:25:22.885	'1600028698': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	12:25:23.136	'1600028698': order was opened : #16490710 sell 0.01 XAUUSD at 1417.84 sl: 0.00 tp: 0.00
+0	12:25:35.536	'1600028698': modify order #16490710 sell 0.01 XAUUSD at 1417.84 sl: 0.00 tp: 0.00 -> sl: 1423.01 tp: 0.00
+0	12:25:35.721	'1600028698': order #16490710 sell 0.01 XAUUSD at 1417.84 was modified -> sl: 1423.01 tp: 0.00
+0	12:25:45.713	'1600028698': modify order #16490710 sell 0.01 XAUUSD at 1417.84 sl: 1423.01 tp: 0.00 -> sl: 1422.97 tp: 0.00
+0	12:25:45.988	'1600028698': order #16490710 sell 0.01 XAUUSD at 1417.84 was modified -> sl: 1422.97 tp: 0.00
+0	12:25:56.760	'1600028698': modify order #16490710 sell 0.01 XAUUSD at 1417.84 sl: 1422.97 tp: 0.00 -> sl: 1422.97 tp: 1384.02
+0	12:25:57.108	'1600028698': order #16490710 sell 0.01 XAUUSD at 1417.84 was modified -> sl: 1422.97 tp: 1384.02
+0	12:26:00.953	MetaTrader build 1170 stopped
+0	14:09:00.051	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:09:00.052	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9432 / 16250 Mb, Disk: 762 / 919 Gb, GMT-5
+0	14:09:00.052	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	14:09:04.531	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 121.86 ms)
+0	14:09:07.216	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 121.86 ms)
+0	14:09:07.609	'1600028698': previous successful authorization performed from 52.33.140.179
+0	14:09:36.515	'1600028698': ping to current access point NY4 DC 1 is 125.64 ms
+0	14:10:00.297	MetaTrader build 1170 stopped
+0	14:20:14.893	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	14:20:14.897	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 9543 / 16250 Mb, Disk: 762 / 919 Gb, GMT-5
+0	14:20:14.897	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	14:20:19.041	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 125.64 ms)
+0	14:20:21.334	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 125.64 ms)
+0	14:20:21.832	'1600028698': previous successful authorization performed from 190.234.120.242
+0	14:22:17.705	'1600028698': order buy market 0.02 USDJPY sl: 0.000 tp: 0.000
+0	14:22:17.978	'1600028698': order was opened : #16517051 buy 0.02 USDJPY at 107.413 sl: 0.000 tp: 0.000
+0	14:22:21.241	'1600028698': modify order #16517051 buy 0.02 USDJPY at 107.413 sl: 0.000 tp: 0.000 -> sl: 107.217 tp: 0.000
+0	14:22:21.566	'1600028698': order #16517051 buy 0.02 USDJPY at 107.413 was modified -> sl: 107.217 tp: 0.000
+0	14:22:32.040	'1600028698': modify order #16517051 buy 0.02 USDJPY at 107.413 sl: 107.217 tp: 0.000 -> sl: 107.178 tp: 0.000
+0	14:22:32.225	'1600028698': order #16517051 buy 0.02 USDJPY at 107.413 was modified -> sl: 107.178 tp: 0.000
+0	14:23:03.321	'1600028698': modify order #16517051 buy 0.02 USDJPY at 107.413 sl: 107.178 tp: 0.000 -> sl: 107.178 tp: 108.807
+0	14:23:03.498	'1600028698': order #16517051 buy 0.02 USDJPY at 107.413 was modified -> sl: 107.178 tp: 108.807
+0	14:23:39.000	'1600028698': order buy market 0.02 USDCHF sl: 0.00000 tp: 0.00000
+0	14:23:39.229	'1600028698': order was opened : #16517155 buy 0.02 USDCHF at 0.99025 sl: 0.00000 tp: 0.00000
+0	14:23:41.592	'1600028698': modify order #16517155 buy 0.02 USDCHF at 0.99025 sl: 0.00000 tp: 0.00000 -> sl: 0.98787 tp: 0.00000
+0	14:23:41.774	'1600028698': order #16517155 buy 0.02 USDCHF at 0.99025 was modified -> sl: 0.98787 tp: 0.00000
+0	14:24:03.600	'1600028698': modify order #16517155 buy 0.02 USDCHF at 0.99025 sl: 0.98787 tp: 0.00000 -> sl: 0.98787 tp: 1.00162
+0	14:24:05.603	'1600028698': order #16517155 buy 0.02 USDCHF at 0.99025 was modified -> sl: 0.98787 tp: 1.00162
+0	14:24:17.328	'1600028698': modify order #16517051 buy 0.02 USDJPY at 107.413 sl: 107.178 tp: 108.807 -> sl: 107.178 tp: 108.480
+0	14:24:17.556	'1600028698': order #16517051 buy 0.02 USDJPY at 107.413 was modified -> sl: 107.178 tp: 108.480
+0	14:25:08.832	MetaTrader build 1170 stopped
+0	15:18:23.997	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	15:18:23.997	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11578 / 16250 Mb, Disk: 762 / 919 Gb, GMT-5
+0	15:18:23.997	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	15:18:26.999	'1600028698': login on ICMarkets-Live16 through NY4 DC 1 (ping: 125.64 ms)
+0	15:18:29.138	'1600028698': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 125.64 ms)
+0	15:18:29.617	'1600028698': previous successful authorization performed from 190.234.120.242
+0	15:18:58.188	'1600028698': ping to current access point NY4 DC 1 is 122.79 ms
+0	15:19:40.785	MetaTrader build 1170 stopped

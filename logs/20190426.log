@@ -1,0 +1,129 @@
+0	00:17:00.584	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	00:17:00.586	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4511 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	00:17:00.586	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	00:17:07.162	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 132.05 ms)
+0	00:17:09.933	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 132.05 ms)
+0	00:17:10.662	'1600030859': previous successful authorization performed from 190.236.11.69
+0	00:17:58.728	'1600030859': ping to current access point NY4 DC 1 is 133.95 ms
+0	00:18:41.234	MetaTrader build 1170 stopped
+0	01:00:51.350	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	01:00:51.350	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4166 / 8058 Mb, Disk: 750 / 919 Gb, GMT-5
+0	01:00:51.350	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	01:00:54.934	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 133.95 ms)
+0	01:00:57.189	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 133.95 ms)
+0	01:00:57.854	'1600030859': previous successful authorization performed from 190.236.11.69
+2	01:02:41.396	Custom indicator b-clock_modified EURUSD,M15: loaded successfully
+2	01:02:41.416	Custom indicator 1x5 warning system EURUSD,M15: loaded successfully
+2	01:02:41.441	Custom indicator ###Daily-Weekly-Monthly Hi-Low EURUSD,M15: loaded successfully
+2	01:02:41.516	Custom indicator Wave Entry Alerts EURUSD,M15: loaded successfully
+2	01:02:41.523	Custom indicator RSI EURUSD,M15: loaded successfully
+2	01:02:41.537	Custom indicator RSI EURUSD,M15: loaded successfully
+2	01:02:41.554	Custom indicator ASI EURUSD,M15: loaded successfully
+2	01:02:41.629	Custom indicator Stochastics Divergence EURUSD,M15: loaded successfully
+2	01:02:41.694	Custom indicator valuecharts_v2_102 EURUSD,M15: loaded successfully
+2	01:02:41.761	Custom indicator price_roc EURUSD,M15: loaded successfully
+2	01:04:17.350	Custom indicator b-clock_modified GBPUSD,Daily: loaded successfully
+2	01:04:17.364	Custom indicator 1x5 warning system GBPUSD,Daily: loaded successfully
+2	01:04:17.372	Custom indicator ###Daily-Weekly-Monthly Hi-Low GBPUSD,Daily: loaded successfully
+2	01:04:17.438	Custom indicator Wave Entry Alerts GBPUSD,Daily: loaded successfully
+2	01:04:17.451	Custom indicator RSI GBPUSD,Daily: loaded successfully
+2	01:04:17.467	Custom indicator RSI GBPUSD,Daily: loaded successfully
+2	01:04:17.478	Custom indicator ASI GBPUSD,Daily: loaded successfully
+2	01:04:17.544	Custom indicator Stochastics Divergence GBPUSD,Daily: loaded successfully
+2	01:04:17.610	Custom indicator valuecharts_v2_102 GBPUSD,Daily: loaded successfully
+2	01:04:17.672	Custom indicator price_roc GBPUSD,Daily: loaded successfully
+2	01:05:04.675	Custom indicator b-clock_modified USDCHF,M1: loaded successfully
+2	01:05:04.689	Custom indicator 1x5 warning system USDCHF,M1: loaded successfully
+2	01:05:04.704	Custom indicator ###Daily-Weekly-Monthly Hi-Low USDCHF,M1: loaded successfully
+2	01:05:04.779	Custom indicator Wave Entry Alerts USDCHF,M1: loaded successfully
+2	01:05:04.790	Custom indicator RSI USDCHF,M1: loaded successfully
+2	01:05:04.802	Custom indicator RSI USDCHF,M1: loaded successfully
+2	01:05:04.815	Custom indicator ASI USDCHF,M1: loaded successfully
+2	01:05:04.892	Custom indicator Stochastics Divergence USDCHF,M1: loaded successfully
+2	01:05:04.970	Custom indicator valuecharts_v2_102 USDCHF,M1: loaded successfully
+2	01:05:05.042	Custom indicator price_roc USDCHF,M1: loaded successfully
+2	01:06:30.158	Custom indicator b-clock_modified GBPCAD,H1: loaded successfully
+2	01:06:30.171	Custom indicator 1x5 warning system GBPCAD,H1: loaded successfully
+2	01:06:30.183	Custom indicator ###Daily-Weekly-Monthly Hi-Low GBPCAD,H1: loaded successfully
+2	01:06:30.277	Custom indicator Wave Entry Alerts GBPCAD,H1: loaded successfully
+2	01:06:30.296	Custom indicator RSI GBPCAD,H1: loaded successfully
+2	01:06:30.310	Custom indicator RSI GBPCAD,H1: loaded successfully
+2	01:06:30.323	Custom indicator ASI GBPCAD,H1: loaded successfully
+2	01:06:30.394	Custom indicator Stochastics Divergence GBPCAD,H1: loaded successfully
+2	01:06:30.458	Custom indicator valuecharts_v2_102 GBPCAD,H1: loaded successfully
+2	01:06:30.523	Custom indicator price_roc GBPCAD,H1: loaded successfully
+2	01:13:16.984	Custom indicator b-clock_modified EURUSD,M1: removed
+2	01:13:16.989	Custom indicator 1x5 warning system EURUSD,M1: removed
+2	01:13:16.992	Custom indicator ###Daily-Weekly-Monthly Hi-Low EURUSD,M1: removed
+2	01:13:16.992	Custom indicator Wave Entry Alerts EURUSD,M1: removed
+2	01:13:16.992	Custom indicator RSI EURUSD,M1: removed
+2	01:13:16.994	Custom indicator RSI EURUSD,M1: removed
+2	01:13:16.996	Custom indicator ASI EURUSD,M1: removed
+2	01:13:16.996	Custom indicator Stochastics Divergence EURUSD,M1: removed
+2	01:13:16.996	Custom indicator valuecharts_v2_102 EURUSD,M1: removed
+2	01:13:16.996	Custom indicator price_roc EURUSD,M1: removed
+2	01:13:25.271	Custom indicator b-clock_modified GBPUSD,M1: removed
+2	01:13:25.271	Custom indicator 1x5 warning system GBPUSD,M1: removed
+2	01:13:25.276	Custom indicator ###Daily-Weekly-Monthly Hi-Low GBPUSD,M1: removed
+2	01:13:25.276	Custom indicator Wave Entry Alerts GBPUSD,M1: removed
+2	01:13:25.278	Custom indicator RSI GBPUSD,M1: removed
+2	01:13:25.279	Custom indicator RSI GBPUSD,M1: removed
+2	01:13:25.279	Custom indicator ASI GBPUSD,M1: removed
+2	01:13:25.279	Custom indicator Stochastics Divergence GBPUSD,M1: removed
+2	01:13:25.279	Custom indicator valuecharts_v2_102 GBPUSD,M1: removed
+2	01:13:25.279	Custom indicator price_roc GBPUSD,M1: removed
+2	01:13:29.818	Custom indicator b-clock_modified USDCHF,M1: removed
+2	01:13:29.819	Custom indicator 1x5 warning system USDCHF,M1: removed
+2	01:13:29.819	Custom indicator ###Daily-Weekly-Monthly Hi-Low USDCHF,M1: removed
+2	01:13:29.819	Custom indicator Wave Entry Alerts USDCHF,M1: removed
+2	01:13:29.830	Custom indicator RSI USDCHF,M1: removed
+2	01:13:29.832	Custom indicator RSI USDCHF,M1: removed
+2	01:13:29.834	Custom indicator ASI USDCHF,M1: removed
+2	01:13:29.834	Custom indicator Stochastics Divergence USDCHF,M1: removed
+2	01:13:29.834	Custom indicator valuecharts_v2_102 USDCHF,M1: removed
+2	01:13:29.834	Custom indicator price_roc USDCHF,M1: removed
+2	01:17:06.919	Custom indicator b-clock_modified GBPCAD,H1: removed
+2	01:17:06.921	Custom indicator 1x5 warning system GBPCAD,H1: removed
+2	01:17:06.921	Custom indicator ###Daily-Weekly-Monthly Hi-Low GBPCAD,H1: removed
+2	01:17:06.925	Custom indicator Wave Entry Alerts GBPCAD,H1: removed
+2	01:17:06.929	Custom indicator RSI GBPCAD,H1: removed
+2	01:17:06.930	Custom indicator RSI GBPCAD,H1: removed
+2	01:17:06.933	Custom indicator ASI GBPCAD,H1: removed
+2	01:17:06.933	Custom indicator Stochastics Divergence GBPCAD,H1: removed
+2	01:17:06.933	Custom indicator valuecharts_v2_102 GBPCAD,H1: removed
+2	01:17:06.933	Custom indicator price_roc GBPCAD,H1: removed
+0	01:27:16.793	'1600030859': close order #7241250 sell 0.01 XAUUSD at 1279.64 sl: 1281.18 tp: 1267.00 at price 0.00
+0	01:27:17.020	'1600030859': order #7241250 sell 0.01 XAUUSD at 1279.64 sl: 1281.18 tp: 1267.00 closed at price 1281.12
+0	02:08:43.891	MetaTrader build 1170 stopped
+0	02:31:32.704	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	02:31:32.708	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4774 / 8058 Mb, Disk: 750 / 919 Gb, GMT-5
+0	02:31:32.708	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	02:31:36.717	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 133.95 ms)
+0	02:31:38.996	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 133.95 ms)
+0	02:31:39.428	'1600030859': previous successful authorization performed from 54.186.17.172
+0	02:31:52.486	'1600030859': ping to current access point NY4 DC 1 is 118.53 ms
+0	02:31:53.959	MetaTrader build 1170 stopped
+0	11:30:41.974	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:30:41.978	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4147 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	11:30:41.978	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	11:30:47.483	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 118.53 ms)
+0	11:30:50.639	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 118.53 ms)
+0	11:30:51.386	'1600030859': previous successful authorization performed from 190.234.106.89
+0	11:31:09.066	'1600030859': modify order #7240905 sell 0.01 EURGBP at 0.86309 sl: 0.86450 tp: 0.85323 -> sl: 0.86308 tp: 0.85323
+0	11:31:09.263	'1600030859': order #7240905 sell 0.01 EURGBP at 0.86309 was modified -> sl: 0.86308 tp: 0.85323
+0	11:31:13.172	'1600030859': modify order #7240905 sell 0.01 EURGBP at 0.86309 sl: 0.86308 tp: 0.85323 -> sl: 0.86310 tp: 0.85323
+0	11:31:13.410	'1600030859': order #7240905 sell 0.01 EURGBP at 0.86309 was modified -> sl: 0.86310 tp: 0.85323
+0	11:31:19.306	'1600030859': modify order #7240905 sell 0.01 EURGBP at 0.86309 sl: 0.86310 tp: 0.85323 -> sl: 0.86308 tp: 0.85323
+0	11:31:19.508	'1600030859': order #7240905 sell 0.01 EURGBP at 0.86309 was modified -> sl: 0.86308 tp: 0.85323
+0	11:31:20.670	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 135.59 ms)
+0	11:31:22.396	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 135.59 ms)
+0	11:31:24.357	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 135.59 ms)
+0	11:31:24.929	'1600030859': previous successful authorization performed from 190.239.87.190
+0	11:32:14.824	MetaTrader build 1170 stopped
+0	11:52:21.404	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:52:21.404	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4179 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	11:52:21.404	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	11:52:24.777	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 135.59 ms)
+0	11:52:27.229	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 135.59 ms)
+0	11:52:27.914	'1600030859': previous successful authorization performed from 190.239.87.190
+0	11:53:32.993	MetaTrader build 1170 stopped

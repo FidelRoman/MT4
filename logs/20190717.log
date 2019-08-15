@@ -1,0 +1,86 @@
+0	19:00:27.127	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	19:00:27.127	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11308 / 16250 Mb, Disk: 713 / 919 Gb, GMT-5
+0	19:00:27.127	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	19:00:33.293	'1600030859': login on ICMarkets-Live16 through ICM-DC-NCUS (ping: 226.57 ms)
+0	19:00:44.410	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-NCUS (ping: 226.57 ms)
+0	19:00:45.622	'1600030859': previous successful authorization performed from 54.213.239.102
+0	19:01:12.881	'1600030859': login on ICMarkets-Live16 through ICM-DC-NCUS (ping: 226.57 ms)
+0	19:01:17.243	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-NCUS (ping: 226.57 ms)
+0	19:01:18.060	'1600030859': previous successful authorization performed from 190.238.105.168
+0	19:01:41.578	'1600030859': auto connecting to a better access point ICM-DC-EUS2 (ping is 197.73 ms)
+0	19:01:43.195	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 197.73 ms)
+0	19:01:46.071	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 197.73 ms)
+0	19:01:46.967	'1600030859': previous successful authorization performed from 190.238.105.168
+2	19:21:40.093	Custom indicator Heiken Ashi XAUUSD,H1: loaded successfully
+2	19:21:41.337	Custom indicator Heiken Ashi XAUUSD,H1: removed
+2	19:27:03.849	Custom indicator Heiken Ashi AUDUSD,H4: loaded successfully
+2	19:27:27.570	Custom indicator Heiken Ashi AUDUSD,Daily: removed
+0	19:27:47.948	'1600030859': order sell market 0.01 AUDUSD sl: 0.00000 tp: 0.00000
+0	19:27:48.248	'1600030859': order was opened : #15495164 sell 0.01 AUDUSD at 0.70067 sl: 0.00000 tp: 0.00000
+0	19:27:56.195	'1600030859': modify order #15495164 sell 0.01 AUDUSD at 0.70067 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.69146
+0	19:27:56.453	'1600030859': order #15495164 sell 0.01 AUDUSD at 0.70067 was modified -> sl: 0.00000 tp: 0.69146
+0	19:27:59.819	'1600030859': modify order #15495164 sell 0.01 AUDUSD at 0.70067 sl: 0.00000 tp: 0.69146 -> sl: 0.70483 tp: 0.69146
+0	19:28:00.141	'1600030859': order #15495164 sell 0.01 AUDUSD at 0.70067 was modified -> sl: 0.70483 tp: 0.69146
+1	19:31:28.457	'1600030859': ping failed
+0	19:31:29.755	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 197.73 ms)
+0	19:31:33.106	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 197.73 ms)
+0	19:31:33.877	'1600030859': previous successful authorization performed from 54.213.239.102
+2	19:34:04.739	Custom indicator Heiken Ashi US500,Weekly: loaded successfully
+2	19:34:16.273	Custom indicator Heiken Ashi US500,H4: removed
+0	19:37:55.283	'1600030859': modify order #15495164 sell 0.01 AUDUSD at 0.70067 sl: 0.70483 tp: 0.69146 -> sl: 0.70483 tp: 0.69117
+0	19:37:55.622	'1600030859': order #15495164 sell 0.01 AUDUSD at 0.70067 was modified -> sl: 0.70483 tp: 0.69117
+0	19:41:08.640	'1600030859': pending order buy limit 1.00 US500 at 2917.94 sl: 0.00 tp: 0.00
+0	19:41:08.941	'1600030859': order was opened : #15495621 buy limit 1.00 US500 at 2917.94 sl: 0.00 tp: 0.00
+0	19:41:22.543	'1600030859': modify pending order #15495621 buy limit 1.00 US500 at 2917.94 sl: 0.00 tp: 0.00 -> price: 2917.94 sl: 100.00 tp: 0.00
+0	19:41:22.812	'1600030859': pending order #15495621 buy limit 1.00 US500 was modified -> price: 2917.94 sl: 100.00 tp: 0.00
+0	19:41:36.599	'1600030859': modify pending order #15495621 buy limit 1.00 US500 at 2917.94 sl: 100.00 tp: 0.00 -> price: 2917.94 sl: 2900.00 tp: 0.00
+0	19:41:36.911	'1600030859': pending order #15495621 buy limit 1.00 US500 was modified -> price: 2917.94 sl: 2900.00 tp: 0.00
+0	19:44:10.235	MetaTrader build 1170 stopped
+0	20:34:58.362	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	20:34:58.362	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 13427 / 16250 Mb, Disk: 713 / 919 Gb, GMT-5
+0	20:34:58.362	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	20:35:31.167	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 197.73 ms)
+0	20:36:22.372	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 197.73 ms)
+0	20:36:26.421	'1600030859': previous successful authorization performed from 190.236.2.226
+0	20:36:54.271	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 121.15 ms)
+0	20:36:56.890	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 121.15 ms)
+0	20:37:01.518	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 121.15 ms)
+0	20:37:01.960	'1600030859': previous successful authorization performed from 190.238.105.168
+0	20:37:10.245	'1600030859': modify order #15501431 buy 0.02 AUDUSD at 0.70241 sl: 0.00000 tp: 0.00000 -> sl: 0.70053 tp: 0.00000
+0	20:37:10.463	'1600030859': order #15501431 buy 0.02 AUDUSD at 0.70241 was modified -> sl: 0.70053 tp: 0.00000
+0	20:40:26.869	'1600030859': modify order #15501431 buy 0.02 AUDUSD at 0.70241 sl: 0.70053 tp: 0.00000 -> sl: 0.70053 tp: 0.70438
+0	20:40:27.113	'1600030859': order #15501431 buy 0.02 AUDUSD at 0.70241 was modified -> sl: 0.70053 tp: 0.70438
+0	20:40:42.325	'1600030859': modify order #15501431 buy 0.02 AUDUSD at 0.70241 sl: 0.70053 tp: 0.70438 -> sl: 0.70053 tp: 0.70478
+0	20:40:42.555	'1600030859': order #15501431 buy 0.02 AUDUSD at 0.70241 was modified -> sl: 0.70053 tp: 0.70478
+0	20:40:46.539	'1600030859': modify order #15501431 buy 0.02 AUDUSD at 0.70241 sl: 0.70053 tp: 0.70478 -> sl: 0.70053 tp: 0.70685
+0	20:40:46.755	'1600030859': order #15501431 buy 0.02 AUDUSD at 0.70241 was modified -> sl: 0.70053 tp: 0.70685
+0	20:41:33.605	'1600030859': close order #15501431 buy 0.02 AUDUSD at 0.70241 sl: 0.70053 tp: 0.70685 at price 0.00000
+0	20:41:33.868	'1600030859': order #15501431 buy 0.02 AUDUSD at 0.70241 sl: 0.70053 tp: 0.70685 closed at price 0.70197
+0	20:42:13.381	'1600030859': order sell market 0.01 EURGBP sl: 0.00000 tp: 0.00000
+0	20:42:13.645	'1600030859': order was opened : #15502548 sell 0.01 EURGBP at 0.90347 sl: 0.00000 tp: 0.00000
+0	20:42:15.921	'1600030859': modify order #15502548 sell 0.01 EURGBP at 0.90347 sl: 0.00000 tp: 0.00000 -> sl: 0.90521 tp: 0.00000
+0	20:42:16.194	'1600030859': order #15502548 sell 0.01 EURGBP at 0.90347 was modified -> sl: 0.90521 tp: 0.00000
+0	20:42:21.788	'1600030859': order sell market 0.01 EURGBP sl: 0.00000 tp: 0.00000
+0	20:42:22.089	'1600030859': order was opened : #15502554 sell 0.01 EURGBP at 0.90347 sl: 0.00000 tp: 0.00000
+0	20:42:25.886	'1600030859': modify order #15502548 sell 0.01 EURGBP at 0.90347 sl: 0.90521 tp: 0.00000 -> sl: 0.90527 tp: 0.00000
+0	20:42:26.070	'1600030859': order #15502548 sell 0.01 EURGBP at 0.90347 was modified -> sl: 0.90527 tp: 0.00000
+0	20:42:39.947	'1600030859': modify order #15502554 sell 0.01 EURGBP at 0.90347 sl: 0.00000 tp: 0.00000 -> sl: 0.90527 tp: 0.00000
+0	20:42:40.159	'1600030859': order #15502554 sell 0.01 EURGBP at 0.90347 was modified -> sl: 0.90527 tp: 0.00000
+0	20:48:18.971	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 121.15 ms)
+0	20:48:21.257	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 121.15 ms)
+0	20:48:21.814	'1600030859': previous successful authorization performed from 190.238.105.168
+0	20:49:20.212	'1600030859': modify order #15502548 sell 0.01 EURGBP at 0.90347 sl: 0.90527 tp: 0.00000 -> sl: 0.90527 tp: 0.88725
+0	20:49:20.463	'1600030859': order #15502548 sell 0.01 EURGBP at 0.90347 was modified -> sl: 0.90527 tp: 0.88725
+0	20:49:38.897	'1600030859': order sell market 0.01 USDCHF sl: 0.00000 tp: 0.00000
+0	20:49:42.554	'1600030859': order was opened : #15502970 sell 0.01 USDCHF at 0.98544 sl: 0.00000 tp: 0.00000
+0	20:49:54.137	'1600030859': modify order #15502970 sell 0.01 USDCHF at 0.98544 sl: 0.00000 tp: 0.00000 -> sl: 0.98927 tp: 0.00000
+0	20:49:54.460	'1600030859': order #15502970 sell 0.01 USDCHF at 0.98544 was modified -> sl: 0.98927 tp: 0.00000
+0	20:50:01.665	'1600030859': modify order #15502970 sell 0.01 USDCHF at 0.98544 sl: 0.98927 tp: 0.00000 -> sl: 0.98927 tp: 0.96984
+0	20:50:02.026	'1600030859': order #15502970 sell 0.01 USDCHF at 0.98544 was modified -> sl: 0.98927 tp: 0.96984
+1	20:50:06.103	'1600030859': datacenter connecting failed [6]
+0	20:50:06.859	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 121.20 ms)
+0	20:50:08.488	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 121.20 ms)
+0	20:50:08.909	'1600030859': previous successful authorization performed from 190.236.2.226
+0	20:50:13.188	'1600030859': modify order #15502970 sell 0.01 USDCHF at 0.98544 sl: 0.98927 tp: 0.96984 -> sl: 0.98927 tp: 0.97201
+0	20:50:13.508	'1600030859': order #15502970 sell 0.01 USDCHF at 0.98544 was modified -> sl: 0.98927 tp: 0.97201
+0	20:50:27.954	MetaTrader build 1170 stopped

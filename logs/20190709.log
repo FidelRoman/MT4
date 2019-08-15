@@ -1,0 +1,26 @@
+0	22:57:04.204	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:57:04.204	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11217 / 16250 Mb, Disk: 718 / 919 Gb, GMT-5
+0	22:57:04.204	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:57:09.668	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 127.21 ms)
+0	22:57:43.291	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 127.21 ms)
+0	22:57:45.378	'1600030859': previous successful authorization performed from 190.119.190.108
+0	22:58:24.086	'1600030859': auto connecting to a better access point ICM-DC-NCUS (ping is 226.57 ms)
+1	22:58:24.562	MQL5.community: authorization failed
+0	22:58:25.353	MetaTrader build 1170 stopped
+0	23:30:19.226	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	23:30:19.226	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11543 / 16250 Mb, Disk: 717 / 919 Gb, GMT-5
+0	23:30:19.226	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	23:30:26.794	'1600030859': login on ICMarkets-Live16 through ICM-DC-NCUS (ping: 226.57 ms)
+0	23:30:31.114	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-NCUS (ping: 226.57 ms)
+0	23:30:31.795	'1600030859': previous successful authorization performed from 181.66.102.97
+0	23:31:01.894	'1600030859': modify order #14908434 sell 0.02 EURGBP at 0.89930 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.89547
+0	23:31:02.249	'1600030859': order #14908434 sell 0.02 EURGBP at 0.89930 was modified -> sl: 0.00000 tp: 0.89547
+0	23:31:16.119	'1600030859': modify order #14908434 sell 0.02 EURGBP at 0.89930 sl: 0.00000 tp: 0.89547 -> sl: 0.00000 tp: 0.85057
+0	23:31:16.435	'1600030859': order #14908434 sell 0.02 EURGBP at 0.89930 was modified -> sl: 0.00000 tp: 0.85057
+0	23:31:30.055	'1600030859': close order #14891542 sell 0.01 EURGBP at 0.89942 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	23:31:31.189	'1600030859': order #14891542 sell 0.01 EURGBP at 0.89942 sl: 0.00000 tp: 0.00000 closed at price 0.90013
+0	23:31:44.277	'1600030859': modify order #14908434 sell 0.02 EURGBP at 0.89930 sl: 0.00000 tp: 0.85057 -> sl: 0.91165 tp: 0.85057
+0	23:31:44.626	'1600030859': order #14908434 sell 0.02 EURGBP at 0.89930 was modified -> sl: 0.91165 tp: 0.85057
+0	23:31:46.546	'1600030859': modify order #14908434 sell 0.02 EURGBP at 0.89930 sl: 0.91165 tp: 0.85057 -> sl: 0.91340 tp: 0.85057
+0	23:31:46.846	'1600030859': order #14908434 sell 0.02 EURGBP at 0.89930 was modified -> sl: 0.91340 tp: 0.85057
+0	23:31:55.680	MetaTrader build 1170 stopped

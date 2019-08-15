@@ -12,3 +12,30 @@
 0	21:40:58.779	MetaTrader build 1170 started (Pepperstone Group Limited)
 0	21:40:58.780	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3101 / 8058 Mb, Disk: 794 / 919 Gb, GMT-5
 0	21:40:58.780	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	21:41:01.310	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 147.80 ms)
+0	21:41:02.865	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 147.80 ms)
+0	21:41:03.363	'1061950': previous successful authorization performed from 190.239.65.245
+0	21:41:33.665	MetaTrader build 1170 stopped
+0	21:43:26.293	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	21:43:26.294	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3072 / 8058 Mb, Disk: 794 / 919 Gb, GMT-5
+0	21:43:26.294	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	21:43:29.658	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 147.80 ms)
+0	21:43:31.557	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 147.80 ms)
+0	21:43:32.005	'1061950': previous successful authorization performed from 190.239.65.245
+0	21:52:05.668	'1061950': modify order #137677003 sell 0.01 XAUUSD at 1288.73 sl: 0.00 tp: 0.00 -> sl: 1289.37 tp: 1282.36
+0	21:52:05.913	'1061950': order #137677003 sell 0.01 XAUUSD at 1288.73 was modified -> sl: 1289.37 tp: 1282.36
+0	21:52:12.738	'1061950': modify order #137677003 sell 0.01 XAUUSD at 1288.73 sl: 1289.37 tp: 1282.36 -> sl: 1289.37 tp: 1282.39
+0	21:52:12.992	'1061950': order #137677003 sell 0.01 XAUUSD at 1288.73 was modified -> sl: 1289.37 tp: 1282.39
+0	21:52:18.765	'1061950': modify order #137677003 sell 0.01 XAUUSD at 1288.73 sl: 1289.37 tp: 1282.39 -> sl: 1290.12 tp: 1282.39
+0	21:52:19.029	'1061950': order #137677003 sell 0.01 XAUUSD at 1288.73 was modified -> sl: 1290.12 tp: 1282.39
+0	21:52:42.111	'1061950': modify order #137677003 sell 0.01 XAUUSD at 1288.73 sl: 1290.12 tp: 1282.39 -> sl: 1290.12 tp: 1275.73
+0	21:52:42.372	'1061950': order #137677003 sell 0.01 XAUUSD at 1288.73 was modified -> sl: 1290.12 tp: 1275.73
+0	21:53:00.829	MetaTrader build 1170 stopped
+0	23:13:27.874	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	23:13:27.874	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 5115 / 8058 Mb, Disk: 794 / 919 Gb, GMT-5
+0	23:13:27.874	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	23:13:32.550	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 147.80 ms)
+0	23:13:34.150	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 147.80 ms)
+0	23:13:34.570	'1061950': previous successful authorization performed from 190.239.65.245
+0	23:13:36.619	'1061950': ping to current access point NY DC2 is 136.51 ms
+0	23:13:45.258	MetaTrader build 1170 stopped

@@ -1,0 +1,150 @@
+0	00:34:28.879	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	00:34:28.882	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3944 / 8058 Mb, Disk: 750 / 919 Gb, GMT-5
+0	00:34:28.882	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	00:34:33.494	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 119.82 ms)
+0	00:34:37.044	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 119.82 ms)
+0	00:34:37.586	'1600030859': previous successful authorization performed from 34.209.238.199
+0	00:35:05.632	'1600030859': ping to current access point NY4 DC 1 is 118.62 ms
+0	00:49:00.139	MetaTrader build 1170 stopped
+0	02:40:37.215	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	02:40:37.216	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4199 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	02:40:37.216	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	02:40:40.387	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 118.62 ms)
+0	02:40:42.318	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 118.62 ms)
+0	02:40:42.793	'1600030859': previous successful authorization performed from 190.236.1.34
+0	02:41:17.149	'1600030859': ping to current access point NY4 DC 1 is 120.53 ms
+0	02:41:59.516	'1600030859': pending order buy limit 0.01 EURUSD at 1.11413 sl: 0.00000 tp: 0.00000
+0	02:41:59.724	'1600030859': order was opened : #7068655 buy limit 0.01 EURUSD at 1.11413 sl: 0.00000 tp: 0.00000
+0	02:42:20.794	'1600030859': modify pending order #7068655 buy limit 0.01 EURUSD at 1.11413 sl: 0.00000 tp: 0.00000 -> price: 1.11413 sl: 1.11213 tp: 0.00000
+0	02:42:20.999	'1600030859': pending order #7068655 buy limit 0.01 EURUSD was modified -> price: 1.11413 sl: 1.11213 tp: 0.00000
+0	02:51:50.641	'1600030859': order buy market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	02:51:50.887	'1600030859': order was opened : #7070296 buy 0.01 EURUSD at 1.11503 sl: 0.00000 tp: 0.00000
+0	02:51:56.687	'1600030859': modify order #7070296 buy 0.01 EURUSD at 1.11503 sl: 0.00000 tp: 0.00000 -> sl: 1.11397 tp: 0.00000
+0	02:51:56.888	'1600030859': order #7070296 buy 0.01 EURUSD at 1.11503 was modified -> sl: 1.11397 tp: 0.00000
+0	02:52:01.392	'1600030859': modify order #7070296 buy 0.01 EURUSD at 1.11503 sl: 1.11397 tp: 0.00000 -> sl: 1.11384 tp: 0.00000
+0	02:52:01.609	'1600030859': order #7070296 buy 0.01 EURUSD at 1.11503 was modified -> sl: 1.11384 tp: 0.00000
+0	02:52:18.417	'1600030859': delete pending order #7068655 buy limit 0.01 EURUSD at 1.11413 sl: 1.11213 tp: 0.00000
+0	02:52:18.614	'1600030859': pending order #7068655 was deleted
+0	02:52:45.631	'1600030859': modify order #7070296 buy 0.01 EURUSD at 1.11503 sl: 1.11384 tp: 0.00000 -> sl: 1.11384 tp: 1.11621
+0	02:52:45.845	'1600030859': order #7070296 buy 0.01 EURUSD at 1.11503 was modified -> sl: 1.11384 tp: 1.11621
+0	02:52:52.862	'1600030859': modify order #7018877 buy 0.01 EURUSD at 1.11560 sl: 1.11385 tp: 0.00000 -> sl: 1.11385 tp: 1.11994
+0	02:52:53.114	'1600030859': order #7018877 buy 0.01 EURUSD at 1.11560 was modified -> sl: 1.11385 tp: 1.11994
+0	02:53:08.711	'1600030859': modify order #7018877 buy 0.01 EURUSD at 1.11560 sl: 1.11385 tp: 1.11994 -> sl: 1.11385 tp: 1.12925
+0	02:53:08.918	'1600030859': order #7018877 buy 0.01 EURUSD at 1.11560 was modified -> sl: 1.11385 tp: 1.12925
+0	02:53:20.191	'1600030859': modify order #7070296 buy 0.01 EURUSD at 1.11503 sl: 1.11384 tp: 1.11621 -> sl: 1.11384 tp: 1.12621
+0	02:53:20.398	'1600030859': order #7070296 buy 0.01 EURUSD at 1.11503 was modified -> sl: 1.11384 tp: 1.12621
+0	03:06:26.080	'20542967': login on ICMarketsEU-Demo02
+0	03:06:29.426	'20542967': previous successful authorization performed from 190.216.168.98
+0	03:07:15.836	'20542967': ping to current access point Demo DC #1 is 140.74 ms
+2	03:07:21.084	Custom indicator Heiken Ashi US500,H1: loaded successfully
+2	03:07:22.626	Custom indicator Heiken Ashi US500,H1: removed
+0	03:07:45.148	'20542967': one click trading has been enabled
+0	03:08:44.774	'20542967': order buy market 1.00 US500 sl: 0.00 tp: 0.00
+0	03:09:01.439	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 120.53 ms)
+0	03:09:03.522	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 120.53 ms)
+0	03:09:03.941	'1600030859': previous successful authorization performed from 34.209.238.199
+0	03:10:42.342	'20542967': login on ICMarkets-Demo02 through Demo DC #1 (ping: 140.74 ms)
+0	03:10:45.115	'20542967': login datacenter on ICMarkets-Demo02 through Demo DC #1 (ping: 140.74 ms)
+0	03:10:47.591	'20542967': previous successful authorization performed from 190.236.8.95
+0	03:10:56.831	'20542967': modify order #181056512 buy 1.00 US500 at 2927.70 sl: 0.00 tp: 0.00 -> sl: 2924.31 tp: 0.00
+0	03:10:57.040	'20542967': order #181056512 buy 1.00 US500 at 2927.70 was modified -> sl: 2924.31 tp: 0.00
+0	03:11:05.022	'20542967': modify order #181056512 buy 1.00 US500 at 2927.70 sl: 2924.31 tp: 0.00 -> sl: 2924.31 tp: 2936.41
+0	03:11:05.214	'20542967': order #181056512 buy 1.00 US500 at 2927.70 was modified -> sl: 2924.31 tp: 2936.41
+0	03:11:09.622	'20542967': modify order #181056512 buy 1.00 US500 at 2927.70 sl: 2924.31 tp: 2936.41 -> sl: 2924.31 tp: 2936.55
+0	03:11:09.807	'20542967': order #181056512 buy 1.00 US500 at 2927.70 was modified -> sl: 2924.31 tp: 2936.55
+0	03:12:19.094	'20542967': modify order #181056512 buy 1.00 US500 at 2927.70 sl: 2924.31 tp: 2936.55 -> sl: 2924.31 tp: 2936.89
+0	03:12:19.283	'20542967': order #181056512 buy 1.00 US500 at 2927.70 was modified -> sl: 2924.31 tp: 2936.89
+0	03:13:25.070	'20542967': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	03:13:25.276	'20542967': order was opened : #181057537 sell 0.01 XAUUSD at 1277.68 sl: 0.00 tp: 0.00
+0	03:13:28.158	'20542967': modify order #181057537 sell 0.01 XAUUSD at 1277.68 sl: 0.00 tp: 0.00 -> sl: 1280.27 tp: 0.00
+0	03:13:28.363	'20542967': order #181057537 sell 0.01 XAUUSD at 1277.68 was modified -> sl: 1280.27 tp: 0.00
+0	03:13:35.167	'20542967': order buy market 1.00 DXY_H9 sl: 0.000 tp: 0.000
+1	03:13:35.361	'20542967': order buy 1.00 DXY_H9 opening at market sl: 0.000 tp: 0.000 failed [Trade is disabled]
+0	03:14:14.414	'20542967': order buy market 0.01 AUDUSD sl: 0.00000 tp: 0.00000
+0	03:14:14.601	'20542967': order was opened : #181057700 buy 0.01 AUDUSD at 0.70096 sl: 0.00000 tp: 0.00000
+0	03:14:17.358	'20542967': modify order #181057700 buy 0.01 AUDUSD at 0.70096 sl: 0.00000 tp: 0.00000 -> sl: 0.69766 tp: 0.00000
+0	03:14:17.565	'20542967': order #181057700 buy 0.01 AUDUSD at 0.70096 was modified -> sl: 0.69766 tp: 0.00000
+0	03:15:05.811	'20542967': pending order buy limit 0.01 USDCHF at 1.01702 sl: 0.00000 tp: 0.00000
+0	03:15:06.009	'20542967': order was opened : #181058055 buy limit 0.01 USDCHF at 1.01702 sl: 0.00000 tp: 0.00000
+0	03:15:09.420	'20542967': modify pending order #181058055 buy limit 0.01 USDCHF at 1.01702 sl: 0.00000 tp: 0.00000 -> price: 1.01698 sl: 0.00000 tp: 0.00000
+0	03:15:10.518	'20542967': pending order #181058055 buy limit 0.01 USDCHF was modified -> price: 1.01698 sl: 0.00000 tp: 0.00000
+0	03:15:11.689	'20542967': delete pending order #181058055 buy limit 0.01 USDCHF at 1.01698 sl: 0.00000 tp: 0.00000
+0	03:15:11.883	'20542967': pending order #181058055 was deleted
+0	03:15:21.250	'20542967': pending order buy limit 0.01 USDCHF at 1.01705 sl: 0.00000 tp: 0.00000
+0	03:15:21.466	'20542967': order was opened : #181058116 buy limit 0.01 USDCHF at 1.01705 sl: 0.00000 tp: 0.00000
+0	03:15:31.058	'20542967': delete pending order #181058116 buy limit 0.01 USDCHF at 1.01705 sl: 0.00000 tp: 0.00000
+0	03:15:31.243	'20542967': pending order #181058116 was deleted
+0	03:20:35.167	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 120.53 ms)
+0	03:20:37.184	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 120.53 ms)
+0	03:20:37.662	'1600030859': previous successful authorization performed from 190.236.8.95
+0	03:21:17.814	'1600030859': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	03:21:18.027	'1600030859': order was opened : #7077729 sell 0.01 XAUUSD at 1277.11 sl: 0.00 tp: 0.00
+0	03:21:25.102	'1600030859': modify order #7077729 sell 0.01 XAUUSD at 1277.11 sl: 0.00 tp: 0.00 -> sl: 1280.39 tp: 0.00
+0	03:21:25.276	'1600030859': order #7077729 sell 0.01 XAUUSD at 1277.11 was modified -> sl: 1280.39 tp: 0.00
+0	03:21:34.316	'1600030859': order #7018877 buy 0.01 EURUSD at 1.11560 closed due stop-loss at price 1.11375
+0	03:21:34.326	'1600030859': order #7070296 buy 0.01 EURUSD at 1.11503 closed due stop-loss at price 1.11375
+0	03:21:43.302	'1600030859': modify order #7077729 sell 0.01 XAUUSD at 1277.11 sl: 1280.39 tp: 0.00 -> sl: 1280.39 tp: 1266.48
+0	03:21:43.479	'1600030859': order #7077729 sell 0.01 XAUUSD at 1277.11 was modified -> sl: 1280.39 tp: 1266.48
+0	03:23:27.354	'1600030859': modify order #7077729 sell 0.01 XAUUSD at 1277.11 sl: 1280.39 tp: 1266.48 -> sl: 1280.39 tp: 1244.00
+0	03:23:27.546	'1600030859': order #7077729 sell 0.01 XAUUSD at 1277.11 was modified -> sl: 1280.39 tp: 1244.00
+0	03:23:34.141	'1600030859': modify order #7077729 sell 0.01 XAUUSD at 1277.11 sl: 1280.39 tp: 1244.00 -> sl: 1280.39 tp: 1184.25
+0	03:23:34.315	'1600030859': order #7077729 sell 0.01 XAUUSD at 1277.11 was modified -> sl: 1280.39 tp: 1184.25
+0	03:23:38.990	'1600030859': modify order #7077729 sell 0.01 XAUUSD at 1277.11 sl: 1280.39 tp: 1184.25 -> sl: 1280.39 tp: 1186.33
+0	03:23:39.195	'1600030859': order #7077729 sell 0.01 XAUUSD at 1277.11 was modified -> sl: 1280.39 tp: 1186.33
+0	03:23:56.257	MetaTrader build 1170 stopped
+0	11:47:06.190	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	11:47:06.190	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4301 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	11:47:06.190	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	11:47:12.020	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 120.53 ms)
+0	11:47:14.061	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 120.53 ms)
+0	11:47:14.505	'1600030859': previous successful authorization performed from 190.236.1.34
+0	11:47:47.683	'1600030859': ping to current access point NY4 DC 1 is 127.51 ms
+0	11:48:56.020	'1600030859': order sell market 0.01 USDJPY sl: 0.000 tp: 0.000
+0	11:48:56.444	'1600030859': order was opened : #7193043 sell 0.01 USDJPY at 111.579 sl: 0.000 tp: 0.000
+0	11:49:02.068	'1600030859': modify order #7193043 sell 0.01 USDJPY at 111.579 sl: 0.000 tp: 0.000 -> sl: 111.788 tp: 0.000
+0	11:49:02.252	'1600030859': order #7193043 sell 0.01 USDJPY at 111.579 was modified -> sl: 111.788 tp: 0.000
+0	11:49:19.347	'1600030859': order buy market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	11:49:19.574	'1600030859': order was opened : #7193069 buy 0.01 XAUUSD at 1277.63 sl: 0.00 tp: 0.00
+0	11:49:26.452	'1600030859': modify order #7193069 buy 0.01 XAUUSD at 1277.63 sl: 0.00 tp: 0.00 -> sl: 1270.28 tp: 0.00
+0	11:49:26.648	'1600030859': order #7193069 buy 0.01 XAUUSD at 1277.63 was modified -> sl: 1270.28 tp: 0.00
+0	11:49:30.389	'1600030859': modify order #7193069 buy 0.01 XAUUSD at 1277.63 sl: 1270.28 tp: 0.00 -> sl: 1273.36 tp: 0.00
+0	11:49:30.576	'1600030859': order #7193069 buy 0.01 XAUUSD at 1277.63 was modified -> sl: 1273.36 tp: 0.00
+0	11:49:42.261	'1600030859': modify order #7193069 buy 0.01 XAUUSD at 1277.63 sl: 1273.36 tp: 0.00 -> sl: 1275.41 tp: 0.00
+0	11:49:42.501	'1600030859': order #7193069 buy 0.01 XAUUSD at 1277.63 was modified -> sl: 1275.41 tp: 0.00
+0	11:49:46.037	'1600030859': modify order #7193069 buy 0.01 XAUUSD at 1277.63 sl: 1275.41 tp: 0.00 -> sl: 1275.44 tp: 0.00
+0	11:49:46.230	'1600030859': order #7193069 buy 0.01 XAUUSD at 1277.63 was modified -> sl: 1275.44 tp: 0.00
+0	11:50:33.272	MetaTrader build 1170 stopped
+0	22:43:23.196	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:43:23.196	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3392 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	22:43:23.196	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:43:27.392	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 127.51 ms)
+0	22:43:29.279	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 127.51 ms)
+0	22:43:29.736	'1600030859': previous successful authorization performed from 190.236.11.69
+0	22:44:01.216	'1600030859': ping to current access point NY4 DC 1 is 132.05 ms
+0	22:48:14.433	'1600030859': order sell market 0.01 EURGBP sl: 0.00000 tp: 0.00000
+0	22:48:14.669	'1600030859': order was opened : #7240905 sell 0.01 EURGBP at 0.86309 sl: 0.00000 tp: 0.00000
+0	22:48:19.984	'1600030859': modify order #7240905 sell 0.01 EURGBP at 0.86309 sl: 0.00000 tp: 0.00000 -> sl: 0.86373 tp: 0.00000
+0	22:48:20.176	'1600030859': order #7240905 sell 0.01 EURGBP at 0.86309 was modified -> sl: 0.86373 tp: 0.00000
+0	22:49:57.649	'1600030859': modify order #7240905 sell 0.01 EURGBP at 0.86309 sl: 0.86373 tp: 0.00000 -> sl: 0.86373 tp: 0.85348
+0	22:49:58.297	'1600030859': order #7240905 sell 0.01 EURGBP at 0.86309 was modified -> sl: 0.86373 tp: 0.85348
+0	22:50:01.952	'1600030859': modify order #7240905 sell 0.01 EURGBP at 0.86309 sl: 0.86373 tp: 0.85348 -> sl: 0.86373 tp: 0.85323
+0	22:50:02.134	'1600030859': order #7240905 sell 0.01 EURGBP at 0.86309 was modified -> sl: 0.86373 tp: 0.85323
+0	22:50:15.809	'1600030859': modify order #7240905 sell 0.01 EURGBP at 0.86309 sl: 0.86373 tp: 0.85323 -> sl: 0.86451 tp: 0.85323
+0	22:50:16.011	'1600030859': order #7240905 sell 0.01 EURGBP at 0.86309 was modified -> sl: 0.86451 tp: 0.85323
+0	22:50:20.104	'1600030859': modify order #7240905 sell 0.01 EURGBP at 0.86309 sl: 0.86451 tp: 0.85323 -> sl: 0.86450 tp: 0.85323
+0	22:50:20.288	'1600030859': order #7240905 sell 0.01 EURGBP at 0.86309 was modified -> sl: 0.86450 tp: 0.85323
+0	22:57:06.657	'1600030859': order sell market 0.01 XAUUSD sl: 0.00 tp: 0.00
+0	22:57:06.897	'1600030859': order was opened : #7241250 sell 0.01 XAUUSD at 1279.64 sl: 0.00 tp: 0.00
+0	22:57:13.904	'1600030859': modify order #7241250 sell 0.01 XAUUSD at 1279.64 sl: 0.00 tp: 0.00 -> sl: 1281.18 tp: 0.00
+0	22:57:14.173	'1600030859': order #7241250 sell 0.01 XAUUSD at 1279.64 was modified -> sl: 1281.18 tp: 0.00
+0	22:57:21.401	'1600030859': modify order #7241250 sell 0.01 XAUUSD at 1279.64 sl: 1281.18 tp: 0.00 -> sl: 1281.18 tp: 1269.90
+0	22:57:21.587	'1600030859': order #7241250 sell 0.01 XAUUSD at 1279.64 was modified -> sl: 1281.18 tp: 1269.90
+0	22:57:28.160	'1600030859': modify order #7241250 sell 0.01 XAUUSD at 1279.64 sl: 1281.18 tp: 1269.90 -> sl: 1281.18 tp: 1266.12
+0	22:57:28.350	'1600030859': order #7241250 sell 0.01 XAUUSD at 1279.64 was modified -> sl: 1281.18 tp: 1266.12
+0	22:57:34.928	'1600030859': modify order #7241250 sell 0.01 XAUUSD at 1279.64 sl: 1281.18 tp: 1266.12 -> sl: 1281.18 tp: 1267.00
+0	22:57:35.116	'1600030859': order #7241250 sell 0.01 XAUUSD at 1279.64 was modified -> sl: 1281.18 tp: 1267.00
+0	23:05:17.144	'1600030859': order buy market 0.01 AUDUSD sl: 0.00000 tp: 0.00000
+1	23:05:17.329	'1600030859': order buy 0.01 AUDUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	23:05:19.552	'1600030859': order buy market 0.01 AUDUSD sl: 0.00000 tp: 0.00000
+1	23:05:19.949	'1600030859': order buy 0.01 AUDUSD opening at market sl: 0.00000 tp: 0.00000 failed [Not enough money]
+0	23:05:29.026	MetaTrader build 1170 stopped

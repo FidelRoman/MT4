@@ -1,0 +1,78 @@
+0	06:28:55.897	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	06:28:55.897	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12514 / 16250 Mb, Disk: 712 / 919 Gb, GMT-5
+0	06:28:55.897	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	06:29:01.521	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 124.97 ms)
+0	06:29:03.630	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 124.97 ms)
+0	06:29:04.005	'1600030859': previous successful authorization performed from 54.203.84.215
+0	06:29:30.185	'1600030859': ping to current access point Vir_DC01_AWS is 127.34 ms
+0	06:30:27.137	'1600028698': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 127.34 ms)
+0	06:30:30.146	'1600028698': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 127.34 ms)
+0	06:30:30.582	'1600028698': previous successful authorization performed from 190.216.168.98
+0	06:31:39.412	'1600028698': one click trading has been enabled
+0	06:31:43.005	'1600028698': modify order #15921251 buy 0.02 EURUSD at 1.11454 sl: 1.11008 tp: 1.12776 -> sl: 1.11229 tp: 1.12776
+0	06:31:43.239	'1600028698': order #15921251 buy 0.02 EURUSD at 1.11454 was modified -> sl: 1.11229 tp: 1.12776
+0	06:33:42.389	'1600028698': close order #15921251 buy 0.02 EURUSD at 1.11454 sl: 1.11229 tp: 1.12776 at price 0.00000
+0	06:33:42.685	'1600028698': order #15921251 buy 0.02 EURUSD at 1.11454 sl: 1.11229 tp: 1.12776 closed at price 1.11424
+0	06:42:58.012	'1600028698': pending order sell stop 0.20 EURUSD at 1.11376 sl: 0.00000 tp: 0.00000
+0	06:42:58.221	'1600028698': order was opened : #15984399 sell stop 0.20 EURUSD at 1.11376 sl: 0.00000 tp: 0.00000
+0	06:43:12.015	'1600028698': modify pending order #15984399 sell stop 0.20 EURUSD at 1.11376 sl: 0.00000 tp: 0.00000 -> price: 1.11376 sl: 1.11456 tp: 0.00000
+0	06:43:12.304	'1600028698': pending order #15984399 sell stop 0.20 EURUSD was modified -> price: 1.11376 sl: 1.11456 tp: 0.00000
+0	06:43:26.983	'1600028698': modify pending order #15984399 sell stop 0.20 EURUSD at 1.11376 sl: 1.11456 tp: 0.00000 -> price: 1.11376 sl: 1.11446 tp: 0.00000
+0	06:43:28.032	'1600028698': pending order #15984399 sell stop 0.20 EURUSD was modified -> price: 1.11376 sl: 1.11446 tp: 0.00000
+0	06:43:36.647	'1600028698': delete pending order #15984399 sell stop 0.20 EURUSD at 1.11376 sl: 1.11446 tp: 0.00000
+0	06:43:36.846	'1600028698': pending order #15984399 was deleted
+0	06:44:48.463	'1600028698': order sell market 0.20 EURUSD sl: 0.00000 tp: 0.00000
+0	06:44:48.748	'1600028698': order was opened : #15985235 sell 0.20 EURUSD at 1.11392 sl: 0.00000 tp: 0.00000
+0	06:45:09.647	'1600028698': close order #15985235 sell 0.20 EURUSD at 1.11392 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	06:45:09.968	'1600028698': order #15985235 sell 0.20 EURUSD at 1.11392 sl: 0.00000 tp: 0.00000 closed at price 1.11515
+0	06:45:11.316	'1600028698': order buy market 0.20 EURUSD sl: 0.00000 tp: 0.00000
+0	06:45:11.689	'1600028698': order was opened : #15985575 buy 0.20 EURUSD at 1.11547 sl: 0.00000 tp: 0.00000
+0	06:46:36.305	'1600028698': modify order #15985575 buy 0.20 EURUSD at 1.11547 sl: 0.00000 tp: 0.00000 -> sl: 1.11381 tp: 0.00000
+0	06:46:36.553	'1600028698': order #15985575 buy 0.20 EURUSD at 1.11547 was modified -> sl: 1.11381 tp: 0.00000
+0	06:47:20.001	'1600028698': order #15985575 buy 0.20 EURUSD at 1.11547 closed due stop-loss at price 1.11381
+0	06:47:35.854	'1600028698': order sell market 0.20 EURUSD sl: 0.00000 tp: 0.00000
+0	06:47:36.183	'1600028698': order was opened : #15988012 sell 0.20 EURUSD at 1.11348 sl: 0.00000 tp: 0.00000
+0	06:48:09.284	'1600028698': close order #15988012 sell 0.20 EURUSD at 1.11348 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	06:48:09.636	'1600028698': order #15988012 sell 0.20 EURUSD at 1.11348 sl: 0.00000 tp: 0.00000 closed at price 1.11344
+0	06:49:18.980	'1600028698': order sell market 0.20 EURUSD sl: 0.00000 tp: 0.00000
+0	06:49:19.238	'1600028698': order was opened : #15989505 sell 0.20 EURUSD at 1.11181 sl: 0.00000 tp: 0.00000
+0	06:49:39.552	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 0.00000 tp: 0.00000 -> sl: 1.11356 tp: 0.00000
+0	06:49:39.869	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11356 tp: 0.00000
+1	06:50:27.733	'1600028698': modification of order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11356 tp: 0.00000 -> sl: 1.06243 tp: 0.00000 failed [Invalid S/L or T/P]
+1	06:50:30.245	'1600028698': modification of order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11356 tp: 0.00000 -> sl: 1.07979 tp: 0.00000 failed [Invalid S/L or T/P]
+0	06:50:32.277	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11356 tp: 0.00000 -> sl: 1.11356 tp: 1.09282
+0	06:50:32.510	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11356 tp: 1.09282
+0	06:52:15.388	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11356 tp: 1.09282 -> sl: 1.11356 tp: 1.11057
+0	06:52:15.622	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11356 tp: 1.11057
+0	06:52:16.815	'1600028698': order #15922243 sell 0.02 USDCHF at 0.98497 closed due stop-loss at price 0.98768
+0	06:52:21.133	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11356 tp: 1.11057 -> sl: 1.11356 tp: 1.10757
+0	06:52:21.442	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11356 tp: 1.10757
+0	06:52:25.615	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11356 tp: 1.10757 -> sl: 1.11356 tp: 1.10584
+0	06:52:25.867	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11356 tp: 1.10584
+0	07:03:03.515	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11356 tp: 1.10584 -> sl: 1.11284 tp: 1.10584
+0	07:03:03.725	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11284 tp: 1.10584
+0	07:04:08.733	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11284 tp: 1.10584 -> sl: 1.11284 tp: 1.09806
+0	07:04:08.997	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11284 tp: 1.09806
+0	07:06:28.562	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11284 tp: 1.09806 -> sl: 1.11284 tp: 1.09755
+0	07:06:29.145	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11284 tp: 1.09755
+0	07:11:30.380	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11284 tp: 1.09755 -> sl: 1.11284 tp: 1.11053
+0	07:11:30.707	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11284 tp: 1.11053
+0	07:11:39.123	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11284 tp: 1.11053 -> sl: 1.11163 tp: 1.11053
+0	07:11:39.355	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11163 tp: 1.11053
+0	07:11:45.475	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11163 tp: 1.11053 -> sl: 1.11194 tp: 1.11053
+0	07:11:45.720	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11194 tp: 1.11053
+0	07:11:49.651	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11194 tp: 1.11053 -> sl: 1.11207 tp: 1.11053
+0	07:11:49.864	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11207 tp: 1.11053
+0	07:11:55.719	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11207 tp: 1.11053 -> sl: 1.11207 tp: 1.08341
+0	07:11:55.944	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11207 tp: 1.08341
+0	07:11:59.675	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11207 tp: 1.08341 -> sl: 1.11207 tp: 1.10005
+0	07:11:59.894	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11207 tp: 1.10005
+0	07:13:20.507	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11207 tp: 1.10005 -> sl: 1.11207 tp: 1.10367
+0	07:13:20.729	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11207 tp: 1.10367
+0	07:13:26.646	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11207 tp: 1.10367 -> sl: 1.11207 tp: 1.10584
+0	07:13:26.871	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11207 tp: 1.10584
+0	07:13:30.550	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11207 tp: 1.10584 -> sl: 1.11207 tp: 1.10439
+0	07:13:30.766	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11207 tp: 1.10439
+0	07:13:41.651	'1600028698': modify order #15989505 sell 0.20 EURUSD at 1.11181 sl: 1.11207 tp: 1.10439 -> sl: 1.11207 tp: 1.10005
+0	07:13:41.894	'1600028698': order #15989505 sell 0.20 EURUSD at 1.11181 was modified -> sl: 1.11207 tp: 1.10005
+0	07:17:00.817	MetaTrader build 1170 stopped

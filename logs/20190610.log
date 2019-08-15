@@ -1,0 +1,51 @@
+0	19:44:26.320	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	19:44:26.320	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11307 / 16250 Mb, Disk: 770 / 919 Gb, GMT-5
+0	19:44:26.320	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	19:44:33.281	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 132.03 ms)
+0	19:44:37.334	'1600030859': auto connecting to a better access point SYD_DC01_AWS (ping is n/a)
+1	19:44:39.039	'1600030859': datacenter connecting failed [6]
+1	19:44:39.692	MQL5.community: authorization failed
+0	19:44:46.255	'1600030859': login on ICMarkets-Live16 through SYD_DC01_AWS (ping: n/a)
+0	19:44:52.170	'1600030859': login datacenter on ICMarkets-Live16 through SYD_DC01_AWS (ping: n/a)
+0	19:44:53.570	'1600030859': previous successful authorization performed from 190.238.103.98
+0	19:45:16.973	'1600030859': ping to current access point SYD_DC01_AWS is 624.60 ms
+0	19:45:21.778	'1600030859': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	19:45:22.598	'1600030859': order was opened : #12548717 sell 0.01 EURUSD at 1.13123 sl: 0.00000 tp: 0.00000
+0	19:45:25.666	'1600030859': modify order #12548717 sell 0.01 EURUSD at 1.13123 sl: 0.00000 tp: 0.00000 -> sl: 1.13192 tp: 0.00000
+0	19:45:26.409	'1600030859': order #12548717 sell 0.01 EURUSD at 1.13123 was modified -> sl: 1.13192 tp: 0.00000
+0	19:45:35.458	'1600030859': modify order #12548717 sell 0.01 EURUSD at 1.13123 sl: 1.13192 tp: 0.00000 -> sl: 1.13264 tp: 0.00000
+0	19:45:36.238	'1600030859': order #12548717 sell 0.01 EURUSD at 1.13123 was modified -> sl: 1.13264 tp: 0.00000
+0	19:45:44.818	'1600030859': modify order #12548717 sell 0.01 EURUSD at 1.13123 sl: 1.13264 tp: 0.00000 -> sl: 1.13264 tp: 1.11219
+0	19:45:45.696	'1600030859': order #12548717 sell 0.01 EURUSD at 1.13123 was modified -> sl: 1.13264 tp: 1.11219
+0	19:46:30.618	'1600030859': order sell market 0.01 EURUSD sl: 0.00000 tp: 0.00000
+0	19:46:31.537	'1600030859': order was opened : #12548741 sell 0.01 EURUSD at 1.13131 sl: 0.00000 tp: 0.00000
+0	19:46:44.754	'1600030859': modify order #12548717 sell 0.01 EURUSD at 1.13123 sl: 1.13264 tp: 1.11219 -> sl: 1.13263 tp: 1.11219
+0	19:46:45.549	'1600030859': order #12548717 sell 0.01 EURUSD at 1.13123 was modified -> sl: 1.13263 tp: 1.11219
+0	19:46:47.315	'1600030859': modify order #12548741 sell 0.01 EURUSD at 1.13131 sl: 0.00000 tp: 0.00000 -> sl: 1.13270 tp: 0.00000
+0	19:46:48.246	'1600030859': order #12548741 sell 0.01 EURUSD at 1.13131 was modified -> sl: 1.13270 tp: 0.00000
+0	19:46:55.714	'1600030859': modify order #12548741 sell 0.01 EURUSD at 1.13131 sl: 1.13270 tp: 0.00000 -> sl: 1.13270 tp: 1.12731
+0	19:46:56.487	'1600030859': order #12548741 sell 0.01 EURUSD at 1.13131 was modified -> sl: 1.13270 tp: 1.12731
+0	19:47:00.771	'1600030859': modify order #12548741 sell 0.01 EURUSD at 1.13131 sl: 1.13270 tp: 1.12731 -> sl: 1.13270 tp: 1.12738
+0	19:47:01.558	'1600030859': order #12548741 sell 0.01 EURUSD at 1.13131 was modified -> sl: 1.13270 tp: 1.12738
+0	19:47:04.491	'1600030859': modify order #12548741 sell 0.01 EURUSD at 1.13131 sl: 1.13270 tp: 1.12738 -> sl: 1.13270 tp: 1.12308
+0	19:47:05.290	'1600030859': order #12548741 sell 0.01 EURUSD at 1.13131 was modified -> sl: 1.13270 tp: 1.12308
+1	19:47:10.355	'1600030859': datacenter connecting failed [6]
+0	19:47:10.977	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 117.52 ms)
+0	19:47:12.441	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 117.52 ms)
+0	19:47:12.819	'1600030859': previous successful authorization performed from 190.238.103.98
+0	19:47:23.678	MetaTrader build 1170 stopped
+0	20:25:32.739	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	20:25:32.739	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11599 / 16250 Mb, Disk: 770 / 919 Gb, GMT-5
+0	20:25:32.739	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	20:25:36.492	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 117.52 ms)
+0	20:25:38.299	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 117.52 ms)
+0	20:25:38.881	'1600030859': previous successful authorization performed from 35.163.172.220
+0	20:26:41.666	MetaTrader build 1170 stopped
+0	20:45:40.780	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	20:45:40.780	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10932 / 16250 Mb, Disk: 769 / 919 Gb, GMT-5
+0	20:45:40.780	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	20:45:45.283	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 117.52 ms)
+0	20:45:53.870	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 117.52 ms)
+0	20:45:55.797	'1600030859': previous successful authorization performed from 190.238.103.98
+0	20:46:21.439	'1600030859': auto connecting to a better access point ICM-DC-EUS2 (ping is 195.93 ms)
+0	20:46:22.354	MetaTrader build 1170 stopped

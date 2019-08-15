@@ -1,0 +1,27 @@
+0	21:43:45.836	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	21:43:45.837	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11057 / 16250 Mb, Disk: 720 / 919 Gb, GMT-5
+0	21:43:45.837	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	21:43:51.591	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 116.59 ms)
+0	21:43:54.042	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 116.59 ms)
+0	21:43:54.516	'1600030859': previous successful authorization performed from 190.239.87.132
+2	21:44:09.603	Custom indicator Heiken Ashi AUDCAD,Daily: loaded successfully
+2	21:44:11.056	Custom indicator Heiken Ashi AUDCAD,Daily: removed
+0	21:44:20.921	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 127.21 ms)
+0	21:44:22.674	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 127.21 ms)
+0	21:44:24.351	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 127.21 ms)
+0	21:44:24.884	'1600030859': previous successful authorization performed from 190.233.137.73
+0	21:44:42.713	'1600030859': order buy market 0.01 AUDCAD sl: 0.00000 tp: 0.00000
+0	21:44:42.950	'1600030859': order was opened : #14750179 buy 0.01 AUDCAD at 0.91359 sl: 0.00000 tp: 0.00000
+0	21:44:51.318	'1600030859': modify order #14750179 buy 0.01 AUDCAD at 0.91359 sl: 0.00000 tp: 0.00000 -> sl: 0.91100 tp: 0.00000
+0	21:44:51.546	'1600030859': order #14750179 buy 0.01 AUDCAD at 0.91359 was modified -> sl: 0.91100 tp: 0.00000
+0	21:44:55.767	'1600030859': modify order #14750179 buy 0.01 AUDCAD at 0.91359 sl: 0.91100 tp: 0.00000 -> sl: 0.91100 tp: 0.92034
+0	21:44:55.996	'1600030859': order #14750179 buy 0.01 AUDCAD at 0.91359 was modified -> sl: 0.91100 tp: 0.92034
+0	21:46:21.079	'1600030859': order buy market 0.01 AUDUSD sl: 0.00000 tp: 0.00000
+0	21:46:21.292	'1600030859': order was opened : #14750234 buy 0.01 AUDUSD at 0.69873 sl: 0.00000 tp: 0.00000
+0	21:46:24.272	'1600030859': modify order #14750234 buy 0.01 AUDUSD at 0.69873 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.70427
+0	21:46:24.512	'1600030859': order #14750234 buy 0.01 AUDUSD at 0.69873 was modified -> sl: 0.00000 tp: 0.70427
+0	21:46:33.711	'1600030859': modify order #14750234 buy 0.01 AUDUSD at 0.69873 sl: 0.00000 tp: 0.70427 -> sl: 0.69543 tp: 0.70427
+0	21:46:34.046	'1600030859': order #14750234 buy 0.01 AUDUSD at 0.69873 was modified -> sl: 0.69543 tp: 0.70427
+0	21:46:44.416	'1600030859': modify order #14750234 buy 0.01 AUDUSD at 0.69873 sl: 0.69543 tp: 0.70427 -> sl: 0.69663 tp: 0.70427
+0	21:46:44.633	'1600030859': order #14750234 buy 0.01 AUDUSD at 0.69873 was modified -> sl: 0.69663 tp: 0.70427
+0	21:50:27.420	MetaTrader build 1170 stopped

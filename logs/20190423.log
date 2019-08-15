@@ -1,0 +1,60 @@
+0	19:20:10.834	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	19:20:10.835	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4073 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	19:20:10.835	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	19:20:19.843	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 145.18 ms)
+0	19:20:25.439	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 145.18 ms)
+0	19:20:25.888	'1600030859': previous successful authorization performed from 190.239.77.2
+0	19:20:49.212	'1600030859': auto connecting to a better access point ICM-DC-EUS2 (ping is 116.85 ms)
+0	19:20:52.486	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 116.85 ms)
+0	19:20:53.959	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 116.85 ms)
+0	19:20:54.495	'1600030859': previous successful authorization performed from 190.119.190.101
+0	19:22:56.004	'1600030859': order buy market 0.01 NZDCAD sl: 0.00000 tp: 0.00000
+0	19:22:56.345	'1600030859': order was opened : #6744052 buy 0.01 NZDCAD at 0.89383 sl: 0.00000 tp: 0.00000
+0	19:23:01.457	'1600030859': modify order #6744052 buy 0.01 NZDCAD at 0.89383 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 0.92408
+0	19:23:01.782	'1600030859': order #6744052 buy 0.01 NZDCAD at 0.89383 was modified -> sl: 0.00000 tp: 0.92408
+0	19:23:08.037	'1600030859': modify order #6744052 buy 0.01 NZDCAD at 0.89383 sl: 0.00000 tp: 0.92408 -> sl: 0.88932 tp: 0.92408
+0	19:23:08.308	'1600030859': order #6744052 buy 0.01 NZDCAD at 0.89383 was modified -> sl: 0.88932 tp: 0.92408
+0	19:23:29.401	MetaTrader build 1170 stopped
+0	19:54:28.493	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	19:54:28.493	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3904 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	19:54:28.493	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	19:54:34.691	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 116.85 ms)
+0	19:54:37.439	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 116.85 ms)
+0	19:54:37.976	'1600030859': previous successful authorization performed from 35.163.209.114
+0	19:54:42.444	MetaTrader build 1170 stopped
+0	20:36:47.490	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	20:36:47.490	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4163 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	20:36:47.490	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	20:36:52.152	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 116.85 ms)
+0	20:36:54.679	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 116.85 ms)
+0	20:36:55.076	'1600030859': previous successful authorization performed from 190.119.190.101
+0	20:37:24.863	'1600030859': auto connecting to a better access point NY4 DC 1 (ping is 109.47 ms)
+0	20:37:26.447	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 109.47 ms)
+0	20:37:27.893	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 109.47 ms)
+0	20:37:28.313	'1600030859': previous successful authorization performed from 190.119.190.101
+0	20:38:26.431	MetaTrader build 1170 stopped
+0	20:40:40.174	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	20:40:40.174	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3230 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	20:40:40.174	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	20:40:45.709	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 109.47 ms)
+0	20:40:48.016	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 109.47 ms)
+0	20:40:48.418	'1600030859': previous successful authorization performed from 190.239.77.2
+0	20:41:08.005	MetaTrader build 1170 stopped
+0	20:43:57.178	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	20:43:57.178	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3847 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	20:43:57.178	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	20:43:59.892	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 109.47 ms)
+0	20:44:02.171	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 109.47 ms)
+0	20:44:02.527	'1600030859': previous successful authorization performed from 190.119.190.101
+0	20:44:24.487	MetaTrader build 1170 stopped
+0	21:46:44.209	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	21:46:44.209	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4286 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	21:46:44.209	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	21:46:48.131	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 109.47 ms)
+0	21:46:50.465	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 109.47 ms)
+0	21:46:50.885	'1600030859': previous successful authorization performed from 190.239.77.2
+0	21:47:13.644	'1600030859': auto connecting to a better access point ICM-DC-EUS2 (ping is 120.46 ms)
+0	21:47:15.641	'1600030859': login on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 120.46 ms)
+0	21:47:17.211	'1600030859': login datacenter on ICMarkets-Live16 through ICM-DC-EUS2 (ping: 120.46 ms)
+0	21:47:17.712	'1600030859': previous successful authorization performed from 190.119.190.101
+0	21:51:33.868	MetaTrader build 1170 stopped

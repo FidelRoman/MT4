@@ -1,0 +1,39 @@
+0	01:22:58.663	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	01:22:58.663	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 5309 / 8058 Mb, Disk: 751 / 919 Gb, GMT-5
+0	01:22:58.663	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	01:23:05.972	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 118.50 ms)
+0	01:23:09.485	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 118.50 ms)
+0	01:23:10.029	'1600030859': previous successful authorization performed from 18.236.151.162
+0	01:23:30.835	'1600030859': order buy market 1.00 US500 sl: 0.00 tp: 0.00
+0	01:23:31.489	'1600030859': order was opened : #9742521 buy 1.00 US500 at 2845.30 sl: 0.00 tp: 0.00
+0	01:23:34.882	'1600030859': auto connecting to a better access point NY4 DC 1 (ping is 116.93 ms)
+0	01:23:36.742	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 116.93 ms)
+0	01:23:38.667	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 116.93 ms)
+0	01:23:39.087	'1600030859': previous successful authorization performed from 190.234.105.145
+0	01:23:40.304	'1600030859': modify order #9742521 buy 1.00 US500 at 2845.30 sl: 0.00 tp: 0.00 -> sl: 2831.74 tp: 0.00
+0	01:23:40.480	'1600030859': order #9742521 buy 1.00 US500 at 2845.30 was modified -> sl: 2831.74 tp: 0.00
+0	01:23:49.336	'1600030859': modify order #9742521 buy 1.00 US500 at 2845.30 sl: 2831.74 tp: 0.00 -> sl: 2830.97 tp: 0.00
+0	01:23:49.516	'1600030859': order #9742521 buy 1.00 US500 at 2845.30 was modified -> sl: 2830.97 tp: 0.00
+0	01:24:03.719	'1600030859': modify order #9742521 buy 1.00 US500 at 2845.30 sl: 2830.97 tp: 0.00 -> sl: 2830.97 tp: 2959.74
+0	01:24:03.905	'1600030859': order #9742521 buy 1.00 US500 at 2845.30 was modified -> sl: 2830.97 tp: 2959.74
+0	01:24:21.479	'1600030859': order sell market 0.02 XAUUSD sl: 0.00 tp: 0.00
+0	01:24:21.685	'1600030859': order was opened : #9742621 sell 0.02 XAUUSD at 1294.09 sl: 0.00 tp: 0.00
+0	01:24:25.952	'1600030859': modify order #9742621 sell 0.02 XAUUSD at 1294.09 sl: 0.00 tp: 0.00 -> sl: 1303.89 tp: 0.00
+0	01:24:26.146	'1600030859': order #9742621 sell 0.02 XAUUSD at 1294.09 was modified -> sl: 1303.89 tp: 0.00
+0	01:24:29.703	'1600030859': modify order #9742621 sell 0.02 XAUUSD at 1294.09 sl: 1303.89 tp: 0.00 -> sl: 1298.49 tp: 0.00
+0	01:24:29.878	'1600030859': order #9742621 sell 0.02 XAUUSD at 1294.09 was modified -> sl: 1298.49 tp: 0.00
+0	01:24:37.815	'1600030859': modify order #9742621 sell 0.02 XAUUSD at 1294.09 sl: 1298.49 tp: 0.00 -> sl: 1297.16 tp: 0.00
+0	01:24:37.992	'1600030859': order #9742621 sell 0.02 XAUUSD at 1294.09 was modified -> sl: 1297.16 tp: 0.00
+0	01:24:47.784	'1600030859': modify order #9742621 sell 0.02 XAUUSD at 1294.09 sl: 1297.16 tp: 0.00 -> sl: 1297.16 tp: 1266.53
+0	01:24:47.997	'1600030859': order #9742621 sell 0.02 XAUUSD at 1294.09 was modified -> sl: 1297.16 tp: 1266.53
+0	01:25:11.124	'1600030859': modify order #9742621 sell 0.02 XAUUSD at 1294.09 sl: 1297.16 tp: 1266.53 -> sl: 1297.16 tp: 1292.14
+0	01:25:11.299	'1600030859': order #9742621 sell 0.02 XAUUSD at 1294.09 was modified -> sl: 1297.16 tp: 1292.14
+0	01:25:19.752	'1600030859': close order #9742621 sell 0.02 XAUUSD at 1294.09 sl: 1297.16 tp: 1292.14 at price 0.00
+0	01:25:19.969	'1600030859': order #9742621 sell 0.02 XAUUSD at 1294.09 sl: 1297.16 tp: 1292.14 closed at price 1294.26
+0	01:25:36.102	'1600030859': order buy market 1.00 US500 sl: 0.00 tp: 0.00
+0	01:25:36.686	'1600030859': order was opened : #9742759 buy 1.00 US500 at 2846.10 sl: 0.00 tp: 0.00
+0	01:25:39.424	'1600030859': modify order #9742759 buy 1.00 US500 at 2846.10 sl: 0.00 tp: 0.00 -> sl: 2830.16 tp: 0.00
+0	01:25:39.623	'1600030859': order #9742759 buy 1.00 US500 at 2846.10 was modified -> sl: 2830.16 tp: 0.00
+0	01:25:50.248	'1600030859': modify order #9742759 buy 1.00 US500 at 2846.10 sl: 2830.16 tp: 0.00 -> sl: 2830.90 tp: 0.00
+0	01:25:50.432	'1600030859': order #9742759 buy 1.00 US500 at 2846.10 was modified -> sl: 2830.90 tp: 0.00
+0	01:25:53.978	MetaTrader build 1170 stopped

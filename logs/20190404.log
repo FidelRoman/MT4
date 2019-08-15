@@ -1,0 +1,26 @@
+0	12:30:57.847	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:30:57.847	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3145 / 8058 Mb, Disk: 789 / 919 Gb, GMT-5
+0	12:30:57.847	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	12:31:03.570	'1600030859': login on ICMarkets-Live16 through NY4 DC 2 (ping: 428.51 ms)
+0	12:31:06.145	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 2 (ping: 428.51 ms)
+0	12:31:06.794	'1600030859': previous successful authorization performed from 190.239.191.194
+0	12:31:38.805	'1600030859': auto connecting to a better access point NY4 DC 1 (ping is 119.09 ms)
+0	12:31:40.136	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 119.09 ms)
+0	12:31:41.716	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 119.09 ms)
+0	12:31:42.208	'1600030859': previous successful authorization performed from 190.239.191.84
+0	12:33:18.653	MetaTrader build 1170 stopped
+0	12:36:03.992	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	12:36:03.992	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3505 / 8058 Mb, Disk: 789 / 919 Gb, GMT-5
+0	12:36:03.992	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	12:36:06.746	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 119.09 ms)
+0	12:36:08.572	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 119.09 ms)
+0	12:36:09.269	'1600030859': previous successful authorization performed from 190.239.191.84
+0	13:14:03.845	MetaTrader build 1170 stopped
+0	18:55:19.308	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	18:55:19.308	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4347 / 8058 Mb, Disk: 788 / 919 Gb, GMT-5
+0	18:55:19.308	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	18:55:29.797	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 119.09 ms)
+0	18:56:02.581	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 119.09 ms)
+0	18:56:03.370	'1600030859': ping to current access point NY4 DC 1 is 110.59 ms
+1	18:56:04.011	MQL Base: failed connect to server
+0	18:56:04.487	MetaTrader build 1170 stopped

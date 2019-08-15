@@ -1,0 +1,204 @@
+0	00:10:52.790	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	00:10:52.790	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10900 / 16250 Mb, Disk: 713 / 919 Gb, GMT-5
+0	00:10:52.790	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	00:10:55.634	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 145.93 ms)
+0	00:10:57.391	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 145.93 ms)
+0	00:10:57.858	'1600030859': previous successful authorization performed from 190.234.120.77
+0	00:15:14.597	MetaTrader build 1170 stopped
+0	19:35:08.227	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	19:35:08.227	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 12642 / 16250 Mb, Disk: 713 / 919 Gb, GMT-5
+0	19:35:08.227	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	19:35:23.325	'1600030859': login on ICMarkets-Live16 through NY4 DC 1 (ping: 145.93 ms)
+0	19:35:27.305	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 1 (ping: 145.93 ms)
+0	19:35:27.874	'1600030859': previous successful authorization performed from 190.234.120.77
+0	19:35:55.448	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 137.28 ms)
+0	19:35:58.274	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 137.28 ms)
+0	19:35:59.850	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 137.28 ms)
+0	19:36:00.350	'1600030859': previous successful authorization performed from 190.234.120.77
+0	19:39:39.794	'1600030859': order sell market 0.05 NZDCAD sl: 0.00000 tp: 0.00000
+0	19:39:40.079	'1600030859': order was opened : #15779887 sell 0.05 NZDCAD at 0.88413 sl: 0.00000 tp: 0.00000
+0	19:39:46.146	'1600030859': modify order #15779887 sell 0.05 NZDCAD at 0.88413 sl: 0.00000 tp: 0.00000 -> sl: 0.88469 tp: 0.00000
+0	19:39:46.531	'1600030859': order #15779887 sell 0.05 NZDCAD at 0.88413 was modified -> sl: 0.88469 tp: 0.00000
+0	19:39:56.984	'1600030859': modify order #15779887 sell 0.05 NZDCAD at 0.88413 sl: 0.88469 tp: 0.00000 -> sl: 0.88516 tp: 0.00000
+0	19:39:57.238	'1600030859': order #15779887 sell 0.05 NZDCAD at 0.88413 was modified -> sl: 0.88516 tp: 0.00000
+0	19:40:11.207	'1600030859': modify order #15779887 sell 0.05 NZDCAD at 0.88413 sl: 0.88516 tp: 0.00000 -> sl: 0.88516 tp: 0.86632
+0	19:40:11.488	'1600030859': order #15779887 sell 0.05 NZDCAD at 0.88413 was modified -> sl: 0.88516 tp: 0.86632
+0	19:41:08.710	'1600030859': order buy market 0.05 EURUSD sl: 0.00000 tp: 0.00000
+0	19:41:08.945	'1600030859': order was opened : #15779926 buy 0.05 EURUSD at 1.12063 sl: 0.00000 tp: 0.00000
+0	19:41:12.142	'1600030859': modify order #15779926 buy 0.05 EURUSD at 1.12063 sl: 0.00000 tp: 0.00000 -> sl: 1.12022 tp: 0.00000
+0	19:41:12.344	'1600030859': order #15779926 buy 0.05 EURUSD at 1.12063 was modified -> sl: 1.12022 tp: 0.00000
+0	19:41:24.782	'1600030859': modify order #15779926 buy 0.05 EURUSD at 1.12063 sl: 1.12022 tp: 0.00000 -> sl: 1.12021 tp: 0.00000
+0	19:41:24.996	'1600030859': order #15779926 buy 0.05 EURUSD at 1.12063 was modified -> sl: 1.12021 tp: 0.00000
+0	19:43:16.551	'1600030859': modify order #15779926 buy 0.05 EURUSD at 1.12063 sl: 1.12021 tp: 0.00000 -> sl: 1.12021 tp: 1.12809
+0	19:43:16.747	'1600030859': order #15779926 buy 0.05 EURUSD at 1.12063 was modified -> sl: 1.12021 tp: 1.12809
+0	19:48:57.229	'1600030859': modify order #15779887 sell 0.05 NZDCAD at 0.88413 sl: 0.88516 tp: 0.86632 -> sl: 0.88516 tp: 0.87690
+0	19:48:57.463	'1600030859': order #15779887 sell 0.05 NZDCAD at 0.88413 was modified -> sl: 0.88516 tp: 0.87690
+0	19:56:12.645	'1600030859': modify order #15779887 sell 0.05 NZDCAD at 0.88413 sl: 0.88516 tp: 0.87690 -> sl: 0.88555 tp: 0.87690
+0	19:56:12.847	'1600030859': order #15779887 sell 0.05 NZDCAD at 0.88413 was modified -> sl: 0.88555 tp: 0.87690
+0	20:00:25.595	'1600030859': order #15779926 buy 0.05 EURUSD at 1.12063 closed due stop-loss at price 1.12021
+0	20:01:40.253	'1600030859': order sell market 0.02 XAUUSD sl: 0.00 tp: 0.00
+0	20:01:40.517	'1600030859': order was opened : #15781936 sell 0.02 XAUUSD at 1419.70 sl: 0.00 tp: 0.00
+0	20:01:46.958	'1600030859': modify order #15781936 sell 0.02 XAUUSD at 1419.70 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1400.27
+0	20:01:47.190	'1600030859': order #15781936 sell 0.02 XAUUSD at 1419.70 was modified -> sl: 0.00 tp: 1400.27
+0	20:01:57.164	'1600030859': order sell market 0.02 XAUUSD sl: 0.00 tp: 0.00
+0	20:01:57.447	'1600030859': order was opened : #15781977 sell 0.02 XAUUSD at 1419.65 sl: 0.00 tp: 0.00
+0	20:03:24.424	'1600030859': modify order #15781936 sell 0.02 XAUUSD at 1419.70 sl: 0.00 tp: 1400.27 -> sl: 0.00 tp: 1400.00
+0	20:03:24.754	'1600030859': order #15781936 sell 0.02 XAUUSD at 1419.70 was modified -> sl: 0.00 tp: 1400.00
+0	20:03:37.528	'1600030859': modify order #15781977 sell 0.02 XAUUSD at 1419.65 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1400.00
+0	20:03:38.092	'1600030859': order #15781977 sell 0.02 XAUUSD at 1419.65 was modified -> sl: 0.00 tp: 1400.00
+0	20:04:56.465	'1600030859': modify order #15781936 sell 0.02 XAUUSD at 1419.70 sl: 0.00 tp: 1400.00 -> sl: 1421.26 tp: 1400.00
+0	20:04:56.702	'1600030859': order #15781936 sell 0.02 XAUUSD at 1419.70 was modified -> sl: 1421.26 tp: 1400.00
+0	20:04:59.245	'1600030859': modify order #15781977 sell 0.02 XAUUSD at 1419.65 sl: 0.00 tp: 1400.00 -> sl: 1421.56 tp: 1400.00
+0	20:04:59.458	'1600030859': order #15781977 sell 0.02 XAUUSD at 1419.65 was modified -> sl: 1421.56 tp: 1400.00
+0	20:06:52.429	'1600030859': modify order #15781936 sell 0.02 XAUUSD at 1419.70 sl: 1421.26 tp: 1400.00 -> sl: 1421.26 tp: 1359.07
+0	20:06:52.626	'1600030859': order #15781936 sell 0.02 XAUUSD at 1419.70 was modified -> sl: 1421.26 tp: 1359.07
+0	20:11:04.843	'1600030859': modify order #15781936 sell 0.02 XAUUSD at 1419.70 sl: 1421.26 tp: 1359.07 -> sl: 1421.26 tp: 1387.97
+0	20:11:05.153	'1600030859': order #15781936 sell 0.02 XAUUSD at 1419.70 was modified -> sl: 1421.26 tp: 1387.97
+0	20:14:39.337	'1600030859': modify order #15781977 sell 0.02 XAUUSD at 1419.65 sl: 1421.56 tp: 1400.00 -> sl: 1421.56 tp: 1408.23
+0	20:14:39.563	'1600030859': order #15781977 sell 0.02 XAUUSD at 1419.65 was modified -> sl: 1421.56 tp: 1408.23
+0	20:14:42.332	'1600030859': modify order #15781977 sell 0.02 XAUUSD at 1419.65 sl: 1421.56 tp: 1408.23 -> sl: 1421.56 tp: 1409.70
+0	20:14:42.573	'1600030859': order #15781977 sell 0.02 XAUUSD at 1419.65 was modified -> sl: 1421.56 tp: 1409.70
+0	20:14:46.716	'1600030859': modify order #15781977 sell 0.02 XAUUSD at 1419.65 sl: 1421.56 tp: 1409.70 -> sl: 1421.56 tp: 1401.31
+0	20:14:46.918	'1600030859': order #15781977 sell 0.02 XAUUSD at 1419.65 was modified -> sl: 1421.56 tp: 1401.31
+0	20:15:49.940	'1600030859': order sell market 0.02 XAUUSD sl: 0.00 tp: 0.00
+0	20:15:50.201	'1600030859': order was opened : #15783899 sell 0.02 XAUUSD at 1418.42 sl: 0.00 tp: 0.00
+0	20:15:57.529	'1600030859': modify order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 0.00 tp: 0.00 -> sl: 1420.37 tp: 0.00
+0	20:15:57.790	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 was modified -> sl: 1420.37 tp: 0.00
+0	20:17:31.411	'1600030859': modify order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1420.37 tp: 0.00 -> sl: 1420.37 tp: 1403.41
+0	20:17:31.639	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 was modified -> sl: 1420.37 tp: 1403.41
+0	20:17:36.927	'1600030859': modify order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1420.37 tp: 1403.41 -> sl: 1420.37 tp: 1409.80
+0	20:17:37.316	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 was modified -> sl: 1420.37 tp: 1409.80
+0	20:20:02.176	'1600030859': modify order #15781936 sell 0.02 XAUUSD at 1419.70 sl: 1421.26 tp: 1387.97 -> sl: 1420.56 tp: 1387.97
+0	20:20:02.413	'1600030859': order #15781936 sell 0.02 XAUUSD at 1419.70 was modified -> sl: 1420.56 tp: 1387.97
+0	20:20:04.740	'1600030859': modify order #15781936 sell 0.02 XAUUSD at 1419.70 sl: 1420.56 tp: 1387.97 -> sl: 1420.83 tp: 1387.97
+0	20:20:04.988	'1600030859': order #15781936 sell 0.02 XAUUSD at 1419.70 was modified -> sl: 1420.83 tp: 1387.97
+0	20:20:14.317	'1600030859': modify order #15781977 sell 0.02 XAUUSD at 1419.65 sl: 1421.56 tp: 1401.31 -> sl: 1421.09 tp: 1401.31
+0	20:20:14.496	'1600030859': order #15781977 sell 0.02 XAUUSD at 1419.65 was modified -> sl: 1421.09 tp: 1401.31
+0	20:22:27.131	'1600030859': modify order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1420.37 tp: 1409.80 -> sl: 1420.36 tp: 1409.80
+0	20:22:27.338	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 was modified -> sl: 1420.36 tp: 1409.80
+0	20:22:32.116	'1600030859': modify order #15781936 sell 0.02 XAUUSD at 1419.70 sl: 1420.83 tp: 1387.97 -> sl: 1419.68 tp: 1387.97
+0	20:22:32.321	'1600030859': order #15781936 sell 0.02 XAUUSD at 1419.70 was modified -> sl: 1419.68 tp: 1387.97
+0	20:23:01.076	'1600030859': modify order #15781977 sell 0.02 XAUUSD at 1419.65 sl: 1421.09 tp: 1401.31 -> sl: 1419.60 tp: 1401.31
+0	20:23:01.320	'1600030859': order #15781977 sell 0.02 XAUUSD at 1419.65 was modified -> sl: 1419.60 tp: 1401.31
+0	20:23:17.804	'1600030859': modify order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1420.36 tp: 1409.80 -> sl: 1419.68 tp: 1409.80
+0	20:23:18.022	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 was modified -> sl: 1419.68 tp: 1409.80
+0	20:24:21.933	'1600030859': close order #15779887 sell 0.05 NZDCAD at 0.88413 sl: 0.88555 tp: 0.87690 at price 0.00000
+0	20:24:22.191	'1600030859': order #15779887 sell 0.05 NZDCAD at 0.88413 sl: 0.88555 tp: 0.87690 closed at price 0.88466
+0	20:24:58.053	'1600030859': modify order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1419.68 tp: 1409.80 -> sl: 1419.68 tp: 1405.11
+0	20:24:58.290	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 was modified -> sl: 1419.68 tp: 1405.11
+0	20:26:11.244	'1600030859': modify order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1419.68 tp: 1405.11 -> sl: 1418.66 tp: 1405.11
+0	20:26:11.925	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 was modified -> sl: 1418.66 tp: 1405.11
+0	20:26:18.148	'1600030859': modify order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1418.66 tp: 1405.11 -> sl: 1418.40 tp: 1405.11
+0	20:26:18.337	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 was modified -> sl: 1418.40 tp: 1405.11
+0	20:26:19.068	'1600030859': modify order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1418.40 tp: 1405.11 -> sl: 1418.45 tp: 1405.11
+0	20:26:19.242	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 was modified -> sl: 1418.45 tp: 1405.11
+0	20:30:29.717	'1600030859': modify order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1418.45 tp: 1405.11 -> sl: 1419.16 tp: 1405.11
+0	20:30:29.924	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 was modified -> sl: 1419.16 tp: 1405.11
+0	20:31:02.217	'1600030859': close order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1419.16 tp: 1405.11 at price 0.00
+0	20:31:02.428	'1600030859': order #15783899 sell 0.02 XAUUSD at 1418.42 sl: 1419.16 tp: 1405.11 closed at price 1418.13
+0	20:36:56.011	'1600030859': close order #15781936 sell 0.02 XAUUSD at 1419.70 sl: 1419.68 tp: 1387.97 at price 0.00
+0	20:36:56.267	'1600030859': order #15781936 sell 0.02 XAUUSD at 1419.70 sl: 1419.68 tp: 1387.97 closed at price 1418.22
+0	20:36:57.036	'1600030859': close order #15781977 sell 0.02 XAUUSD at 1419.65 sl: 1419.60 tp: 1401.31 at price 0.00
+0	20:36:57.297	'1600030859': order #15781977 sell 0.02 XAUUSD at 1419.65 sl: 1419.60 tp: 1401.31 closed at price 1418.23
+0	20:37:41.347	'1600030859': order buy market 0.02 XAUUSD sl: 0.00 tp: 0.00
+0	20:37:41.596	'1600030859': order was opened : #15784822 buy 0.02 XAUUSD at 1418.12 sl: 0.00 tp: 0.00
+0	20:37:46.791	'1600030859': modify order #15784822 buy 0.02 XAUUSD at 1418.12 sl: 0.00 tp: 0.00 -> sl: 1415.84 tp: 0.00
+0	20:37:47.018	'1600030859': order #15784822 buy 0.02 XAUUSD at 1418.12 was modified -> sl: 1415.84 tp: 0.00
+0	20:37:52.268	'1600030859': modify order #15784822 buy 0.02 XAUUSD at 1418.12 sl: 1415.84 tp: 0.00 -> sl: 1415.84 tp: 1430.55
+0	20:37:52.451	'1600030859': order #15784822 buy 0.02 XAUUSD at 1418.12 was modified -> sl: 1415.84 tp: 1430.55
+0	20:37:55.883	'1600030859': modify order #15784822 buy 0.02 XAUUSD at 1418.12 sl: 1415.84 tp: 1430.55 -> sl: 1415.84 tp: 1430.13
+0	20:37:56.224	'1600030859': order #15784822 buy 0.02 XAUUSD at 1418.12 was modified -> sl: 1415.84 tp: 1430.13
+0	20:38:09.171	'1600030859': order buy market 0.05 EURUSD sl: 0.00000 tp: 0.00000
+0	20:38:09.532	'1600030859': order was opened : #15784836 buy 0.05 EURUSD at 1.11996 sl: 0.00000 tp: 0.00000
+0	20:38:12.907	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 0.00000 tp: 0.00000 -> sl: 1.11888 tp: 0.00000
+0	20:38:13.094	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11888 tp: 0.00000
+0	20:39:15.900	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11888 tp: 0.00000 -> sl: 1.11888 tp: 1.12260
+0	20:39:16.157	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11888 tp: 1.12260
+0	20:39:22.843	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11888 tp: 1.12260 -> sl: 1.11888 tp: 1.12786
+0	20:39:23.075	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11888 tp: 1.12786
+0	20:39:26.699	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11888 tp: 1.12786 -> sl: 1.11888 tp: 1.12832
+0	20:39:26.948	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11888 tp: 1.12832
+0	20:44:45.843	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11888 tp: 1.12832 -> sl: 1.11938 tp: 1.12832
+0	20:44:46.047	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11938 tp: 1.12832
+0	20:44:49.597	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11938 tp: 1.12832 -> sl: 1.11941 tp: 1.12832
+0	20:44:49.919	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11941 tp: 1.12832
+0	20:48:48.651	'1600030859': modify order #15784822 buy 0.02 XAUUSD at 1418.12 sl: 1415.84 tp: 1430.13 -> sl: 1415.71 tp: 1430.13
+0	20:48:48.900	'1600030859': order #15784822 buy 0.02 XAUUSD at 1418.12 was modified -> sl: 1415.71 tp: 1430.13
+0	20:49:50.026	'1600030859': close order #15784822 buy 0.02 XAUUSD at 1418.12 sl: 1415.71 tp: 1430.13 at price 0.00
+0	20:49:50.303	'1600030859': order #15784822 buy 0.02 XAUUSD at 1418.12 sl: 1415.71 tp: 1430.13 closed at price 1418.12
+0	20:50:20.705	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11941 tp: 1.12832 -> sl: 1.11941 tp: 1.12763
+0	20:50:20.948	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11941 tp: 1.12763
+0	20:50:35.818	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11941 tp: 1.12763 -> sl: 1.11958 tp: 1.12763
+0	20:50:36.058	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11958 tp: 1.12763
+0	21:04:43.711	'1600030859': order buy market 0.02 EURGBP sl: 0.00000 tp: 0.00000
+0	21:04:43.957	'1600030859': order was opened : #15786172 buy 0.02 EURGBP at 0.89842 sl: 0.00000 tp: 0.00000
+0	21:04:51.269	'1600030859': modify order #15786172 buy 0.02 EURGBP at 0.89842 sl: 0.00000 tp: 0.00000 -> sl: 0.89531 tp: 0.00000
+0	21:04:51.500	'1600030859': order #15786172 buy 0.02 EURGBP at 0.89842 was modified -> sl: 0.89531 tp: 0.00000
+0	21:05:11.146	'1600030859': modify order #15786172 buy 0.02 EURGBP at 0.89842 sl: 0.89531 tp: 0.00000 -> sl: 0.89531 tp: 0.90361
+0	21:05:11.389	'1600030859': order #15786172 buy 0.02 EURGBP at 0.89842 was modified -> sl: 0.89531 tp: 0.90361
+0	21:05:40.318	'1600030859': modify order #15786172 buy 0.02 EURGBP at 0.89842 sl: 0.89531 tp: 0.90361 -> sl: 0.89770 tp: 0.90361
+0	21:05:40.549	'1600030859': order #15786172 buy 0.02 EURGBP at 0.89842 was modified -> sl: 0.89770 tp: 0.90361
+0	21:07:09.434	'1600030859': order sell market 0.02 XAUUSD sl: 0.00 tp: 0.00
+0	21:07:09.673	'1600030859': order was opened : #15786208 sell 0.02 XAUUSD at 1418.66 sl: 0.00 tp: 0.00
+0	21:07:19.298	'1600030859': modify order #15786208 sell 0.02 XAUUSD at 1418.66 sl: 0.00 tp: 0.00 -> sl: 1419.73 tp: 0.00
+0	21:07:19.558	'1600030859': order #15786208 sell 0.02 XAUUSD at 1418.66 was modified -> sl: 1419.73 tp: 0.00
+0	21:07:31.082	'1600030859': modify order #15786208 sell 0.02 XAUUSD at 1418.66 sl: 1419.73 tp: 0.00 -> sl: 1419.73 tp: 1400.63
+0	21:07:31.317	'1600030859': order #15786208 sell 0.02 XAUUSD at 1418.66 was modified -> sl: 1419.73 tp: 1400.63
+0	21:08:06.658	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11958 tp: 1.12763 -> sl: 1.11956 tp: 1.12763
+0	21:08:06.973	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11956 tp: 1.12763
+0	21:10:31.354	'1600030859': close order #15786208 sell 0.02 XAUUSD at 1418.66 sl: 1419.73 tp: 1400.63 at price 0.00
+0	21:10:31.675	'1600030859': order #15786208 sell 0.02 XAUUSD at 1418.66 sl: 1419.73 tp: 1400.63 closed at price 1419.47
+0	21:10:37.041	'1600030859': order buy market 0.02 XAUUSD sl: 0.00 tp: 0.00
+0	21:10:37.310	'1600030859': order was opened : #15786272 buy 0.02 XAUUSD at 1419.47 sl: 0.00 tp: 0.00
+0	21:10:42.281	'1600030859': modify order #15786272 buy 0.02 XAUUSD at 1419.47 sl: 0.00 tp: 0.00 -> sl: 1415.86 tp: 0.00
+0	21:10:42.496	'1600030859': order #15786272 buy 0.02 XAUUSD at 1419.47 was modified -> sl: 1415.86 tp: 0.00
+0	21:10:47.690	'1600030859': modify order #15786272 buy 0.02 XAUUSD at 1419.47 sl: 1415.86 tp: 0.00 -> sl: 1415.86 tp: 1452.32
+0	21:10:47.940	'1600030859': order #15786272 buy 0.02 XAUUSD at 1419.47 was modified -> sl: 1415.86 tp: 1452.32
+0	21:11:01.890	'1600030859': order buy market 0.05 EURUSD sl: 0.00000 tp: 0.00000
+0	21:11:02.138	'1600030859': order was opened : #15786283 buy 0.05 EURUSD at 1.11996 sl: 0.00000 tp: 0.00000
+0	21:11:11.801	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11956 tp: 1.12763 -> sl: 1.11948 tp: 1.12763
+0	21:11:12.043	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11948 tp: 1.12763
+0	21:11:28.195	'1600030859': modify order #15786283 buy 0.05 EURUSD at 1.11996 sl: 0.00000 tp: 0.00000 -> sl: 1.11960 tp: 0.00000
+0	21:11:28.792	'1600030859': order #15786283 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11960 tp: 0.00000
+0	21:11:32.801	'1600030859': modify order #15786283 buy 0.05 EURUSD at 1.11996 sl: 1.11960 tp: 0.00000 -> sl: 1.11953 tp: 0.00000
+0	21:11:32.999	'1600030859': order #15786283 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11953 tp: 0.00000
+0	21:12:14.850	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11948 tp: 1.12763 -> sl: 1.11939 tp: 1.12763
+0	21:12:15.190	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11939 tp: 1.12763
+0	21:12:17.930	'1600030859': modify order #15786283 buy 0.05 EURUSD at 1.11996 sl: 1.11953 tp: 0.00000 -> sl: 1.11940 tp: 0.00000
+0	21:12:18.266	'1600030859': order #15786283 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11940 tp: 0.00000
+0	21:13:47.409	'1600030859': order sell market 0.02 GBPAUD sl: 0.00000 tp: 0.00000
+0	21:13:47.680	'1600030859': order was opened : #15786357 sell 0.02 GBPAUD at 1.77371 sl: 0.00000 tp: 0.00000
+0	21:14:05.029	'1600030859': modify order #15786357 sell 0.02 GBPAUD at 1.77371 sl: 0.00000 tp: 0.00000 -> sl: 1.78000 tp: 1.76300
+0	21:14:05.267	'1600030859': order #15786357 sell 0.02 GBPAUD at 1.77371 was modified -> sl: 1.78000 tp: 1.76300
+0	21:18:09.675	'1600030859': modify order #15786272 buy 0.02 XAUUSD at 1419.47 sl: 1415.86 tp: 1452.32 -> sl: 1415.59 tp: 1452.32
+0	21:18:09.888	'1600030859': order #15786272 buy 0.02 XAUUSD at 1419.47 was modified -> sl: 1415.59 tp: 1452.32
+0	21:22:47.049	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11939 tp: 1.12763 -> sl: 1.11791 tp: 1.12763
+0	21:22:47.256	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11791 tp: 1.12763
+0	21:22:57.345	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11791 tp: 1.12763 -> sl: 1.11913 tp: 1.12763
+0	21:22:57.606	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11913 tp: 1.12763
+0	21:23:05.177	'1600030859': modify order #15784836 buy 0.05 EURUSD at 1.11996 sl: 1.11913 tp: 1.12763 -> sl: 1.11936 tp: 1.12763
+0	21:23:05.412	'1600030859': order #15784836 buy 0.05 EURUSD at 1.11996 was modified -> sl: 1.11936 tp: 1.12763
+1	21:29:25.330	'1600030859': ping failed
+1	21:29:25.334	'1600030859': datacenter connecting failed [6]
+0	21:29:26.049	'1600030859': login on ICMarkets-Live16 through NY4 DC 2 (ping: 122.98 ms)
+0	21:29:28.204	'1600030859': login datacenter on ICMarkets-Live16 through NY4 DC 2 (ping: 122.98 ms)
+0	21:29:28.681	'1600030859': previous successful authorization performed from 54.213.239.102
+0	21:29:57.111	'1600030859': auto connecting to a better access point Vir_DC01_AWS (ping is 124.97 ms)
+0	21:29:58.669	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 124.97 ms)
+0	21:30:00.460	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 124.97 ms)
+0	21:30:01.063	'1600030859': previous successful authorization performed from 190.234.120.77
+0	21:33:56.330	MetaTrader build 1170 stopped
+0	21:34:06.445	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	21:34:06.445	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 10679 / 16250 Mb, Disk: 713 / 919 Gb, GMT-5
+0	21:34:06.445	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	21:34:09.962	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 124.97 ms)
+0	21:34:12.060	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 124.97 ms)
+0	21:34:12.548	'1600030859': previous successful authorization performed from 190.234.120.77
+0	21:36:06.052	MetaTrader build 1170 stopped
+0	21:43:26.052	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	21:43:26.052	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 11778 / 16250 Mb, Disk: 713 / 919 Gb, GMT-5
+0	21:43:26.052	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	21:43:32.988	'1600030859': login on ICMarkets-Live16 through Vir_DC01_AWS (ping: 124.97 ms)
+0	21:43:35.673	'1600030859': login datacenter on ICMarkets-Live16 through Vir_DC01_AWS (ping: 124.97 ms)
+0	21:43:36.183	'1600030859': previous successful authorization performed from 190.234.120.77
+0	21:44:31.180	MetaTrader build 1170 stopped

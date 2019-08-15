@@ -1,0 +1,11 @@
+0	22:04:06.469	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	22:04:06.469	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4012 / 8058 Mb, Disk: 792 / 919 Gb, GMT-5
+0	22:04:06.469	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	22:04:09.930	'1061950': login on Pepperstone-Demo01 through NY DC2 (ping: 150.35 ms)
+0	22:04:27.541	'1061950': login datacenter on Pepperstone-Demo01 through NY DC2 (ping: 150.35 ms)
+0	22:04:29.646	'1061950': previous successful authorization performed from 190.237.41.106
+0	22:04:38.678	'1061950': auto connecting to a better access point NY DC (ping is 153.85 ms)
+0	22:04:39.501	'1061950': login on Pepperstone-Demo01 through NY DC (ping: 153.85 ms)
+0	22:04:49.438	'1061950': login datacenter on Pepperstone-Demo01 through NY DC (ping: 153.85 ms)
+0	22:04:51.455	'1061950': previous successful authorization performed from 190.237.41.106
+0	22:08:16.120	MetaTrader build 1170 stopped

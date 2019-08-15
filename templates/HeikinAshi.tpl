@@ -1,9 +1,9 @@
 <chart>
-id=131953650510699808
-symbol=XAUUSD
-period=240
-leftpos=1842
-digits=2
+id=132066018072369844
+symbol=EURGBP
+period=10080
+leftpos=853
+digits=5
 scale=8
 graph=1
 fore=0
@@ -19,10 +19,10 @@ days=0
 descriptions=0
 shift_size=20
 fixed_pos=0
-window_left=130
-window_top=130
-window_right=1629
-window_bottom=666
+window_left=208
+window_top=208
+window_right=1608
+window_bottom=715
 window_type=3
 background_color=16448255
 foreground_color=0
@@ -34,7 +34,7 @@ chartline_color=0
 volumes_color=32768
 grid_color=12632256
 askline_color=17919
-stops_color=4294967295
+stops_color=17919
 
 <window>
 height=131
@@ -51,8 +51,8 @@ window_num=0
 <inputs>
 ExtColor1=0
 ExtColor2=0
-ExtColor3=8478258
-ExtColor4=6053069
+ExtColor3=6053069
+ExtColor4=8478258
 </inputs>
 </expert>
 shift_0=0
@@ -67,12 +67,12 @@ style_1=0
 weight_1=1
 shift_2=0
 draw_2=2
-color_2=8478258
+color_2=6053069
 style_2=0
 weight_2=3
 shift_3=0
 draw_3=2
-color_3=6053069
+color_3=8478258
 style_3=0
 weight_3=3
 period_flags=0

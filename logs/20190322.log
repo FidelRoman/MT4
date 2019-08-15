@@ -1,0 +1,32 @@
+0	21:23:48.476	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	21:23:48.476	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 4460 / 8058 Mb, Disk: 795 / 919 Gb, GMT-5
+0	21:23:48.476	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	21:23:54.088	'43036059': login on XMGlobal-Real 33 through REAL33 - DC10 (ping: 204.52 ms)
+0	21:24:05.297	'43036059': auto connecting to a better access point REAL33 - DC01 (ping is n/a)
+1	21:24:05.501	MQL5.community: authorization failed
+0	21:24:11.989	'43036059': login on XMGlobal-Real 33 through REAL33 - DC01 (ping: n/a)
+0	21:24:15.784	'43036059': login datacenter on XMGlobal-Real 33 through REAL33 - DC01 (ping: n/a)
+0	21:24:16.709	'43036059': previous successful authorization performed from 201.240.146.252
+1	21:24:36.053	'43036059': ping failed
+1	21:24:36.054	'43036059': datacenter connecting failed [6]
+1	21:24:36.635	'43036059': connect failed [No connection]
+0	21:24:40.305	'43036059': auto connecting to a better access point REAL33 - DC02 (ping is 283.61 ms)
+0	21:25:04.516	'43036059': login on XMGlobal-Real 33 through REAL33 - DC02 (ping: 283.61 ms)
+0	21:25:10.441	'43036059': previous successful authorization performed from 190.239.73.95
+0	21:25:35.655	MetaTrader build 1170 stopped
+0	21:39:15.000	MetaTrader build 1170 started (Pepperstone Group Limited)
+0	21:39:15.001	Windows 10 Home Single Language x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 3614 / 8058 Mb, Disk: 796 / 919 Gb, GMT-5
+0	21:39:15.001	Data Folder: C:\Users\Fidel\AppData\Roaming\MetaQuotes\Terminal\3294B546D50FEEDA6BF3CFC7CF858DB7
+0	21:39:19.616	'43036059': login on XMGlobal-Real 33 through REAL33 - DC02 (ping: 283.61 ms)
+0	21:39:24.611	'43036059': previous successful authorization performed from 190.239.73.95
+0	22:08:53.965	'43036059': login on XMGlobal-Real 33 through REAL33 - DC02 (ping: 283.61 ms)
+0	22:10:01.351	'43036059': login on XMGlobal-Real 33 through REAL33 - DC01 (ping: n/a)
+0	22:11:07.130	'43036059': login on XMGlobal-Real 33 through REAL33 - DC01 (ping: n/a)
+0	22:11:15.861	'43036059': login datacenter on XMGlobal-Real 33 through REAL33 - DC01 (ping: n/a)
+0	22:11:16.786	'43036059': previous successful authorization performed from 190.239.73.95
+1	22:11:52.986	'1061950': connect failed [Invalid account]
+0	22:12:08.684	'1078623': login on Pepperstone-Demo01 through NY DC (ping: 143.67 ms)
+0	22:12:10.061	'43036059': ping to current access point REAL33 - DC01 is 484.01 ms
+0	22:12:11.086	'1078623': login datacenter on Pepperstone-Demo01 through NY DC (ping: 143.67 ms)
+0	22:12:11.895	'1078623': previous successful authorization performed from 190.216.168.14
+0	22:13:51.210	MetaTrader build 1170 stopped
